@@ -6,9 +6,9 @@ When you add your token to a Liquidity Pool you will receive Liquidity Provider 
 
 ## LP Tokens
 
-As an example, if you deposited **CAKE** and **BNB** into a Liquidity Pool, you'd receive **CAKE-BNB LP** tokens.
+As an example, if you deposited HOPE and MATIC into a Liquidity Pool, you'd receive HOPE**-MATIC LP** tokens.
 
-The number of LP tokens you receive represents your portion of the CAKE-BNB Liquidity Pool.&#x20;
+The number of LP tokens you receive represents your portion of the HOPE-MATIC Liquidity Pool.
 
 You can also redeem your funds at any time by removing your liquidity.
 
@@ -16,18 +16,18 @@ You can also redeem your funds at any time by removing your liquidity.
 
 ## Liquidity Providers earn trading fees
 
-Providing liquidity gives you a reward in the form of trading fees when people use your liquidity pool.&#x20;
+Providing liquidity gives you a reward in the form of trading fees when people use your liquidity pool.
 
-Whenever someone trades on PancakeSwap, the trader pays a 0.25% fee, **of which 0.17%** is added to the Liquidity Pool of the swap pair they traded on.
+Whenever someone trades on HopiumSwap, the trader pays a 0.25% fee, **of which 0.17%** is added to the Liquidity Pool of the swap pair they traded on.
 
 For example:
 
-* There are 10 LP tokens representing 10 CAKE and 10 BNB tokens.
-* 1 LP token = 1 CAKE + 1 BNB
-* Someone trades 10 CAKE for 10 BNB.
-* Someone else trades 10 BNB for 10 CAKE.
-* The CAKE/BNB liquidity pool now has 10.017 CAKE and 10.017 BNB.
-* Each LP token is now worth 1.00017 CAKE + 1.00017 BNB.
+* There are 10 LP tokens representing 10 HOPE and 10 MATIC tokens.
+* 1 LP token = 1 HOPE + 1 MATIC
+* Someone trades 10 HOPE for 10 MATIC.
+* Someone else trades 10 MATIC for 10 HOPE.
+* The HOPE/MATIC liquidity pool now has 10.017 HOPE and 10.017 MATIC.
+* Each LP token is now worth 1.00017 HOPE + 1.00017 MATIC.
 
 To make being a liquidity provider even more worth your while, you can also put your LP tokens to work whipping up some fresh yield on the [CAKE Farms](https://pancakeswap.finance/farms), while still earning your 0.17% trading fee reward.
 

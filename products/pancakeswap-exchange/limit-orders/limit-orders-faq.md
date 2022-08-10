@@ -8,7 +8,7 @@ Use the sidebar to quickly find the answers to your questions!
 
 ### Why was my order not executed?
 
-Limit orders are executed when they reach their desired price, however, due to gas fluctuations, the actual execution price might vary from the price you specified on the interface. Usually, the execution price and the desired price should be almost identical, however, if you submitted a particularly small order (\~<1000$) the execution price might be slightly higher to account for fees.&#x20;
+Limit orders are executed when they reach their desired price, however, due to gas fluctuations, the actual execution price might vary from the price you specified on the interface. Usually, the execution price and the desired price should be almost identical, however, if you submitted a particularly small order (\~<1000$) the execution price might be slightly higher to account for fees.
 
 Therefore your order may not be executed because:
 
@@ -27,11 +27,11 @@ Please note: the order history table gets the data from Subgraph and can show sl
 
 ### How do I set slippage while using limit orders?
 
-Slippage is not relevant in limit orders. You specify input amount (e.g. 1000 CAKE) and output amount (e.g. 20 BNB), Limit orders guarantee that you will receive no less than the specified output amount (20 BNB) for your input amount (1000 CAKE) if the price for the pair reaches the desired price. **Note that tokens with fee on transfer should not be used with limit orders** (read above)
+Slippage is not relevant in limit orders. You specify input amount (e.g. 1000 HOPE) and output amount (e.g. 20 MATIC), Limit orders guarantee that you will receive no less than the specified output amount (20 MATIC) for your input amount (1000 HOPE) if the price for the pair reaches the desired price. **Note that tokens with fee on transfer should not be used with limit orders** (read above)
 
 ### The real execution price shows "never executes". What's this?
 
-It basically means that you're trying to swap a very small amount of tokens therefore there are not enough tokens to be accounted for the gas fee. In general, you need to increase the amount of the "input" field to get rid of this error.&#x20;
+It basically means that you're trying to swap a very small amount of tokens therefore there are not enough tokens to be accounted for the gas fee. In general, you need to increase the amount of the "input" field to get rid of this error.
 
 ### Is there an expiration date for my limit orders?
 
@@ -44,4 +44,3 @@ To sell below market price, you need **Stop Limit Orders**, not limit orders. St
 ### I made an order and it is not shown in the order table or stuck at “pending” status.
 
 The order history comes from the subgraph and therefore might show slightly delayed information. Usually, delays are no longer than a couple of minutes at worst. Please refer to the subgraph indicator at the bottom right corner of the order history table.
-

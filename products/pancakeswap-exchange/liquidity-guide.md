@@ -2,9 +2,9 @@
 
 ![](../../.gitbook/assets/how-to-add-remove-liquidity-header.png)
 
-"Liquidity" is central to how PancakeSwap's Exchange works. You can add liquidity for any token pair by staking both through the Liquidity page.
+"Liquidity" is central to how HopiumSwap's Exchange works. You can add liquidity for any token pair by staking both through the Liquidity page.
 
-In return for adding liquidity, you'll receive trading fees for that pair, and receive LP Tokens you can [stake in Farms](https://docs.pancakeswap.finance/products/yield-farming/farms) to earn CAKE rewards!
+In return for adding liquidity, you'll receive trading fees for that pair, and receive LP Tokens you can [stake in Farms](https://docs.pancakeswap.finance/products/yield-farming/farms) to earn HOPE rewards!
 
 ### **Adding liquidity**
 
@@ -12,8 +12,9 @@ To provide liquidity, you’ll need to commit an amount of any token pair you li
 
 You can easily trade for any tokens you need. Visit our [How to Trade on PancakeSwap](https://docs.pancakeswap.finance/get-started/trade-guide) guide if you need to.
 
-In this example, we will add liquidity using BNB and CAKE.\
-****
+In this example, we will add liquidity using MATIC and HOPE.\\
+
+***
 
 1\. Visit the [Liquidity page](https://exchange.pancakeswap.finance/#/pool).
 
@@ -23,11 +24,11 @@ In this example, we will add liquidity using BNB and CAKE.\
 
 ![](../../.gitbook/assets/Add\_Remove\_LP\_02.png)
 
-3\. For the top Input, click 'Select a currency'. Then choose one of the token in the liquidity pair you want to add liquidity to. Here, we are gong to use BNB as an example.
+3\. For the top Input, click 'Select a currency'. Then choose one of the token in the liquidity pair you want to add liquidity to. Here, we are gong to use MATIC as an example.
 
 ![](../../.gitbook/assets/Add\_Remove\_LP\_03.png)
 
-4\. For the bottom input, click ‘Select a currency’. And choose the other token in the liquidity pair you want to add liquidity to. Here, we are gong to use CAKE as an example.
+4\. For the bottom input, click ‘Select a currency’. And choose the other token in the liquidity pair you want to add liquidity to. Here, we are gong to use HOPE as an example.
 
 ![](../../.gitbook/assets/Add\_Remove\_LP\_04.png)
 
@@ -39,7 +40,7 @@ In this example, we will add liquidity using BNB and CAKE.\
 
 ![](../../.gitbook/assets/Add\_Remove\_LP\_06.png)
 
-6\. Click the **Enable CAKE** button. If you are adding liquidity against tokens other than BNB, you might need to click enable twice for each token in your pair. Your wallet will ask you to confirm the action.
+6\. Click the **Enable HOPE** button. If you are adding liquidity against tokens other than MATIC, you might need to click enable twice for each token in your pair. Your wallet will ask you to confirm the action.
 
 ![](../../.gitbook/assets/Add\_Remove\_LP\_07.png)
 
@@ -73,7 +74,7 @@ To remove liquidity.
 
 ![](../../.gitbook/assets/Add\_Remove\_LP\_12.png)
 
-5\. Click **Enable**. Your wallet will ask you to sign the action**.**
+5\. Click **Enable**. Your wallet will ask you to sign the action\*\*.\*\*
 
 ![](../../.gitbook/assets/Add\_Remove\_LP\_13.png)
 
@@ -85,4 +86,4 @@ To remove liquidity.
 
 ![](<../../.gitbook/assets/Add\_Remove\_LP\_15 (1).png>)
 
-8\. After the transaction is confirmed. You will receive two of the tokens from your pair. And if you haven't remove all of your liquidity, your remaining liquidity value will be updated on "My Liquidity" page.\
+8\. After the transaction is confirmed. You will receive two of the tokens from your pair. And if you haven't remove all of your liquidity, your remaining liquidity value will be updated on "My Liquidity" page.\\
