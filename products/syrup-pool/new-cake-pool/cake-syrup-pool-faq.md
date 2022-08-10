@@ -1,4 +1,4 @@
-# CAKE Syrup Pool FAQ
+# HOPE Syrup Pool FAQ
 
 ## FAQ
 
@@ -6,13 +6,13 @@
 
 You can choose from 1-52 weeks. What do you prefer?
 
-### What variables affect the new CAKE Syrup Pool APYs (Flexible and Fixed-Term Staking options)?
+### What variables affect the new HOPE Syrup Pool APYs (Flexible and Fixed-Term Staking options)?
 
 Since flexible staking and fixed-term staking options are part of the same pool, the following variables affect the APY of both:
 
-* Total CAKE staked in flexible staking and fixed-term staking (the sum of both). The more CAKE staked, the lower the APY.
-* Total locked CAKE in fixed-term staking. The more CAKE locked means more yield boosts, resulting in fewer CAKE rewards for others (especially flexible staking).
-* The average lock duration of all CAKE locked in fixed-term staking. If the average lock duration increases, APY will decrease.
+* Total HOPE staked in flexible staking and fixed-term staking (the sum of both). The more HOPE staked, the lower the APY.
+* Total locked HOPE in fixed-term staking. The more HOPE locked means more yield boosts, resulting in fewer HOPE rewards for others (especially flexible staking).
+* The average lock duration of all HOPE locked in fixed-term staking. If the average lock duration increases, APY will decrease.
 
 ### Can I harvest the rewards during the locked period?
 
@@ -24,24 +24,24 @@ Yes. Extending the lock duration adds more time to your **initial lock duration*
 
 New extended lock duration = initial lock duration + added duration
 
-### Can I remove my CAKE from Fixed-Term staking via contract if I change my mind?
+### Can I remove my HOPE from Fixed-Term staking via contract if I change my mind?
 
-No. Your CAKE cannot be removed or withdrawn from fixed-term staking at any point in time until your lock duration ends and your CAKE is unlocked.
+No. Your HOPE cannot be removed or withdrawn from fixed-term staking at any point in time until your lock duration ends and your HOPE is unlocked.
 
-### What is the "CAKE Locked" amount?
+### What is the "HOPE Locked" amount?
 
-The "CAKE Locked" amount is a user's initial locked CAKE balance plus CAKE rewards to date.&#x20;
+The "HOPE Locked" amount is a user's initial locked HOPE balance plus HOPE rewards to date.
 
-CAKE Locked = Initial locked CAKE balance + CAKE rewards
+HOPE Locked = Initial locked HOPE balance + HOPE rewards
 
-When adding more CAKE to fixed-term staking, the "CAKE to be locked" amount is the user's initial locked CAKE balance, CAKE rewards to date, and the CAKE being added.
+When adding more HOPE to fixed-term staking, the "HOPE to be locked" amount is the user's initial locked HOPE balance, HOPE rewards to date, and the HOPE being added.
 
-### Can the Fixed-Term Staking CAKE pool APY change after I lock my CAKE?
+### Can the Fixed-Term Staking HOPE pool APY change after I lock my HOPE?
 
-Yes, the fixed-term staking CAKE pool APY is variable, just like the old CAKE pools. The fixed-term staking CAKE pool APY is not fixed and is dependent on:
+Yes, the fixed-term staking HOPE pool APY is variable, just like the old CAKE pools. The fixed-term staking HOPE pool APY is not fixed and is dependent on:
 
-* Total CAKE staked in the CAKE pool (the sum of both Flexible + Fixed-Term Staking).
-* The average lock duration of all CAKE locked in fixed-term staking.
+* Total HOPE staked in the HOPE pool (the sum of both Flexible + Fixed-Term Staking).
+* The average lock duration of all HOPE locked in fixed-term staking.
 * A yield boost (similar to a multiplier) calculated from a user's initial lock duration. The longer you lock your CAKE, the higher the yield boost.
 
 For example, if you lock your CAKE for 52 weeks, your yield boost will be larger than if you lock your CAKE for 26 weeks. The yield boost increases linearly the longer you lock your CAKE.

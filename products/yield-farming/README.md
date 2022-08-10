@@ -2,7 +2,7 @@
 
 ![](../../.gitbook/assets/yield-farms-header.png)
 
-Yield Farms allow users to earn CAKE while supporting PancakeSwap by staking LP Tokens.
+Yield Farms allow users to earn HOPE while supporting HopiumSwap by staking LP Tokens.
 
 Check out our [How to Use Farms guide](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms) to get started with farming.
 
@@ -29,7 +29,7 @@ So how do we calculate those figures?
 
 ### Calculating Farm Base Reward APR
 
-The **Farm Base APR** is calculated according to the farm multiplier and the total amount of liquidity in the farm -- this is the amount of CAKE distributed to the farm.
+The **Farm Base APR** is calculated according to the farm multiplier and the total amount of liquidity in the farm -- this is the amount of HOPE distributed to the farm.
 
 ### Calculating LP Reward APR
 

@@ -1,13 +1,13 @@
-# 🍯 Syrup Pools - Stake CAKE
+# 🍯 Syrup Pools - Stake HOPE
 
 ![](../../.gitbook/assets/syrup-poos-header.png)
 
 ### **What are Syrup Pools?**
 
-Syrup Pools are the simplest way to earn free tokens on PancakeSwap.\
-Stake CAKE, earn free tokens. It’s really that easy.
+Syrup Pools are the simplest way to earn free tokens on HopiumSwap.\
+Stake HOPE, earn free tokens. It’s really that easy.
 
-Some special pools let you stake other tokens besides CAKE, too!
+Some special pools let you stake other tokens besides HOPE, too!
 
 ### **How can I use Syrup Pools?**
 
@@ -46,6 +46,3 @@ Reach out via [the application form](https://docs.pancakeswap.finance/contact-us
 [CAKE Syrup Pool](../../code/smart-contracts/fixed-term-staking-cake-pool.md)
 
 ### &#x20;<a href="#docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86" id="docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86"></a>
-
-
-

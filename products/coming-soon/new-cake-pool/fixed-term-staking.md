@@ -1,6 +1,6 @@
 ---
 description: >-
-  This page explains who to stake in the new CAKE Syrup Pool with the Fixed-Term
+  This page explains who to stake in the new HOPE Syrup Pool with the Fixed-Term
   Staking option.
 ---
 
@@ -16,7 +16,7 @@ description: >-
 
 ![](<../../../.gitbook/assets/3-how-to-stake-in-syrup-pool (1) (1) (1) (1) (1).png>)
 
-4\. Choose the CAKE Syrup Pool and click the **Enable** button. Your wallet will ask you to confirm the action.
+4\. Choose the HOPE Syrup Pool and click the **Enable** button. Your wallet will ask you to confirm the action.
 
 ![Note that actual APY values will vary](../../../.gitbook/assets/3-how-to-stake-in-fixed-pool.png)
 
@@ -24,7 +24,7 @@ description: >-
 
 ![Note that actual APY values will vary](../../../.gitbook/assets/4-how-to-stake-in-fixed-pool.png)
 
-6\. For Fixed-Term Staking simply press **Locked**, which will present you with a new window, enter the amount of CAKE you wish to stake and for how long you want to lock your CAKE for.
+6\. For Fixed-Term Staking simply press **Locked**, which will present you with a new window, enter the amount of HOPE you wish to stake and for how long you want to lock your HOPE for.
 
 Below that, you will find a summary of your position, including APY, lock duration, and unlock date and time. Double-check to make sure you are okay with the lock duration and amount staked, click **Confirm** and confirm the transaction in your wallet.
 
@@ -34,17 +34,17 @@ Please note that we are still refining our UI including more precise unlock dura
 
 ## Extending your lock staking duration
 
-Changed your mind during the lock staking duration? No problem. You can always extend the time of your locked CAKE by simply clicking "Extend" and choose how much time you want to add on top of the **initial lock duration**. Remember, the longer you lock, the higher your yield will be boosted. The maximum locking duration is 52 weeks.
+Changed your mind during the lock staking duration? No problem. You can always extend the time of your locked HOPE by simply clicking "Extend" and choose how much time you want to add on top of the **initial lock duration**. Remember, the longer you lock, the higher your yield will be boosted. The maximum locking duration is 52 weeks.
 
 A user's new extended lock duration = initial lock duration + added duration
 
 **Example:**
 
-A user staked 1,438.45 CAKE in fixed-term staking with an initial lock duration of 10 weeks on 7th May 2022.
+A user staked 1,438.45 HOPE in fixed-term staking with an initial lock duration of 10 weeks on 7th May 2022.
 
-On 18th June 2022 (6 weeks later, 4 weeks until the user's CAKE unlocks), the user decides they want to add 5 weeks to their lock duration.
+On 18th June 2022 (6 weeks later, 4 weeks until the user's HOPE unlocks), the user decides they want to add 5 weeks to their lock duration.
 
-1\. Navigate to the CAKE Syrup Pool and click **Extend**.&#x20;
+1\. Navigate to the HOPE Syrup Pool and click **Extend**.
 
 ![Note that actual APY values will vary](../../../.gitbook/assets/6-how-to-stake-in-fixed-pool.png)
 
@@ -56,25 +56,25 @@ Note that your new lock duration will equal your initial lock duration of 10 wee
 
 3\. Double-check to make sure you are okay with the new extended lock duration and click **Confirm**.
 
-Please note that you can not shorten the locking period nor withdraw your CAKE prematurely.
+Please note that you can not shorten the locking period nor withdraw your HOPE prematurely.
 
-## Adding more CAKE to your lock
+## Adding more HOPE to your lock
 
-You can easily do that by renewing your fixed-term staking position. Simply click "Add CAKE" and choose how much CAKE you want to deposit.
+You can easily do that by renewing your fixed-term staking position. Simply click "Add HOPE" and choose how much HOPE you want to deposit.
 
-Please note that adding more CAKE to an existing lock resets your staking term based on the remaining lock duration, essentially “renewing” your fixed-term staking position. This results in a lower yield boost because your new lock duration is lower than your initial lock duration.
+Please note that adding more HOPE to an existing lock resets your staking term based on the remaining lock duration, essentially “renewing” your fixed-term staking position. This results in a lower yield boost because your new lock duration is lower than your initial lock duration.
 
 **Example:**
 
-A user staked 1,438.45 CAKE in fixed-term staking with an initial lock duration of 10 weeks on 7th May 2022.\
+A user staked 1,438.45 HOPE in fixed-term staking with an initial lock duration of 10 weeks on 7th May 2022.\
 \
-On 18th June 2022 (6 weeks later, 4 weeks until the user's CAKE unlocks), the user decides they want to add 100 CAKE to locked balance.
+On 18th June 2022 (6 weeks later, 4 weeks until the user's HOPE unlocks), the user decides they want to add HOPE to locked balance.
 
-1\. Navigate to the CAKE Syrup Pool and click **Add CAKE**.&#x20;
+1\. Navigate to the HOPE Syrup Pool and click **Add** HOPE.
 
 ![Note that actual APY values will vary](../../../.gitbook/assets/6-how-to-stake-in-fixed-pool.png)
 
-2\. Select the amount of CAKE you would like to add to your locked balance (for this example, we are adding 100 CAKE which is our max wallet balance). Note that your yield boost is lower than the initial yield boost because it is calculated using a 4 week lock duration instead of the initial 10 week lock duration.
+2\. Select the amount of HOPE you would like to add to your locked balance (for this example, we are adding 100 HOPE which is our max wallet balance). Note that your yield boost is lower than the initial yield boost because it is calculated using a 4 week lock duration instead of the initial 10 week lock duration.
 
 ![Note that actual APY values will vary](../../../.gitbook/assets/8-how-to-stake-in-fixed-pool.png)
 
@@ -82,4 +82,4 @@ On 18th June 2022 (6 weeks later, 4 weeks until the user's CAKE unlocks), the us
 
 ![Note that actual APY values will vary](../../../.gitbook/assets/9-how-to-stake-in-fixed-pool.png)
 
-3\. Double-check to make sure you are okay with the added CAKE amount and the lock duration and click **Confirm**.
+3\. Double-check to make sure you are okay with the added HOPE amount and the lock duration and click **Confirm**.

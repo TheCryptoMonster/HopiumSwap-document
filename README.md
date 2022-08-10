@@ -43,14 +43,7 @@ Stake LP tokens, earn HOPE. You take on a little more exposure to market fluctua
 
 No farm? No problem. Even if your trading pair isn’t supported on the Farms page, you can still earn trading fees when you stake your tokens in Liquidity Pools (LPs).
 
-## 🎲 Win
-
 > HopiumSwap makes making money fun.
-
-### Lottery
-
-**Millions of dollars** regularly go up for grabs on the HopiumSwap Lottery.\
-Join as many as **11,000 daily players** for your chance to win big!
 
 ### NFT Collectibles
 
