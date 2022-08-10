@@ -1,10 +1,10 @@
 # Table of contents
 
-* [PancakeSwap Intro](README.md)
+* [HopiumSwap Intro](README.md)
 * [Get Started](get-started/README.md)
   * [Create a Wallet](get-started/wallet-guide.md)
   * [Get BEP20 Tokens](get-started/bep20-guide.md)
-  * [Using PancakeSwap without Centralized Exchanges](get-started/using-pancakeswap-without-centralized-exchanges.md)
+  * [Using HopiumSwap without Centralized Exchanges](get-started/using-pancakeswap-without-centralized-exchanges.md)
   * [Connect Your Wallet to PancakeSwap](get-started/connection-guide.md)
 * [Click Here for Help](help/README.md)
   * [Troubleshooting Errors](help/troubleshooting.md)
@@ -38,7 +38,7 @@
   * [How to Use Farms](products/yield-farming/how-to-use-farms.md)
   * [How to Use Farms with BscScan](products/yield-farming/how-to-use-farms-with-bscscan.md)
 * [🍯 Syrup Pools - Stake CAKE](products/syrup-pool/README.md)
-  * [New CAKE Syrup Pool](products/coming-soon/new-cake-pool/README.md)
+  * [New HOPE Syrup Pool](products/coming-soon/new-cake-pool/README.md)
     * [How to use the Flexible Staking option](products/coming-soon/new-cake-pool/flexible-staking.md)
     * [How to use the Fixed-Term Staking option](products/coming-soon/new-cake-pool/fixed-term-staking.md)
     * [CAKE Syrup Pool FAQ](products/syrup-pool/new-cake-pool/cake-syrup-pool-faq.md)
@@ -68,7 +68,7 @@
   * [How to Vote](products/voting/voting-guide/README.md)
     * [How to Vote with SafePal Wallet](products/voting/voting-guide/how-to-vote-with-safepal-wallet.md)
   * [vCAKE](products/voting/vcake.md)
-* [🌐 PancakeSwap Mini-Program](products/pancakeswap-mini-program/README.md)
+* [🌐 HopiumSwap Mini-Program](products/pancakeswap-mini-program/README.md)
   * [How to Use PancakeSwap Mini-Program?](products/pancakeswap-mini-program/how-to-use-pancakeswap-mini-program.md)
   * [Mini-Program FAQ](products/pancakeswap-mini-program/mini-program-faq.md)
 * [🍳 Coming Soon!](products/coming-soon/README.md)
@@ -76,7 +76,7 @@
 
 ## Tokenomics
 
-* [CAKE](tokenomics/cake/README.md)
+* [HOPE](tokenomics/hope/README.md)
   * [CAKE Tokenomics](tokenomics/cake/cake-tokenomics.md)
   * [Controlling CAKE supply](tokenomics/cake/controlling-cake-supply.md)
 
