@@ -73,7 +73,7 @@
 
 * [HOPE](tokenomics/hope/README.md)
   * [HOPE Tokenomics](tokenomics/cake/cake-tokenomics.md)
-  * [Controlling CAKE supply](tokenomics/cake/controlling-cake-supply.md)
+  * [Controlling HOPE supply](tokenomics/cake/controlling-cake-supply.md)
 
 ## Developers <a href="#code" id="code"></a>
 
