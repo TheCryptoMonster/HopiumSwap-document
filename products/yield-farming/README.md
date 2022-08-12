@@ -11,7 +11,7 @@ Learn [how to find Farm smart contracts](./)
 {% hint style="warning" %}
 Yield farming can give better rewards than Syrup Pools, but it comes with a risk of **Impermanent Loss**. It’s not as scary as it sounds, but it is worth learning about the concept before you get started.
 
-Check out this great [article about Impermanent Loss ](https://academy.binance.com/en/articles/impermanent-loss-explained)from Binance Academy to learn more.
+
 {% endhint %}
 
 ## Reward calculations
@@ -21,7 +21,7 @@ Yield Farm APR calculations include both:
 * **LP rewards APR** earned through providing liquidity and;
 * **Farm base rewards APR** earned staking LP Tokens in the Farm.
 
-Why? Because when you stake your LP tokens in a farm to earn CAKE, you're still providing liquidity to the liquidity pool, so you earn LP rewards as well!
+Why? Because when you stake your LP tokens in a farm to earn HOPE, you're still providing liquidity to the liquidity pool, so you earn LP rewards as well!
 
 ![](<../../.gitbook/assets/Frame 1 (3).png>)
 

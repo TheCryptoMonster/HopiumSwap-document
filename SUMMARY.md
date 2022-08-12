@@ -31,7 +31,7 @@
     * [Limit Orders FAQ](products/pancakeswap-exchange/limit-orders/limit-orders-faq.md)
 * [🚜 Yield Farming](products/yield-farming/README.md)
   * [How to Use Farms](products/yield-farming/how-to-use-farms.md)
-  * [How to Use Farms with BscScan](products/yield-farming/how-to-use-farms-with-bscscan.md)
+  * [How to Use Farms with PolygonScan](products/yield-farming/how-to-use-farms-with-bscscan.md)
 * [🍯 Syrup Pools - Stake HOPE](products/syrup-pool/README.md)
   * [New HOPE Syrup Pool](products/coming-soon/new-cake-pool/README.md)
     * [How to use the Flexible Staking option](products/coming-soon/new-cake-pool/flexible-staking.md)
