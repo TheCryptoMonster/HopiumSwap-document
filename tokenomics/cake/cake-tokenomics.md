@@ -39,13 +39,12 @@ The burning process is currently manual. [View burn transactions here](https://b
 
 As well as the above, **HOPE** is also burned in the following ways:
 
-* **0.0575%** of every trade made on HopiumSwap V2
+* **0.0575%** of every trade made on HopiumSwap&#x20;
 * **100%** of HOPE sent to the Dev address
 * **100%** of HOPE performance fees from IFOs
 * **100%** of HOPE spent on Profile Creation and NFT minting
 * **100%** of HOPE bid during Farm Auctions
 * **20%** of HOPE spent on lottery tickets
-* **20%** of all profits from Perpetual Trading
 * **45,000** HOPE per day (historically assigned to the lottery)
 * **3%** of every MATIC Prediction markets round is used to buy HOPE for burning
 * **3%** of every HOPE Prediction markets round
@@ -59,26 +58,26 @@ To hit the ground running, HopiumSwap launched as an MVP (minimum viable product
 * Legacy Lottery Pool (PID - 137) - burned HOPE from the lottery
 * Burn Pool (PID - 138) - burned HOPE per block
 
-These pools work similarly to the farms, where the Chefs can adjust the percentage of the 40 CA per block allocated to it after each CAKE emission reduction vote.
+These pools work similarly to the farms, where the Chefs can adjust the percentage of the 40 CA per block allocated to it after each HOPE emission reduction vote.
 
-However, in April 2022, HopiumSwap migrated to a new MasterChef v2 contract. The ratio of the CAKE burn per block is finally controlled by a dedicated contract. This allows the burn to be much more accurate.
+However, in April 2022, HopiumSwap migrated to a new MasterChef v2 contract. The ratio of the HOPE burn per block is finally controlled by a dedicated contract. This allows the burn to be much more accurate.
 
 {% hint style="warning" %}
-On the day of the burn, the supply shown on the homepage might suddenly jump by several million CAKE.
+On the day of the burn, the supply shown on the homepage might suddenly jump by several million HOPE.
 
 Don't worry - **THIS CAKE NEVER ACTUALLY ENTERS CIRCULATION:**
 {% endhint %}
 
-This apparent jump is just because of how all the CAKE that's allocated for the burn is stored during the week.
+This apparent jump is just because of how all the HOPE that's allocated for the burn is stored during the week.
 
-The CAKE allocated to burn are harvested before completing the weekly token burns, and this makes the Total Supply shown on the site jump by \~6M. This is because pending HOPE sometimes doesn't get registered in the Total Supply until it's harvested on the burn day. Once the token burn transaction is completed, the \~6M is shown in the Burned to Date.
+The HOPE allocated to burn are harvested before completing the weekly token burns, and this makes the Total Supply shown on the site jump by \~6M. This is because pending HOPE sometimes doesn't get registered in the Total Supply until it's harvested on the burn day. Once the token burn transaction is completed, the \~6M is shown in the Burned to Date.
 
 ## How to Confirm HOPE Supply for yourself
 
 To confirm that the circulating CAKE supply shown on the HopiumSwap homepage is correct,
 
-1. Head to the CAKE token contract on BscScan and [see how much CAKE is held by the Burn Address.](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82#balances) That's the total amount of CAKE that's been burned (removed from circulation FOREVER, and impossible to ever retrieve).
-2. Then, subtract this burned amount from the "Total Supply" that BscScan shows.
-3. This gives you the actual CAKE supply.
+1. Head to the CAKE token contract on PolygonScan and [see how much CAKE is held by the Burn Address.](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82#balances) That's the total amount of HOPE that's been burned (removed from circulation FOREVER, and impossible to ever retrieve).
+2. Then, subtract this burned amount from the "Total Supply" that PolygonScan shows.
+3. This gives you the actual HOPE supply.
 
 #### **Read more about HOPE's deflationary mechanics on the next page.** <a href="#read-more-about-cakes-deflationary-mechanics-on-the-next-page" id="read-more-about-cakes-deflationary-mechanics-on-the-next-page"></a>

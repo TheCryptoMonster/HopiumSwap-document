@@ -62,7 +62,7 @@
 * [🗳 Voting](products/voting/README.md)
   * [How to Vote](products/voting/voting-guide/README.md)
     * [How to Vote with SafePal Wallet](products/voting/voting-guide/how-to-vote-with-safepal-wallet.md)
-  * [vCAKE](products/voting/vcake.md)
+  * [vHOPE](products/voting/vcake.md)
 * [🍳 Coming Soon!](products/coming-soon/README.md)
   * [Zap](products/coming-soon/zap.md)
 
