@@ -128,7 +128,7 @@ Try modifying the amount on “To” field. Therefore putting "(estimated)" symb
 
 This usually happen when you are trying to swap a token with its own fee.
 
-### Pancake: TRANSFER\_FAILED
+### Hopium: TRANSFER\_FAILED
 
 > The transaction cannot succeed due to error: execution reverted: Pancake: TRANSFER\_FAILED.
 
@@ -213,15 +213,15 @@ If you're trading tokens with Restorative Rebase like tau assets tDoge or tBTC, 
 
 ## **Issues with Syrup Pools**
 
-### BEP20: burn amount exceeds balance
+### POLY ERC-20: burn amount exceeds balance
 
 > Fail with error 'BEP20: burn amount exceeds balance'
 
-You don't have enough SYRUP in your wallet to unstake from the CAKE-CAKE pool.
+You don't have enough SYRUP in your wallet to unstake from the HOPE-HOPE pool.
 
-**Get at least as much SYRUP as the amount of CAKE that you’re trying to unstake.**
+**Get at least as much SYRUP as the amount of HOPE that you’re trying to unstake.**
 
-1. Buy SYRUP on the exchange. If you want to unstake 100 CAKE, you need at least 100 SYRUP.
+1. Buy SYRUP on the exchange. If you want to unstake 100 HOPE, you need at least 100 SYRUP.
 2. Try unstaking again.
 
 If that still fails, you can perform an “emergencyWithdraw” from the contract directly to unstake your staked tokens.
@@ -230,15 +230,15 @@ If that still fails, you can perform an “emergencyWithdraw” from the contrac
 2. Click **“Connect to Web3”** and connect your wallet. ![](https://lh6.googleusercontent.com/-\_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk\_1dTHkPuCmE50vpNNZxEqoM5nPmE\_12k3-8Q8YYoRYqJ\_VGjxJ03YPRuVQ1O5ME)
 3. In section **“4. emergencyWithdraw”**, enter "0" and click “Write”.
 
-This will unstake your staked tokens and lose any uncollected CAKE yield.
+This will unstake your staked tokens and lose any uncollected HOPE yield.
 
 {% hint style="warning" %}
 **This will lose any yield that you haven’t harvested yet.**
 {% endhint %}
 
-To stop this happening again, **don’t sell your SYRUP.** You still need it to unstake from the “Stake CAKE Earn CAKE” pool.
+To stop this happening again, **don’t sell your SYRUP.** You still need it to unstake from the “Stake HOPE Earn HOPE” pool.
 
-This error has happened because you have sold or transferred SYRUP tokens. SYRUP is minted in a 1:1 ratio to CAKE when you stake in the HOPE-HOPE Syrup Pool. SYRUP must be burned at a 1:1 ratio to CAKE when calling leaveStaking (unstaking your CAKE from the pool), so if you don't have enough, you can't unstake from the pool.
+This error has happened because you have sold or transferred SYRUP tokens. SYRUP is minted in a 1:1 ratio to HOPE when you stake in the HOPE-HOPE Syrup Pool. SYRUP must be burned at a 1:1 ratio to CAKE when calling leaveStaking (unstaking your CAKE from the pool), so if you don't have enough, you can't unstake from the pool.
 
 {% embed url="https://dashboard.tenderly.co/tx/binance/0x754e18ceea82acac256b49c2b7a81260f7f86dd5e56ee2e3cc1b6ac864c29a8e" %}
 <img src="https://lh4.googleusercontent.com/KchAcnM6cpX2BotEGppAxPAnY4Xbona6yI6ZWg9FlUUBfPi_YO9ulM1s6htXJVXMzEwl0Uxcvdk8o4yhI7ar5g0TRpLVFjkS4YLKL7FS8Z4uFqeC37sw-TIkrPr7BCZQVpuD-5jO" alt="" data-size="original">

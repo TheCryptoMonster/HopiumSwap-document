@@ -4,7 +4,7 @@ description: Migrate to new HOPE Syrup Pool
 
 # HOPE Syrup Pool
 
-The HOPE HOPEPool is a new $HOPE staking contract built based on the HOPE Vault (the current auto CAKE pool) and designed to work with HopiumSwap MasterChef v2 to provide "stake $HOPE, earn $HOPE" functionality while offering more features such as fixed-term staking. The current Manual HOPE pool will be retired after the migration.
+The HOPE HOPEPool is a new $HOPE staking contract built based on the HOPE Vault (the current auto HOPE pool) and designed to work with HopiumSwap MasterChef v2 to provide "stake $HOPE, earn $HOPE" functionality while offering more features such as fixed-term staking. The current Manual HOPE pool will be retired after the migration.
 
 The new HOPEPool will use a dummy token to harvest $HOPE from MasterChef v2 and reward them to users who are staking $HOPE. Users who lock their $HOPE for longer will receive a more significant number of shares (boosted linearly based on duration), therefore, enjoy a higher yield.
 

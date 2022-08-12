@@ -9,7 +9,7 @@
 
 ### Requirements:
 
-* Thorough understanding of how PancakeSwap (Exchange, Farming, Info, Voting) works.
+* Thorough understanding of how HopiumSwap (Exchange, Farming, Info, Voting) works.
 * Being able to analyze Solidity code, find bugs and edge cases.
 * Experience in writing automated tests for dApp frontends.
 * Ability to create testing setup from zero.

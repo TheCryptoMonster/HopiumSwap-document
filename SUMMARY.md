@@ -4,7 +4,7 @@
   * [Launch App](https://www.hopiumswap.com/)
 * [Get Started](get-started/README.md)
   * [Create a Wallet](get-started/wallet-guide.md)
-  * [Get BEP20 Tokens](get-started/bep20-guide.md)
+  * [Get Poly ERC-20 Tokens](get-started/bep20-guide.md)
   * [Using HopiumSwap without Centralized Exchanges](get-started/using-pancakeswap-without-centralized-exchanges.md)
   * [Connect Your Wallet to HopiumSwap](get-started/connection-guide.md)
 * [Click Here for Help](help/README.md)
@@ -87,10 +87,10 @@
     * [Factory v2](code/smart-contracts/pancakeswap-exchange/factory-v2.md)
     * [Router v2](code/smart-contracts/pancakeswap-exchange/router-v2.md)
   * [Main Staking/Syrup Pool/MasterChef Contract](code/smart-contracts/main-staking-masterchef-contract.md)
-  * [CAKE Syrup Pool](code/smart-contracts/fixed-term-staking-cake-pool.md)
+  * [HOPE Syrup Pool](code/smart-contracts/fixed-term-staking-cake-pool.md)
   * [Prediction V2](code/smart-contracts/prediction-v2.md)
   * [Lottery v2](code/smart-contracts/lottery-v2.md)
-  * [Auto CAKE Syrup Pool (CakeVault)](code/smart-contracts/cakevault.md)
+  * [Auto HOPE Syrup Pool (CakeVault)](code/smart-contracts/cakevault.md)
 
 ## Hiring
 

@@ -6,7 +6,7 @@ description: Thank you for expressing your interest in contributing to PancakeSw
 
 ![](../../.gitbook/assets/developers-header.png)
 
-HopiumSwap is an open-source project. If you want to contribute to the project, this section is here to guide you through your first steps with the HopiumSwap team 🥞
+HopiumSwap is an open-source project. If you want to contribute to the project, this section is here to guide you through your first steps with the HopiumSwap team&#x20;
 
 Before starting any development, we highly encourage you to submit an issue on Github in order to discuss the problem, and the solution with the team.
 

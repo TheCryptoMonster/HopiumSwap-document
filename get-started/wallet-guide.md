@@ -231,7 +231,7 @@ Desktop wallets are available on your home computer or laptop computer. Wallets 
 
 ### Which desktop wallet should I choose?
 
-This comparison table gives an overview of the most popular desktop wallets used with PancakeSwap.
+This comparison table gives an overview of the most popular desktop wallets used with HopiumSwap.
 
 |                                                          | MetaMask | Binance Wallet | Coinbase Wallet | Token Pocket |
 | -------------------------------------------------------- | -------- | -------------- | --------------- | ------------ |
@@ -264,7 +264,7 @@ MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethe
 **Cons:**
 
 * Longer setup time than other options
-* Additional steps needed to use with BNB Smart Chain and PancakeSwap
+* Additional steps needed to use with BNB Smart Chain and HopiumSwap
 * Extra information and settings may confuse beginners
 
 [**Download MetaMask**](https://metamask.io/download.html) (Automatically detects browser)\
@@ -399,5 +399,5 @@ And that’s it, all done! You can follow our [Connect Your Wallet to PancakeSwa
 {% hint style="danger" %}
 NEVER, in any situation, should you ever give someone your private key or recovery phrase ("seed phrase"). This will give someone complete access to your crypto!
 
-The genuine PancakeSwap site and staff will never ask you to input your seed phrase.
+The genuine HopiumSwap site and staff will never ask you to input your seed phrase.
 {% endhint %}

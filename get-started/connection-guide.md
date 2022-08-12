@@ -2,9 +2,9 @@
 
 ![](../.gitbook/assets/how-to-connect-wallet-header.png)
 
-You've made a wallet and gotten your BEP20 tokens, now you just need to connect your wallet with HopiumSwap and you're good to go!
+You've made a wallet and gotten your POLY ERC-20 tokens, now you just need to connect your wallet with HopiumSwap and you're good to go!
 
-Check out the steps below for how to connect each of our recommended wallets to PancakeSwap.
+Check out the steps below for how to connect each of our recommended wallets to HopiumSwap.
 
 ## Smartphone/Mobile
 
@@ -31,7 +31,7 @@ To connect Trust Wallet follow the steps below. Note that Android and iOS device
 1. HopiumSwap will open up. If you see a **Connect** button in the top-right tap that and tap **Trust Wallet** from the list.
 
 {% hint style="warning" %}
-If you find you are unable to connect at step 4, go back to the DApps menu and find "HopiumSwap" again. Using "Pancake Swap" from the "History" section may result in the same problem.
+If you find you are unable to connect at step 4, go back to the DApps menu and find "HopiumSwap" again. Using "Hopium Swap" from the "History" section may result in the same problem.
 {% endhint %}
 
 #### iOS

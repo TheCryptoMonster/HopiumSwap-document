@@ -1,13 +1,13 @@
 # Router v2
 
 {% hint style="warning" %}
-PancakeSwap is based on Uniswap v2. Read the [Uniswap v2 documentation](https://docs.uniswap.org/protocol/V2/introduction).\
+HopiumSwap is based on Uniswap v2. Read the [Uniswap v2 documentation](https://docs.uniswap.org/protocol/V2/introduction).\
 For more in-depth information on the core contract logic, read the [Uniswap v2 Core whitepaper](https://github.com/Uniswap/docs/blob/main/static/whitepaper.pdf).
 {% endhint %}
 
 ## Contract info
 
-**Contract name:** PancakeRouter\
+**Contract name:** HopiumRouter\
 **Contract address:** 0x10ED43C718714eb63d5aA57B78B54704E256024E
 
 View [PancakeRouter.sol on GitHub](https://github.com/pancakeswap/pancake-swap-periphery/blob/master/contracts/PancakeRouter.sol).
