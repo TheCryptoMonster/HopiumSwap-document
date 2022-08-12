@@ -6,7 +6,7 @@
 
 Farms incentivize users to provide liquidity for your trading pair by distributing HOPE to your pair's LP Token holders.
 
-Syrup Pools are a way of distributing your tokens to BSC users who stake CAKE in the pool.
+Syrup Pools are a way of distributing your tokens to MATIC users who stake HOPE in the pool.
 
 These two products go hand-in-paw on HopiumSwap: when a project provides their tokens for a Syrup Pool, we'll also create a Farm. If you're looking to distribute tokens and incentivize liquidity, get in touch.
 
@@ -17,7 +17,7 @@ These two products go hand-in-paw on HopiumSwap: when a project provides their t
 
 ### How long will it take to get a response?
 
-We aim to respond to applications within a week, but due to a large number of requests, we’re unable to respond to every single applicant. If you don’t hear back from us within two weeks of applying, try reaching out to[ t.me/ChefTaro](https://t.me/ChefTaro) on Telegram, with **the name of your project, your token ticker, and the date you applied.**
+We aim to respond to applications within a week, but due to a large number of requests, we’re unable to respond to every single applicant. If you don’t hear back from us within two weeks of applying, try reaching out to[ t.me/ChefTaro](https://t.me/CryptoMonsterOfficial) on Telegram, with **the name of your project, your token ticker, and the date you applied.**
 
 ### What’s the difference between a Core Farm VS Farm Auction
 
@@ -47,7 +47,7 @@ Learn more about [how IFOs work.](https://medium.com/pancakeswap/initial-farm-of
 
 ### How long will it take to get a response?
 
-We aim to respond to applications within a week, but due to a large number of requests, we’re unable to respond to every single applicant. If you don’t hear back from us within two weeks of applying, try reaching out to[ t.me/ChefTaro](https://t.me/ChefTaro) on Telegram, with **the name of your project, your token ticker, and the date you applied.**
+We aim to respond to applications within a week, but due to a large number of requests, we’re unable to respond to every single applicant. If you don’t hear back from us within two weeks of applying, try reaching out to[ t.me/ChefTaro](https://t.me/CryptoMonsterOfficial) on Telegram, with **the name of your project, your token ticker, and the date you applied.**
 
 ## NFT Marketplace <a href="#exchange" id="exchange"></a>
 
@@ -71,7 +71,7 @@ Please add your icon to Trust Wallet’s assets repo, which HopiumSwap reference
 
 ### Someone made a fake copy of my token! Can you block it?
 
-Due to HopiumSwaps nature as an AMM-based DEX, we’re not able to prevent the trading of any BEP-20 token. We recommend ensuring that your token contract is clearly visible and verifiable on your site, and educating your users about how to safely trade your token.
+Due to HopiumSwaps nature as an AMM-based DEX, we’re not able to prevent the trading of any POLY ERC-20 token. We recommend ensuring that your token contract is clearly visible and verifiable on your site, and educating your users about how to safely trade your token.
 
 ### People get an error when trading my token. What can I do?
 
@@ -79,6 +79,6 @@ Check our [Troubleshooting page](../help/troubleshooting.md) for a list of commo
 
 ## Something else
 
-You can shoot us an email at info@pancakeswap.com if the above parts don't cover your questions.
+You can shoot us an email at HopiumSwap@protonmail.com if the above parts don't cover your questions.
 
-Please don't try to contact us via this email for [customer support](customer-support.md), that's not what it's for and we won't respond: your best option for getting help with the product is via the [Telegram or Reddit community](telegram.md).
+Please don't try to contact us via this email for [customer support](https://t.me/HopiumSwapExchange), that's not what it's for and we won't respond: your best option for getting help with the product is via the [Telegram or Reddit community](telegram.md).

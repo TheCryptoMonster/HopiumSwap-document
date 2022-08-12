@@ -2,7 +2,7 @@
 
 ## Contract info
 
-**Contract name:** HopiumPredictionV2\
+**Contract name:** PancakePredictionV2\
 **Contract address:** [0x18B2A687610328590Bc8F2e5fEdDe3b582A49cdA](https://bscscan.com/address/0x18B2A687610328590Bc8F2e5fEdDe3b582A49cdA)
 
 View the [PancakeSwap: Prediction V2 contract on BscScan](https://bscscan.com/address/0x18B2A687610328590Bc8F2e5fEdDe3b582A49cdA#code).

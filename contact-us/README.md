@@ -16,7 +16,6 @@
 
 #### Help!
 
-### [Customer Support](customer-support.md#there-is-no-customer-support-for-pancakeswap)
+### [Customer Support](https://t.me/HopiumSwapExchange)
 
 ### [Social Communities](telegram.md)
-

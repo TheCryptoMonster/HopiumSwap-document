@@ -1,14 +1,14 @@
-# Get Poly ERC-20 Tokens
+# Get BEP20 Tokens
 
 ![](../.gitbook/assets/how-to-get-bep20-tokens-header.png)
 
-The native tokens of Polygon Network are Poly ERC-20.
+The native tokens of BNB Smart Chain (BSC) are **BEP20**.
 
-To do most things on Polygon Network, you will need to pay gas, which comes in the form of Poly ERC-20.
+To do most things on BSC, you will need to pay gas, which comes in the form of BEP20 BNB.
 
-You will also need the Poly ERC-20 version of any token you want to trade, stake etc. on Polygon Network.
+You will also need the BEP20 version of any token you want to trade, stake etc. on BSC.
 
-You can go a few ways about converting your tokens to Poly ERC-20, but here are the ones we recommend:
+You can go a few ways about converting your tokens to BEP20, but here are the ones we recommend:
 
 {% tabs %}
 {% tab title="🔒 SafePal" %}

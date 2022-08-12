@@ -4,7 +4,7 @@
 
 ![](../.gitbook/assets/nft-masthead.png)
 
-NFT collection creators can earn creator royalties on trades on HopiumSwap, as well as getting visibility for their project on the most prominent NFT marketplace on BNB Smart Chain.
+NFT collection creators can earn creator royalties on trades on HopiumSwap, as well as getting visibility for their project on the most prominent NFT marketplace on Polygon Network.
 
 [Apply for Listing on PancakeSwap NFT Market](https://docs.google.com/forms/d/e/1FAIpQLSdLjOEiJT4s8No2QT2TKknuUSlVMndARFgng4MDJMsoFQjR-A/viewform)
 
@@ -30,6 +30,6 @@ We aim to respond to applications within a week, but due to a large number of re
 
 ## Something else
 
-You can shoot us an email at info@pancakeswap.com if the above parts don't cover your questions.
+You can shoot us an email at HopiumSwap@protonmail.com if the above parts don't cover your questions.
 
-Please don't try to contact us via this email for [customer support](customer-support.md), that's not what it's for and we won't respond: your best option for getting help with the product is via the [Telegram or Reddit community](telegram.md).
+Please don't try to contact us via this email for [customer support](https://t.me/HopiumSwapExchange), that's not what it's for and we won't respond: your best option for getting help with the product is via the [Telegram or Reddit community](telegram.md).

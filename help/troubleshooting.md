@@ -268,9 +268,9 @@ Your wallet estimates that the gas limit is too low, so the function call runs o
 {% endtab %}
 {% endtabs %}
 
-### BEP20: transfer amount exceeds allowance
+### POLY ERC-20: transfer amount exceeds allowance
 
-> Fail with error 'BEP20: transfer amount exceeds allowance'
+> Fail with error 'POLY ERC-20: transfer amount exceeds allowance'
 
 {% tabs %}
 {% tab title="Solution" %}
@@ -284,9 +284,9 @@ This happens when you set a limit on your spend allowance when you first approve
 {% endtab %}
 {% endtabs %}
 
-### BEP20: transfer amount exceeds balance
+### POLY ERC-20: transfer amount exceeds balance
 
-> Fail with error 'BEP20: transfer amount exceeds balance'
+> Fail with error 'POLY ERC-20: transfer amount exceeds balance'
 
 You're probably trying to unstake from a Syrup Pool with low rewards in it. Solution below.
 
@@ -380,7 +380,7 @@ Cause unclear. Try these steps before trying again:
 
 ## **Issues with Profile**
 
-### Oops! We couldn't find any Pancake Collectibles in your wallet.
+### Oops! We couldn't find any Hopium Collectibles in your wallet.
 
 We're investigating the logic behind this issue. Meanwhile please try the workaround.
 
@@ -412,7 +412,7 @@ There are two possible causes.
 {% tab title="Solution 1" %}
 Root cause: You have multiple wallets installed on the browser.\
 \
-It may make a conflict between wallets. This is out of PancakeSwap's control and we can do nothing.
+It may make a conflict between wallets. This is out of HopiumSwap's control and we can do nothing.
 
 1. Have only single wallet installed on browser, remove the others.
 2. Reconnect the wallet and retry setting username again.

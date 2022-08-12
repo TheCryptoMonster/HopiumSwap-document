@@ -85,15 +85,15 @@ Learn about our [bug bounty and potential bounty payouts](https://docs.pancakesw
 
 Learn how to find smart contracts on our [Finding Contracts page](https://docs.pancakeswap.finance/code/smart-contracts).
 
-## Why does it say I have no BNB balance?
+## Why does it say I have no Matic balance?
 
-If you've already [transferred BNB into your BNB Smart Chain-enabled wallet](https://docs.pancakeswap.finance/get-started/bep20-guide) but still have this error, you're most likely not [connected to BNB Smart Chain](https://docs.pancakeswap.finance/get-started/connection-guide) within your wallet. Check your wallet's selected network and make sure you have BNB Smart Chain (BSC) selected.
+If you've already [transferred BNB into your BNB Smart Chain-enabled wallet](https://docs.pancakeswap.finance/get-started/bep20-guide) but still have this error, you're most likely not [connected to BNB Smart Chain](https://docs.pancakeswap.finance/get-started/connection-guide) within your wallet. Check your wallet's selected network and make sure you have Polygon Network selected.
 
 ## How do I vote?
 
 To learn more about voting, you can [read our section on Voting](https://docs.pancakeswap.finance/products/voting), including voting guides.
 
-## What is the max supply of CAKE?
+## What is the max supply of HOPE?
 
 $HOPE does not have a maximum supply. The circulating supply is managed through built-in burning and regular burning events.\
 \
