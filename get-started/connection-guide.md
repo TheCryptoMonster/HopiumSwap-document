@@ -1,8 +1,8 @@
-# Connect Your Wallet to PancakeSwap
+# Connect Your Wallet to HopiumSwap
 
 ![](../.gitbook/assets/how-to-connect-wallet-header.png)
 
-You've made a wallet and gotten your BEP20 tokens, now you just need to connect your wallet with PancakeSwap and you're good to go!
+You've made a wallet and gotten your BEP20 tokens, now you just need to connect your wallet with HopiumSwap and you're good to go!
 
 Check out the steps below for how to connect each of our recommended wallets to PancakeSwap.
 
@@ -20,23 +20,23 @@ To connect Trust Wallet follow the steps below. Note that Android and iOS device
 
 ![](<../.gitbook/assets/image (68).png>)
 
-1. Scroll down to "Popular" and tap on "PancakeSwap". You can also find it in "Exchanges".
+1. Scroll down to "Popular" and tap on "HopiumSwap". You can also find it in "Exchanges".
 
 ![](<../.gitbook/assets/image (66).png>)
 
-1. A new page will open with the PancakeSwap logo and some information. Tap the **Connect** button.
+1. A new page will open with the HopiumSwap logo and some information. Tap the **Connect** button.
 
 ![](<../.gitbook/assets/image (67).png>)
 
-1. PancakeSwap will open up. If you see a **Connect** button in the top-right tap that and tap **Trust Wallet** from the list.
+1. HopiumSwap will open up. If you see a **Connect** button in the top-right tap that and tap **Trust Wallet** from the list.
 
 {% hint style="warning" %}
-If you find you are unable to connect at step 4, go back to the DApps menu and find "PancakeSwap" again. Using "Pancake Swap" from the "History" section may result in the same problem.
+If you find you are unable to connect at step 4, go back to the DApps menu and find "HopiumSwap" again. Using "Pancake Swap" from the "History" section may result in the same problem.
 {% endhint %}
 
 #### iOS
 
-To connect to PancakeSwap through iOS, Trust Wallet have prepared a detailed guide on using WallteConnect.
+To connect to HopiumSwap through iOS, Trust Wallet have prepared a detailed guide on using WallteConnect.
 
 Read the [Trust Wallet guide to connecting to PancakeSwap via WalletConnect](https://community.trustwallet.com/t/using-walletconnect-to-access-pancakeswap/212307).
 

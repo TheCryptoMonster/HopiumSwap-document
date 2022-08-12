@@ -4,13 +4,13 @@ description: >-
   other centralized exchange to start using PancakeSwap!
 ---
 
-# Using PancakeSwap without Centralized Exchanges
+# Using HopiumSwap without Centralized Exchanges
 
 ![](<../.gitbook/assets/how-to-pancakeswap-without-cex-header (1).png>)
 
-PancakeSwap is a decentralized application. That means, unlike Binance or other centralized platforms, you don't need to register account to use it... you just need a crypto wallet. So how can you get crypto onto PancakeSwap without using a centralized exchange?
+HopiumSwap is a decentralized application. That means, unlike Binance or other centralized platforms, you don't need to register account to use it... you just need a crypto wallet. So how can you get crypto onto HopiumSwap without using a centralized exchange?
 
-In this tutorial, we're going to guide you through the process of using "cross-chain bridges" to transfer your assets into your BNB Smart Chain wallet, and start using PancakeSwap.
+In this tutorial, we're going to guide you through the process of using "cross-chain bridges" to transfer your assets into your BNB Smart Chain wallet, and start using HopiumSwap.
 
 ### **Move your assets from other blockchains to BNB Smart Chain**
 
@@ -49,7 +49,7 @@ The process is about the same for moving from **Ethereum** to BSC.
     3.  Complete within the deadline. (shown below as countdown)
 
         <img src="https://lh6.googleusercontent.com/mag8YXlpq0WtvlOP7GfPNZrXWralO5l6eWPFTrv9ZiQiyTryXBjtm4GVw_coNjnthYIm-GlP5o_ZuIF0lzOFYXnWn4wMSvcGOnmZIfVlOtTb0c08F6xgsL-4Gs936pYHUzJYbVOg=s0" alt="" data-size="original">
-11. Once you complete the transaction. You should receive your fund in BNB Smart Chain wallet in a few minutes. After that, you can start using PancakeSwap to swap some tokens on BNB Smart Chain!
+11. Once you complete the transaction. You should receive your fund in BNB Smart Chain wallet in a few minutes. After that, you can start using HopiumSwap to swap some tokens on BNB Smart Chain!
 
 Additionally, you can check out [this user guide](https://binance-wallet.gitbook.io/binance-bridge/guides/binance-bridge-v3) and [video tutorial](https://fast.wistia.net/embed/iframe/fhip2z4nth) from Binance.
 {% endtab %}

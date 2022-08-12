@@ -2,7 +2,7 @@
 
 ![](../.gitbook/assets/how-to-make-a-crypto-wallet-header.png)
 
-To get started on PancakeSwap, the first thing you'll need is to set up a wallet that supports BNB Smart Chain (BSC). Wallets are available both on desktop computers and on smartphone devices. You'll need to choose the wallet that fits your needs best.
+To get started on HopiumSwap, the first thing you'll need is to set up a wallet that supports BNB Smart Chain (BSC). Wallets are available both on desktop computers and on smartphone devices. You'll need to choose the wallet that fits your needs best.
 
 {% hint style="danger" %}
 **When you're setting up a wallet, be sure to:**
@@ -33,7 +33,7 @@ Smartphone/Mobile wallets allow you to access your crypto almost anywhere. Walle
 
 ### Which mobile wallet should I choose?
 
-This comparison table gives an overview of the most popular mobile wallets used with PancakeSwap.
+This comparison table gives an overview of the most popular mobile wallets used with HopiumSwap.
 
 |                                                          | Token Pocket | MetaMask | Coinbase Wallet | Trust Wallet                  | SafePal |
 | -------------------------------------------------------- | ------------ | -------- | --------------- | ----------------------------- | ------- |
@@ -113,13 +113,11 @@ Millions of users choose Coinbase Wallet to earn yield with DeFi, swap more than
 * Fiat On-ramp: Users can now directly purchase crypto with fiat in all 86 countries where Coinbase operates, without leaving Wallet.
 * Industry leading security with secure cloud backup.
 
-
-
 [**Download Coinbase Wallet**](https://coinbase-wallet.onelink.me/q5Sx/fdb9b250) **(Automatically detects device)**
 
 [**Coinbase Wallet Setup Guide**](https://www.coinbase.com/wallet/getting-started-mobile)
 
-__
+\_\_
 
 _Coinbase Wallet is a self-custody wallet providing software services subject to Coinbase Wallet_ [_Terms of Service_](https://wallet.coinbase.com/terms-of-service) _and_ [_Privacy Policy_](https://wallet.coinbase.com/privacy-policy)_. Coinbase Wallet is_ [_distinct_](https://help.coinbase.com/en/wallet/getting-started/what-s-the-difference-between-coinbase-com-and-wallet) _from Coinbase.com, and private keys for Coinbase Wallet are stored directly by the user and not by Coinbase. Fees may apply. You do not need a Coinbase.com account to use Coinbase Wallet._
 {% endtab %}
@@ -145,7 +143,7 @@ Token Pocket is a cryptocurrency management app that natively supports many cryp
 
 [**Download Token Pocket App**](https://www.tokenpocket.pro/en/download/app) (Automatically detects device)
 
-#### **Token Pocket Mobile Setup Guide**
+**Token Pocket Mobile Setup Guide**
 
 1. Visit the Token Pocket website and tap **Mobile**.
 
@@ -172,7 +170,7 @@ And that’s it, all done!
 
 To connect to BNB Smart Chain and use PancakeSwap, you can follow the TokenPocket section of our Connect Your Wallet to PancakeSwap guide [https://docs.pancakeswap.finance/get-started/connection-guide](https://docs.pancakeswap.finance/get-started/connection-guide).
 
-#### Getting private key from mobile to import to desktop
+**Getting private key from mobile to import to desktop**
 
 Token Pocket lets you use both a desktop and mobile wallet. This section will cover how to get your private key from your mobile wallet to import into your desktop wallet.
 
@@ -317,13 +315,11 @@ Millions of users choose Coinbase Wallet to earn yield with DeFi, swap more than
 
 * Currently on Chrome Only
 
-
-
 [**Download Coinbase Wallet**](https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad?hl=en\&authuser=0)[ ](https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad?hl=en\&authuser=0)Chrome Only)
 
 [**Coinbase Wallet Setup Guide**](https://www.coinbase.com/wallet/getting-started-extension)
 
-__
+\_\_
 
 _Coinbase Wallet is a self-custody wallet providing software services subject to Coinbase Wallet_ [_Terms of Service_](https://wallet.coinbase.com/terms-of-service) _and_ [_Privacy Policy_](https://wallet.coinbase.com/privacy-policy)_. Coinbase Wallet is_ [_distinct_](https://help.coinbase.com/en/wallet/getting-started/what-s-the-difference-between-coinbase-com-and-wallet) _from Coinbase.com, and private keys for Coinbase Wallet are stored directly by the user and not by Coinbase. Fees may apply. You do not need a Coinbase.com account to use Coinbase Wallet._
 {% endtab %}
@@ -351,7 +347,7 @@ Token Pocket is a standalone application available for both Mac OS and Win64 dev
 
 [**Download Token Pocket Desktop Wallet**](https://www.tokenpocket.pro/en/download/pc) (MacOS or Win64)
 
-#### **Token Pocket Desktop Setup Guide**
+**Token Pocket Desktop Setup Guide**
 
 The desktop version of Token Pocket will ask you to import a private key. Please make sure you’re familiar with and understand the importance of a private key before you proceed.
 
