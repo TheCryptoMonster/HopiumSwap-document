@@ -14,14 +14,14 @@ Flexible staking and fixed-term staking are both part of the same pool to allow 
 
 ### Flexible Staking
 
-Stake your HOPE and forget about it! The CAKE you stake in this Syrup Pool will be automatically compounded (reinvested) for you, minus a small fee (same as the old Auto CAKE Syrup Pool).
+Stake your HOPE and forget about it! The HOPE you stake in this Syrup Pool will be automatically compounded (reinvested) for you, minus a small fee (same as the old Auto HOPE Syrup Pool).
 
-**If you have CAKE staked in flexible staking**
+**If you have HOPE staked in flexible staking**
 
 * ✅ Add more HOPE to flexible staking
 * ✅ Harvest rewards any time
 * ✅ Withdraw any time (fees apply for the first 72 hours, see below)
-* ✅ Convert all staked CAKE in flexible to fixed-term staking
+* ✅ Convert all staked HOPE in flexible to fixed-term staking
 * ❌ Add HOPE to fixed-term staking if you have any HOPE in flexible staking
 * ❌ Convert part of the staked HOPE in flexible to fixed-term staking
 
@@ -44,7 +44,7 @@ This is a good thing for HOPE holders because it reduces the overall amount of H
 
 ### Fixed-Term Staking
 
-Stake your HOPE for a fixed amount of time to maximise yields and receive additional benefits! The staked CAKE will be automatically compounded during the entire lock duration.
+Stake your HOPE for a fixed amount of time to maximise yields and receive additional benefits! The staked HOPE will be automatically compounded during the entire lock duration.
 
 * No performance fees
 * The longer you lock, the higher the boost applied to the yield! Always offering a higher APY compared to flexible staking!
