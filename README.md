@@ -56,7 +56,7 @@ New rounds every 5 minutes!
 
 ### Pottery
 
-Win a bigger yield on your CAKE deposit, a combination of CAKE lock-staking and lottery!
+Win a bigger yield on your HOPE deposit, a combination of HOPE lock-staking and lottery!
 
 ## Is HopiumSwap safe?
 
