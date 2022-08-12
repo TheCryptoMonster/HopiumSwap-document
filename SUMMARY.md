@@ -105,12 +105,6 @@
   * [Social Media Marketing Manager](hiring/become-a-chef/social-media-marketing-manager.md)
   * [Community Manager - PTBR](hiring/become-a-chef/community-manager-ptbr.md)
 
-## Reference
-
-* [Old Tokenomics](reference/old-tokenomics/README.md)
-  * [CAKE Tokenomics v1](reference/old-tokenomics/cake-tokenomics-v1.md)
-  * [Controlling CAKE supply v1](reference/old-tokenomics/cake-tokenomics-v1-controlling-cake-supply.md)
-
 ## Contract Governance <a href="#governance" id="governance"></a>
 
 * [Lottery](governance/lottery/README.md)
