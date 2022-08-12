@@ -4,9 +4,9 @@ This page provides links or locations for PancakeSwap's smart contracts.
 
 ## Main contracts
 
-The following links will take you to the BscScan page for PancakeSwap's main smart contracts.
+The following links will take you to the BscScan page for HopiumSwap's main smart contracts.
 
-* [PancakeSwap: Main Staking Contract/MasterChef](https://bscscan.com/address/0x73feaa1ee314f8c655e354234017be2193c9e24e)
+* PancakeSwap: Main Staking Contract/MasterChef
 * [PancakeSwap: Factory v2](https://bscscan.com/address/0xca143ce32fe78f1f7019d7d551a6402fc5350c73)
 * [PancakeSwap: Router v2](https://bscscan.com/address/0x10ed43c718714eb63d5aa57b78b54704e256024e)
 * [PancakeSwap: Lottery v2](https://bscscan.com/address/0x5aF6D33DE2ccEC94efb1bDF8f92Bd58085432d2c)
@@ -18,7 +18,7 @@ The following links will take you to the BscScan page for PancakeSwap's main sma
 
 ## Farms contracts
 
-Each Farm used by PancakeSwap has its own smart contract. Follow the steps below to view a Farm's smart contract.
+Each Farm used by HopiumSwap has its own smart contract. Follow the steps below to view a Farm's smart contract.
 
 1. Go to the [PancakeSwap Farms page](https://pancakeswap.finance/farms) and click the row of the Farm you want to see the contract for.
 
