@@ -2,12 +2,13 @@
 
 ![](../.gitbook/assets/customer-support-header.png)
 
-## There is NO customer support for PancakeSwap.
+## There is customer support for HopiumSwap!
 
 If you're experiencing issues,
 
 1. First check [the troubleshooting page](../help/troubleshooting.md) for your error code
-2. If you can't find a solution, try reaching out in your local [Telegram group](telegram.md).
+2. If you can't find a solution, try reaching out in your local [Telegram group](https://t.me/HopiumSwapExchange).
+3. Send us an email&#x20;
 
 {% hint style="danger" %}
 Admins will NEVER send you a direct message. If anybody approaches you directly on e.g. Telegram pretending to represent customer support, please block them and report as spam.

@@ -2,11 +2,11 @@
 
 ![](../.gitbook/assets/socials-communities-header.png)
 
-Here you'll find a list of PancakeSwap's official Social media channels and communities. If English is not your first language, we have a number of non-English communities that would love to have you join them!
+Here you'll find a list of HopiumSwap's official Social media channels and communities. If English is not your first language, we have a number of non-English communities that would love to have you join them!
 
 ## 🐦 Twitter
 
-[https://twitter.com/pancakeswap](https://twitter.com/pancakeswap)
+[https://twitter.com/pancakeswap](https://twitter.com/HopiumSwap)
 
 ## 📰 Blog (Medium)
 
@@ -15,10 +15,6 @@ Here you'll find a list of PancakeSwap's official Social media channels and comm
 ## 👽 Reddit
 
 {% embed url="https://reddit.com/r/pancakeswap" %}
-
-## 🤳 Instagram
-
-{% embed url="https://www.instagram.com/pancakeswap_official/" %}
 
 ## 🤖Discord
 

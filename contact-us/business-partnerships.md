@@ -4,15 +4,15 @@
 
 ## Farms and Syrup Pools
 
-Farms incentivize users to provide liquidity for your trading pair by distributing CAKE to your pair's LP Token holders.
+Farms incentivize users to provide liquidity for your trading pair by distributing HOPE to your pair's LP Token holders.
 
 Syrup Pools are a way of distributing your tokens to BSC users who stake CAKE in the pool.
 
-These two products go hand-in-paw on PancakeSwap: when a project provides their tokens for a Syrup Pool, we'll also create a Farm. If you're looking to distribute tokens and incentivize liquidity, get in touch.
+These two products go hand-in-paw on HopiumSwap: when a project provides their tokens for a Syrup Pool, we'll also create a Farm. If you're looking to distribute tokens and incentivize liquidity, get in touch.
 
 **​**[**Apply to run a Farm or Syrup Pool**](https://docs.google.com/forms/d/e/1FAIpQLSfQNsAfh98SAfcqJKR3is2hdvMRdnvfd2F3Hql96vXHgIi3Bw/viewform)**​**
 
-* Please don't email us to apply - we only respond to applications via the application form.&#x20;
+* Please don't email us to apply - we only respond to applications via the application form.
 * Please don't chase us for a response on your application. We have a constant backlog of quality projects reaching out to us.
 
 ### How long will it take to get a response?
@@ -21,7 +21,7 @@ We aim to respond to applications within a week, but due to a large number of re
 
 ### What’s the difference between a Core Farm VS Farm Auction
 
-A Core Farm is usually offered to projects who have shown excellent trading volumes on PancakeSwap and have met the standards of our internal review process, while any project can participate in a Farm Auction and win a Farm slot.
+A Core Farm is usually offered to projects who have shown excellent trading volumes on HopiumSwap and have met the standards of our internal review process, while any project can participate in a Farm Auction and win a Farm slot.
 
 ### What are the qualifying criteria for Community VS Core?
 
@@ -29,20 +29,20 @@ Qualifying criteria for Community Farms and Core Farms/Pools are based on our in
 
 ### Can I get a larger Farm multiplier? Or can I extend my Syrup Pool and Farm?
 
-If you’ve already got an ongoing Pool and Farm, you may be able to extend the timeline via a Boost Pool. If you wish to increase the multiplier, the team will consider it if the 30-day volume is increased. Contact us via your existing PancakeSwap communication channels for enquiries.
+If you’ve already got an ongoing Pool and Farm, you may be able to extend the timeline via a Boost Pool. If you wish to increase the multiplier, the team will consider it if the 30-day volume is increased. Contact us via your existing HopiumSwap communication channels for enquiries.
 
 ## IFOs (Token Sales)
 
-"IFO" (Initial Farm Offering) is a new model of token sale pioneered by PancakeSwap. Here's how it works, in short:&#x20;
+"IFO" (Initial Farm Offering) is a new model of token sale pioneered by HopiumSwap. Here's how it works, in short:
 
-* Users buy your token with CAKE tokens.
-* After the sale, we distribute the CAKE to you.
+* Users buy your token with HOPE tokens.
+* After the sale, we distribute the HOPE to you.
 
 Learn more about [how IFOs work.](https://medium.com/pancakeswap/initial-farm-offering-ifo-3-0-ifo-staking-pool-622d8bd356f1)
 
 [Apply to run an IFO](https://docs.google.com/forms/d/e/1FAIpQLSf0Vmy3k0KyXtXwqxr8QLjD8Xd6KBAmkYxcBRRVTUYJVX17fA/viewform)
 
-* Please don't email us to apply - we only respond to applications via the application form.&#x20;
+* Please don't email us to apply - we only respond to applications via the application form.
 * Please don't chase us for a response on your application. We have a constant backlog of quality projects reaching out to us.
 
 ### How long will it take to get a response?
@@ -67,11 +67,11 @@ We don’t take applications for these lists. Users can still add your token man
 
 ### How can I add my token's logo/icon?
 
-Please add your icon to Trust Wallet’s assets repo, which PancakeSwap references: [https://github.com/trustwallet/assets](https://github.com/trustwallet/assets)
+Please add your icon to Trust Wallet’s assets repo, which HopiumSwap references: [https://github.com/trustwallet/assets](https://github.com/trustwallet/assets)
 
 ### Someone made a fake copy of my token! Can you block it?
 
-Due to PancakeSwap’s nature as an AMM-based DEX, we’re not able to prevent the trading of any BEP-20 token. We recommend ensuring that your token contract is clearly visible and verifiable on your site, and educating your users about how to safely trade your token.
+Due to HopiumSwaps nature as an AMM-based DEX, we’re not able to prevent the trading of any BEP-20 token. We recommend ensuring that your token contract is clearly visible and verifiable on your site, and educating your users about how to safely trade your token.
 
 ### People get an error when trading my token. What can I do?
 
