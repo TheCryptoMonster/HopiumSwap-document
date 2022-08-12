@@ -8,13 +8,13 @@ HopiumSwap now offers one HOPE Syrup Pool with two staking options: flexible sta
 
 ## What’s the difference between “Flexible” and “Fixed-Term” staking?
 
-With both, you can simply stake your HOPE tokens to earn more HOPE tokens with no deposit fees—both staking options auto-compound HOPE rewards for you. Flexible staking allows users to stake CAKE and earn rewards with the ability to unstake whenever they please. Fixed-term staking allows users to maximize their yield and earn even more HOPE by locking their staked HOPE for a period of time they choose, earning a linearly boosted APY compared to flexible staking.
+With both, you can simply stake your HOPE tokens to earn more HOPE tokens with no deposit fees—both staking options auto-compound HOPE rewards for you. Flexible staking allows users to stake HOPE and earn rewards with the ability to unstake whenever they please. Fixed-term staking allows users to maximize their yield and earn even more HOPE by locking their staked HOPE for a period of time they choose, earning a linearly boosted APY compared to flexible staking.
 
 Flexible staking and fixed-term staking are both part of the same pool to allow users easy migration between the two staking options. **Because of this, you can only choose one staking option at a time.** More details about the differences are below.
 
 ### Flexible Staking
 
-Stake your CAKE and forget about it! The CAKE you stake in this Syrup Pool will be automatically compounded (reinvested) for you, minus a small fee (same as the old Auto CAKE Syrup Pool).
+Stake your HOPE and forget about it! The CAKE you stake in this Syrup Pool will be automatically compounded (reinvested) for you, minus a small fee (same as the old Auto CAKE Syrup Pool).
 
 **If you have CAKE staked in flexible staking**
 
