@@ -2,7 +2,7 @@
 
 ![](../../../.gitbook/assets/how-to-voting-with-safepal-header.png)
 
-You can use the SafePal wallet to vote on open issues in PancakeSwap. Follow the steps below to cast your vote from inside the SafePal wallet.
+You can use the SafePal wallet to vote on open issues in HopiumSwap. Follow the steps below to cast your vote from inside the SafePal wallet.
 
 1\. Open your SafePal wallet and select the dApp browser icon in the menu down the bottom.
 
@@ -12,11 +12,10 @@ You can use the SafePal wallet to vote on open issues in PancakeSwap. Follow the
 
 ![](../../../.gitbook/assets/safepal-2.png)
 
-3\. Click on the connect wallet button at the top of your screen (see the image).&#x20;
+3\. Click on the connect wallet button at the top of your screen (see the image).
 
 ![](../../../.gitbook/assets/safepal-3.png)
 
-4\. Click on **Injected** as the wallet. Your wallet will now be connected and you can now vote on PancakeSwap proposals.
+4\. Click on **Injected** as the wallet. Your wallet will now be connected and you can now vote on HopiumSwap proposals.
 
 ![](../../../.gitbook/assets/safepal-4.png)
-

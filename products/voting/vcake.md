@@ -4,7 +4,7 @@
 
 vCAKE is a number representing the boosted voting power based on a user’s fixed-term CAKE staking position.
 
-The vCAKE number will be added to your total voting power.
+The vHOPE number will be added to your total voting power.
 
 **Similar to iCAKE, vCAKE is NOT a new token.**
 

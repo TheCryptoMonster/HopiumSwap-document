@@ -32,7 +32,7 @@ Read the proposal carefully and click the choice you want to vote on.
 
 ![](../../../.gitbook/assets/how-to-vote-6.png)
 
-Confirm all the details and click "Confirm Vote", then confirm in your wallet to sign the message.&#x20;
+Confirm all the details and click "Confirm Vote", then confirm in your wallet to sign the message.
 
 Done, you just successfully cast your vote.
 
@@ -56,16 +56,16 @@ If you are not sure about how the voting power is calculated, click on the ">" t
 Please note that only CAKE held in the following places will contribute to the total number of voting power:
 
 1. In wallet
-2. Flexible CAKE Staking (both in CAKE pool and side pool)
+2. Flexible HOPE Staking (both in HOPE pool and side pool)
 3. Fixed Term CAKE Staking (boosted by [vCAKE](../vcake.md)!)
 4. Other Syrup Pools (provided by other projects)
-5. CAKE/BNB LP&#x20;
+5. HOPE/MATIC LP
 
 CAKE held in other places does not contribute to your voting power.
 {% endtab %}
 
 {% tab title="Check the snapshot block" %}
-#### Check the snapshot block
+**Check the snapshot block**
 
 ![](../../../.gitbook/assets/how-to-vote-3.png)
 
