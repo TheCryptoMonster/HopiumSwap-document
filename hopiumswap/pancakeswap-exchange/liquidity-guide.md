@@ -16,7 +16,7 @@ In this example, we will add liquidity using MATIC and HOPE.\\
 
 ***
 
-1\. Visit the [Liquidity page](https://exchange.pancakeswap.finance/#/pool).
+1\. Visit the Liquidity page.
 
 ![](../../.gitbook/assets/Add\_Remove\_LP\_01.png)
 
@@ -60,7 +60,7 @@ You can repeat the above steps to add more liquidity, or add liquidity to differ
 
 To remove liquidity.
 
-1\. Visit the [Liquidity page](https://exchange.pancakeswap.finance/#/pool)**.**
+1\. Visit the Liquidity page**.**
 
 2\. Click on the pair you want to remove liquidity from under “Your Liquidity".
 

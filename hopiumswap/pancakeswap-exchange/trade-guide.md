@@ -1,16 +1,16 @@
 # How to Trade
 
-![](../../.gitbook/assets/how-to-trade-on-pancakeswap-header.png)
+![](<../../.gitbook/assets/intro-header (2).png>)
 
 Trading on HopiumSwap is very easy compared to most exchanges. You aren't going to be overwhelmed by charts or jargon, and calculations are all handled for you.
 
 ### Getting set up to trade
 
-Before you can trade, you will need a Polygon Network-compatible wallet. You can learn how to get one [here](https://docs.pancakeswap.finance/get-started/wallet-guide). You will also need to have some POLY ERC-20 tokens to trade with. You can learn how to get some [here](https://docs.pancakeswap.finance/get-started/bep20-guide).
+Before you can trade, you will need a Polygon Network-compatible wallet. You will also need to have some POLY ERC-20 tokens to trade with.
 
 ### Trading on the HopiumSwap exchange
 
-1\. Go to the exchange page [here](https://exchange.pancakeswap.finance/#/swap).
+1\. Go to the exchange page here.
 
 2\. Unlock your Polygon Network-compatible wallet by clicking **Unlock Wallet** (you can also **Connect** in the top right-hand corner). If you haven't yet connected your wallet to HopiumSwap, you can view the guide to [here](https://docs.pancakeswap.finance/get-started/connection-guide).
 
@@ -24,7 +24,7 @@ Whichever token you choose, you will need to make sure you have some to trade wi
 
 4\. Choose the token you want to trade to in the "To" section as above. Next, type an amount for your "To" currency by clicking inside the input box.
 
-![](<../../.gitbook/assets/image (14).png>)
+![](<../../.gitbook/assets/coming-soon-neon-sign\_191108-233 (1).webp>)
 
 Your "From" currency amount will be estimated automatically. You can also type your "From" amount and have the "To" amount estimate automatically if you like.
 
@@ -34,7 +34,7 @@ Your "From" currency amount will be estimated automatically. You can also type y
 
 6\. A window with more details will appear. Check the details are correct.
 
-![](<../../.gitbook/assets/image (16).png>)
+![](<../../.gitbook/assets/coming-soon-neon-sign\_191108-233 (1).webp>)
 
 When you are ready, click the **Confirm Swap** button. Your wallet will ask you to confirm the action.
 

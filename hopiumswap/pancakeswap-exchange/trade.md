@@ -1,10 +1,10 @@
 # Token Swaps
 
-![](../../.gitbook/assets/swap-trade-header.png)
+![](<../../.gitbook/assets/intro-header (2).png>)
 
-\*\*\*\*[**Token swaps**](https://exchange.pancakeswap.finance/#/swap) on HopiumSwap are a simple way to trade one POLY ERC-20 token for another via automated liquidity pools.
+\*\*\*\***Token swaps** on HopiumSwap are a simple way to trade one POLY ERC-20 token for another via automated liquidity pools.
 
-![](../../.gitbook/assets/screenshot-2021-04-19-at-6.11.54-pm.png)
+![](<../../.gitbook/assets/coming-soon-neon-sign\_191108-233 (1).webp>)
 
 When you make a token swap (trade) on the exchange you will pay a **0.25% trading fee**, which is broken down as follows:
 
