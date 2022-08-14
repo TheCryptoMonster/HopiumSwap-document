@@ -1,6 +1,6 @@
 # HOPE Tokenomics
 
-![](../../.gitbook/assets/220628-en.png)
+![](<../../.gitbook/assets/coming-soon-neon-sign\_191108-233 (1).webp>)
 
 ## **Emission rate** <a href="#emission-rate" id="emission-rate"></a>
 
@@ -28,7 +28,6 @@ As such, we haven't included it in the above emission rate.
 | ----------------------------- | ---------------------------: | ------------------------: | -------------------: |
 | Farms and Lottery             |                        9.37% |                      3.75 |     108,000 (approx) |
 | of which diverted and burned  |                              |                           |              -46,000 |
-| Syrup Pools                   |                          25% |                        10 |     288,000 (approx) |
 | **Total Daily HOPE Emission** |                              |                           | **350,000 (approx)** |
 
 ## **Other Deflationary Mechanics** <a href="#other-deflationary-mechanics" id="other-deflationary-mechanics"></a>
@@ -65,7 +64,7 @@ However, in April 2022, HopiumSwap migrated to a new MasterChef v2 contract. The
 {% hint style="warning" %}
 On the day of the burn, the supply shown on the homepage might suddenly jump by several million HOPE.
 
-Don't worry - **THIS CAKE NEVER ACTUALLY ENTERS CIRCULATION:**
+Don't worry - **THIS HOPE NEVER ACTUALLY ENTERS CIRCULATION:**
 {% endhint %}
 
 This apparent jump is just because of how all the HOPE that's allocated for the burn is stored during the week.
@@ -76,7 +75,7 @@ The HOPE allocated to burn are harvested before completing the weekly token burn
 
 To confirm that the circulating CAKE supply shown on the HopiumSwap homepage is correct,
 
-1. Head to the CAKE token contract on PolygonScan and [see how much CAKE is held by the Burn Address.](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82#balances) That's the total amount of HOPE that's been burned (removed from circulation FOREVER, and impossible to ever retrieve).
+1. &#x20;the HOPE token contract will soon be on PolygonScan then you will see how much HOPE is held by the Burn Address. That's the total amount of HOPE that's been burned (removed from circulation FOREVER, and impossible to ever retrieve).
 2. Then, subtract this burned amount from the "Total Supply" that PolygonScan shows.
 3. This gives you the actual HOPE supply.
 

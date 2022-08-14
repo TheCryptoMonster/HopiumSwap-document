@@ -58,11 +58,3 @@ Have fun making a unique brand that's clearly yours -- if your product is strong
 ## HopiumSwap Logo Downloads
 
 ![](<.gitbook/assets/coming-soon-neon-sign\_191108-233 (19).webp>)
-
-Once you've read all the above, download the HopiumSwap and HOPE logos below.
-
-{% file src=".gitbook/assets/PancakeSwap Logos.zip" %}
-Download the official HopiumSwap and HOPE logos.
-{% endfile %}
-
-By downloading this file, you confirm that you will only use it to the extent permitted by the Terms detailed in this page.
