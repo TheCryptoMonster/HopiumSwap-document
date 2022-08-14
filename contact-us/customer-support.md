@@ -1,6 +1,6 @@
 # Customer Support
 
-![](../.gitbook/assets/customer-support-header.png)
+![](<../.gitbook/assets/intro-header (2).png>)
 
 ## There is customer support for HopiumSwap!
 

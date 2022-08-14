@@ -1,10 +1,10 @@
 ---
-description: Thank you for expressing your interest in contributing to PancakeSwap!
+description: Thank you for expressing your interest in contributing to HopiumSwap!
 ---
 
 # Contributing
 
-![](../../.gitbook/assets/developers-header.png)
+![](<../../.gitbook/assets/intro-header (2).png>)
 
 HopiumSwap is an open-source project. If you want to contribute to the project, this section is here to guide you through your first steps with the HopiumSwap team&#x20;
 
@@ -45,7 +45,7 @@ We try to maintain as much consistency as we can between each of our repository.
 ### Use the UIKit
 
 {% hint style="warning" %}
-Check the [UI Kit](https://github.com/pancakeswap/pancake-frontend/tree/master/packages/uikit) before you start doing anything. A lot of components are already created, and we don't want that you waste your time reinventing the wheel 😉
+Check the UI Kit before you start doing anything. A lot of components are already created, and we don't want that you waste your time reinventing the wheel 😉
 {% endhint %}
 
 If a variant of a component needs to be created, use the corresponding component in the UI Kit as a base. For example:
@@ -61,7 +61,7 @@ const NewButtonVariant = styled(Button)`
 
 ### Use the tools!
 
-Most of our repos use [Typescript](https://www.typescriptlang.org/docs), [ESLint](https://eslint.org/docs/user-guide/getting-started), and [Prettier](https://prettier.io). Make sure you're familiar with Typescript’s best practices and enable an ESLint and Prettier plugin for your IDE.
+Most of our repos use Typescript, ESLint, and Prettier. Make sure you're familiar with Typescript’s best practices and enable an ESLint and Prettier plugin for your IDE.
 
 {% hint style="warning" %}
 Make sure your code is formatted with Prettier and is free from any ESLint error before you submit a pull request.
@@ -69,8 +69,8 @@ Make sure your code is formatted with Prettier and is free from any ESLint error
 
 ### Some good practices
 
-* Keep components as small and ["dumb"](https://en.wikipedia.org/wiki/Pure\_function) as possible.
-* Use [Composition over Inheritance](https://reactjs.org/docs/composition-vs-inheritance.html).
+* Keep components as small and "dumb" as possible.
+* Use Composition over Inheritance.
 * Keep in mind that your code will be read and maintained by several other developers. Make it as clear and easy to update as possible._​_
 
 ## Creating your pull request
@@ -82,7 +82,7 @@ Your code is ready to be submitted for review, congratulations🥳
 * If possible self-review your PR and **add comments** where additional clarification is needed.
 
 {% hint style="info" %}
-Create a [draft PR](https://github.blog/2019-02-14-introducing-draft-pull-requests/) as soon as possible so we can view your ongoing progress.
+Create a draft PR as soon as possible so we can view your ongoing progress.
 {% endhint %}
 
 ### Pull Request Title

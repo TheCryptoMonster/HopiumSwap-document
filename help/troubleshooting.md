@@ -4,7 +4,7 @@ description: Common error messages. Use the sidebar ➡️to jump to the error y
 
 # Troubleshooting Errors
 
-![](../.gitbook/assets/troubleshooting-header.png)
+![](<../.gitbook/assets/intro-header (2).png>)
 
 Sometimes you may find yourself facing a problem that doesn't have a clear solution. These troubleshooting tips may help you solve problems you run into.
 
@@ -123,8 +123,6 @@ This happened because you started making a transaction, but you didn't sign and 
 > The transaction cannot succeed due to error: Hopium: K. This is probably an issue with one of the tokens you are swapping.
 
 Try modifying the amount on “To” field. Therefore putting "(estimated)" symbol on “From”. Then initiate the swap immediately.
-
-![](<../.gitbook/assets/pancake-k-solution (2).png>)
 
 This usually happen when you are trying to swap a token with its own fee.
 
@@ -294,12 +292,12 @@ If not, you may be trying to send tokens that you don't have in your wallet (for
 
 {% tabs %}
 {% tab title="Solution" %}
-Firstly,[ let the team know](../contact-us/telegram.md) which pool you're trying to unstake from, so they can top up the rewards. If you're in a hurry to unstake and you don't mind losing your pending yield, try an emergencyWithdraw:
+Firstly, let the team know which pool you're trying to unstake from, so they can top up the rewards. If you're in a hurry to unstake and you don't mind losing your pending yield, try an emergencyWithdraw:
 
 You can perform an “emergencyWithdraw” from the contract directly to unstake your staked tokens.
 
 1. Find the contract address of the Syrup Pool you're trying to unstake from. You can find it in your wallet's transaction log.
-2. Go to [https://bscscan.com/](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract) and in the search bar, enter the contract address.
+2. Go to [https://polygonscan.com/](https://polygonscan.com/) and in the search bar, enter the contract address.
 3. Select **Write Contract.**
 4. Click **“Connect to Web3”** and connect your wallet.![](https://lh6.googleusercontent.com/-\_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk\_1dTHkPuCmE50vpNNZxEqoM5nPmE\_12k3-8Q8YYoRYqJ\_VGjxJ03YPRuVQ1O5ME)
 5. In section **“3. emergencyWithdraw”,** and click “Write”.
@@ -331,7 +329,7 @@ This happens when you try to connect via a browser extension like MetaMask or Bi
 
 {% tabs %}
 {% tab title="Solution" %}
-Install the official browser extension to connect, or read our guide on [how to connect a wallet to PancakeSwap](https://docs.pancakeswap.finance/get-started/connection-guide).
+Install the official browser extension to connect, or read our guide on how to connect a wallet to HopiumSwap.
 {% endtab %}
 {% endtabs %}
 
@@ -387,7 +385,7 @@ We're investigating the logic behind this issue. Meanwhile please try the workar
 {% tabs %}
 {% tab title="Workaround 1" %}
 1. Go to “Collectible” page, then come back to profile page.\
-   If you can’t find the link, go to [https://pancakeswap.finance/collectibles](https://pancakeswap.finance/collectibles) directly.
+
 2. Retry profile creation.
 {% endtab %}
 

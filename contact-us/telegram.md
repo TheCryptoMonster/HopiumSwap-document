@@ -1,6 +1,6 @@
 # Social Accounts & Communities
 
-![](../.gitbook/assets/socials-communities-header.png)
+![](<../.gitbook/assets/intro-header (2).png>)
 
 Here you'll find a list of HopiumSwap's official Social media channels and communities. If English is not your first language, we have a number of non-English communities that would love to have you join them!
 
@@ -8,15 +8,9 @@ Here you'll find a list of HopiumSwap's official Social media channels and commu
 
 [https://twitter.com/pancakeswap](https://twitter.com/HopiumSwap)
 
-## 📰 Blog (Medium)
+## 👽 Reddit <a href="#https-www.reddit.com-r-hopiumswapexchange-comments-wd5qoa-up_and_coming_swap_exchange_hopiumswap-use" id="https-www.reddit.com-r-hopiumswapexchange-comments-wd5qoa-up_and_coming_swap_exchange_hopiumswap-use"></a>
 
-{% embed url="https://medium.com/pancakeswap" %}
-
-## 👽 Reddit
-
-{% embed url="https://reddit.com/r/pancakeswap" %}
-
-## 🤖Discord
+[https://www.reddit.com/r/HopiumSwapExchange/](https://www.reddit.com/r/HopiumSwapExchange/)
 
 Newly launched on 24th Nov! The below is the only link for our discord server!
 
@@ -26,23 +20,8 @@ Newly launched on 24th Nov! The below is the only link for our discord server!
 
 **Official Telegram Groups:**
 
-* 📣 Announcement Channel ([http://t.me/PancakeSwapAnn](http://t.me/PancakeSwapAnn))
-* 🥞 English ([http://t.me/pancakeswap](http://t.me/pancakeswap))
-* 🇯🇵 Japanese ([https://t.me/PancakeSwapJP](https://t.me/PancakeSwapJP))
-* 🇨🇳 Chinese ([http://t.me/PancakeSwap\_CN](http://t.me/PancakeSwap\_CN))
-* 🇮🇩 Indonesian ([http://t.me/PancakeSwapIndonesia](http://t.me/PancakeSwapIndonesia))
-* 🇻🇳 Việt Nam ([https://t.me/PancakeSwapVN](https://t.me/PancakeSwapVN))
-* 🇪🇸 🇦🇷 🇻🇪 Español ([https://t.me/PancakeSwapES](https://t.me/PancakeSwapES))
-* 🇷🇺 Russian ([http://t.me/pancakeswap\_ru](http://t.me/pancakeswap\_ru))
-* 🇧🇷 🇵🇹 Portuguese/Brazilian ([https://t.me/PancakeSwapPortuguese](https://t.me/PancakeSwapPortuguese))
-* 🇫🇷 French ([https://t.me/pancakeswapfr](https://t.me/pancakeswapfr))
-* 🇮🇹 Italiano ([https://t.me/pancakeswap\_ita](https://t.me/pancakeswap\_ita))
-* 🇹🇷 Türkiye ([https://t.me/pancakeswapturkiye](https://t.me/pancakeswapturkiye))
-* 🇩🇪 🇦🇹 🇨🇭 Deutsch ([https://t.me/PancakeSwap\_DE](https://t.me/PancakeSwap\_DE))
-* 🇵🇭 Filipino ([https://t.me/Pancakeswap\_Ph](https://t.me/Pancakeswap\_Ph))
-* 🇬🇪 Georgia ([https://t.me/PancakeSwapGeorgia](https://t.me/PancakeSwapGeorgia))
-* 🇮🇳 India ([https://t.me/PancakeSwapINDIA](https://t.me/PancakeSwapINDIA))
-* 😤 Ban Appeal ([https://t.me/pancakebanappeal](https://t.me/pancakebanappeal))
+* 📣 Announcement Channel ([https://t.me/HopiumSwapExchange](https://t.me/HopiumSwapExchange))
+* 🥞 English ([https://t.me/HopiumSwapExchange](https://t.me/HopiumSwapExchange))
 
 {% hint style="danger" %}
 Admins will NEVER send you a direct message. If anybody approaches you directly on e.g. Telegram pretending to represent customer support, please block them and report spam.

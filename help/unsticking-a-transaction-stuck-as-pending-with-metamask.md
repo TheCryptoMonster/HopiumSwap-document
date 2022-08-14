@@ -4,7 +4,7 @@ description: How to "unstick" any pending transactions that are stuck in your Me
 
 # Fixing Stuck Pending Transactions on MetaMask
 
-![](../.gitbook/assets/how-to-fix-a-stuck-transaction-header.png)
+![](<../.gitbook/assets/intro-header (2).png>)
 
 If your transaction is stuck on pending in Metamask, and the “Cancel” button isn’t helping, you might need to use this method to clear your backlog.
 
@@ -15,8 +15,6 @@ This method works by essentially overwriting the stuck transaction with another,
 1\. Open your MetaMask plugin.
 
 ![](../.gitbook/assets/1-1-MetaMask\_plugin.png)
-
-
 
 2\. Click on the colorful circle icon on the top-right and click **Settings** from the dropdown menu.
 
@@ -56,11 +54,11 @@ Now we’re going to make a new transaction to replace the stuck one. We’ll cu
 
 ![](<../.gitbook/assets/image (9).png>)
 
-8\. Create a new transaction to replace your stuck transaction. This time around, increase the **Transaction Fee**. Here we’ve increased it from 9 to 20. This will make it more likely for  your transaction to be added to a block.
+8\. Create a new transaction to replace your stuck transaction. This time around, increase the **Transaction Fee**. Here we’ve increased it from 9 to 20. This will make it more likely for your transaction to be added to a block.
 
 ![](<../.gitbook/assets/image (10).png>)
 
-9\. On the confirmation page, make sure your Gas Price is now at your new, higher amount.&#x20;
+9\. On the confirmation page, make sure your Gas Price is now at your new, higher amount.
 
 10\. Find the **CUSTOM NONCE** entry and change the nonce to the number you wrote down in step 7. Now click Confirm.
 
@@ -72,4 +70,4 @@ Now we’re going to make a new transaction to replace the stuck one. We’ll cu
 
 12\. Your completed transaction should show at the top of your Activity list. If it still says “Pending” in orange you’ll need to wait a little longer, or try the process again with an even higher transaction fee (gas price).
 
-Since no wallet can create two transactions of the same nonce, if the replacement transaction you make is successful, your stuck transaction will be canceled.\
+Since no wallet can create two transactions of the same nonce, if the replacement transaction you make is successful, your stuck transaction will be canceled.\\
