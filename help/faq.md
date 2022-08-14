@@ -31,25 +31,25 @@ You can [view our to-do list here, but don't call it a roadmap](https://docs.hop
 
 ## How do I connect my wallet to Polygon Network and HopiumSwap?
 
-We have a [Connect Your Wallet to PancakeSwap guide](https://docs.pancakeswap.finance/get-started/connection-guide) covering this in detail.
+We have a Connect Your Wallet to Hopiumswap guide covering this in detail.
 
 ## What's the best wallet for HopiumSwap?
 
-It depends on your needs. We have an [in-depth guide to selecting and creating a wallet](https://docs.pancakeswap.finance/get-started/wallet-guide) that's right for you.
+It depends on your needs. We have an in-depth guide to selecting and creating a wallet that's right for you.
 
 ## Why is my transaction failing?
 
 You can check the status of a transaction on [https://bscscan.com/](https://bscscan.com).
 
-Our [Troubleshooting Errors guide](https://docs.pancakeswap.finance/help/troubleshooting) may have a solution for your problem if you're having issues.
+Our Troubleshooting Errors guide may have a solution for your problem if you're having issues.
 
-You can also see our [Fixing Stuck Pending Transactions guide](https://docs.pancakeswap.finance/help/unsticking-a-transaction-stuck-as-pending-with-metamask) if you have a stuck transaction.
+You can also see our Fixing Stuck Pending Transactions guide if you have a stuck transaction.
 
 ## When will you open more pools?
 
 New Pools are added to HopiumSwap frequently. There will always be an announcement before the launch of new pools.
 
-Join the [announcements Telegram group](https://t.me/PancakeSwapAnn) to learn about new Pools as early as possible.
+Join the [announcements Telegram group](https://t.me/HopiumSwapExchange) to learn about new Pools as early as possible.
 
 
 
@@ -63,7 +63,7 @@ Learn about our bug bounty and potential bounty payouts.
 
 ## Where can I view smart contracts?
 
-Learn how to find smart contracts on our [Finding Contracts page](https://github.com/TheCryptoMonster).
+Learn how to find smart contracts on our Finding Contracts page.
 
 ## Why does it say I have no Matic balance?
 
@@ -92,10 +92,6 @@ HopiumSwap’s other smart contracts, like IFO and AutoPool, are protected as we
 Check the Become a team area for information on open positions we're looking to fill.
 
 We advertise new positions we're looking to fill on our official social media channels, so be sure to follow us to get the latest hiring information.
-
-## What is SYRUP?
-
-SYRUP was a part of the staking process earlier in HopiumSwap's life. SYRUP was discontinued when a security issue was discovered and is no longer a part of HopiumSwap.
 
 ## I can't find an answer for my question. Where do I find an answer?
 

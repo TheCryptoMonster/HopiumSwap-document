@@ -1,6 +1,6 @@
 # Create a Wallet
 
-![](../.gitbook/assets/how-to-make-a-crypto-wallet-header.png)
+![](<../.gitbook/assets/intro-header (2).png>)
 
 To get started on HopiumSwap, the first thing you'll need is to set up a wallet that supports BNB Smart Chain (BSC). Wallets are available both on desktop computers and on smartphone devices. You'll need to choose the wallet that fits your needs best.
 

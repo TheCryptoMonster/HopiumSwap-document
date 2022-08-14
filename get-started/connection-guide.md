@@ -1,6 +1,6 @@
 # Connect Your Wallet to HopiumSwap
 
-![](../.gitbook/assets/how-to-connect-wallet-header.png)
+![](<../.gitbook/assets/intro-header (2).png>)
 
 You've made a wallet and gotten your POLY ERC-20 tokens, now you just need to connect your wallet with HopiumSwap and you're good to go!
 
@@ -21,14 +21,8 @@ To connect Trust Wallet follow the steps below. Note that Android and iOS device
 ![](<../.gitbook/assets/image (68).png>)
 
 1. Scroll down to "Popular" and tap on "HopiumSwap". You can also find it in "Exchanges".
-
-![](<../.gitbook/assets/image (66).png>)
-
-1. A new page will open with the HopiumSwap logo and some information. Tap the **Connect** button.
-
-![](<../.gitbook/assets/image (67).png>)
-
-1. HopiumSwap will open up. If you see a **Connect** button in the top-right tap that and tap **Trust Wallet** from the list.
+2. A new page will open with the HopiumSwap logo and some information. Tap the **Connect** button.
+3. HopiumSwap will open up. If you see a **Connect** button in the top-right tap that and tap **Trust Wallet** from the list.
 
 {% hint style="warning" %}
 If you find you are unable to connect at step 4, go back to the DApps menu and find "HopiumSwap" again. Using "Hopium Swap" from the "History" section may result in the same problem.
@@ -36,9 +30,9 @@ If you find you are unable to connect at step 4, go back to the DApps menu and f
 
 #### iOS
 
-To connect to HopiumSwap through iOS, Trust Wallet have prepared a detailed guide on using WallteConnect.
+To connect to HopiumSwap through iOS, Trust Wallet have prepared a detailed guide on using WalletConnect.
 
-Read the [Trust Wallet guide to connecting to PancakeSwap via WalletConnect](https://community.trustwallet.com/t/using-walletconnect-to-access-pancakeswap/212307).
+Read the Trust Wallet guide to connecting to HopiumSwap via WalletConnect.
 
 #### **Resources**
 
@@ -204,29 +198,6 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 
 [**Download MetaMask**](https://metamask.io/download.html) (Automatically detects browser)\
 [**MetaMask Setup Guide**](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain)
-{% endtab %}
-
-{% tab title="Binance Wallet" %}
-![](<../.gitbook/assets/image (39).png>)
-
-#### Chrome and Firefox
-
-1. Open Binance Chain Wallet and click on the network selector at the top. The default network will be Binance Chain. Choose **BNB Smart Chain** from the list.
-
-![](<../.gitbook/assets/image (88).png>)
-
-1. Visit the PancakeSwap website. In the top-right, click **Connect**.
-
-![](<../.gitbook/assets/image (164) (3) (3) (1) (1) (1) (1) (1) (1) (2).png>)
-
-1. A window will appear asking you to choose a wallet to connect to. Click **Binance Chain Wallet** (it's farther down the list).
-
-![](<../.gitbook/assets/image (89).png>)
-
-#### Resources
-
-[**Download Binance Wallet**](https://www.binance.org/en) (Automatically detects browser)\
-**Binance Wallet Setup Guide**
 {% endtab %}
 
 {% tab title="Coinbase Wallet" %}
