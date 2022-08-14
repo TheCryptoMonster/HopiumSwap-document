@@ -79,7 +79,7 @@
 
 ***
 
-* [Coming Soon!!](coming-soon/README.md)
+* [COMING SOON!!](coming-soon/README.md)
   * [Yield Farming](coming-soon/yield-farming.md)
   * [Hopium Pools - stake HOPE](coming-soon/hopium-pools-stake-hope.md)
   * [Lottery](coming-soon/lottery.md)
