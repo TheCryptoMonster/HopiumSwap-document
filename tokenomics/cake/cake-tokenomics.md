@@ -14,7 +14,7 @@
 
 \*Effective Emission is in fact slightly below this amount: an additional 45,000 HOPE per day is diverted from the amount allocated to the lottery, and burned.
 
-In addition to the above, a dynamic amount of HOPE is also [minted to the Dev address](https://bscscan.com/address/0xceba60280fb0ecd9a5a26a1552b90944770a4a0e#tokentxns) at a rate of 9.09%. This means that if 100 HOPE are harvested, then 9.09 HOPE is minted in addition and sent to the Dev Address.
+In addition to the above, a dynamic amount of HOPE is also minted to the Dev address at a rate of 9.09%. This means that if 100 HOPE are harvested, then 9.09 HOPE is minted in addition and sent to the Dev Address.
 
 {% hint style="info" %}
 All HOPE minted to the Dev address is burned in the weekly burn and never enters circulation.

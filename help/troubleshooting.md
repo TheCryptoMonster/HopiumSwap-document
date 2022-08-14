@@ -224,7 +224,7 @@ You don't have enough SYRUP in your wallet to unstake from the HOPE-HOPE pool.
 
 If that still fails, you can perform an “emergencyWithdraw” from the contract directly to unstake your staked tokens.
 
-1. Go to: [https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract)
+1. Go to: [https://polygonscan.com/](https://polygonscan.com/)
 2. Click **“Connect to Web3”** and connect your wallet. ![](https://lh6.googleusercontent.com/-\_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk\_1dTHkPuCmE50vpNNZxEqoM5nPmE\_12k3-8Q8YYoRYqJ\_VGjxJ03YPRuVQ1O5ME)
 3. In section **“4. emergencyWithdraw”**, enter "0" and click “Write”.
 
@@ -325,7 +325,7 @@ Check [Broken link](broken-reference "mention")
 > Provider Error\
 > No provider was found
 
-This happens when you try to connect via a browser extension like MetaMask or Binance Chain Wallet, but you haven’t installed the extension.
+This happens when you try to connect via a browser extension like MetaMask or Polygon Network, but you haven’t installed the extension.
 
 {% tabs %}
 {% tab title="Solution" %}
@@ -335,11 +335,11 @@ Install the official browser extension to connect, or read our guide on how to c
 
 ### Unsupported Chain ID
 
-Switch your chain to BNB Smart Chain. Check your wallet's documentation for a guide if you need help.
+Switch your chain to Polygon Network. Check your wallet's documentation for a guide if you need help.
 
 ### Already processing eth\_requestAccounts. Please wait.
 
-Make sure you are signed in to your wallet app and it's connected to BNB Smart Chain.
+Make sure you are signed in to your wallet app and it's connected to Polygon Network.
 
 ### Issues buying SAFEMOON and similar tokens
 

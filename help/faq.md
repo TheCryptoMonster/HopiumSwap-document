@@ -39,7 +39,7 @@ It depends on your needs. We have an in-depth guide to selecting and creating a 
 
 ## Why is my transaction failing?
 
-You can check the status of a transaction on [https://bscscan.com/](https://bscscan.com).
+You can check the status of a transaction on [https://polygonscan.com/](https://polygonscan.com/).
 
 Our Troubleshooting Errors guide may have a solution for your problem if you're having issues.
 
