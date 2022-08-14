@@ -4,17 +4,17 @@
 
 Here you'll find a list of HopiumSwap's official Social media channels and communities. If English is not your first language, we have a number of non-English communities that would love to have you join them!
 
+## s0cialhub&#x20;
+
+[https://www.s0cialhub.com/HopiumSwapExchange](https://www.s0cialhub.com/HopiumSwapExchange)
+
 ## 🐦 Twitter
 
-[https://twitter.com/pancakeswap](https://twitter.com/HopiumSwap)
+[https://twitter.com/HopiumSwap](https://twitter.com/HopiumSwap)
 
 ## 👽 Reddit <a href="#https-www.reddit.com-r-hopiumswapexchange-comments-wd5qoa-up_and_coming_swap_exchange_hopiumswap-use" id="https-www.reddit.com-r-hopiumswapexchange-comments-wd5qoa-up_and_coming_swap_exchange_hopiumswap-use"></a>
 
 [https://www.reddit.com/r/HopiumSwapExchange/](https://www.reddit.com/r/HopiumSwapExchange/)
-
-Newly launched on 24th Nov! The below is the only link for our discord server!
-
-[https://discord.gg/pancakeswap](https://discord.gg/pancakeswap)
 
 ## 💬 Telegram
 
