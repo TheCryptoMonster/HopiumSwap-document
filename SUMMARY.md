@@ -1,7 +1,6 @@
 # Table of contents
 
 * [HopiumSwap Intro](README.md)
-  * [Launch App](https://www.hopiumswap.com/)
 * [Get Started](get-started/README.md)
   * [Create a Wallet](get-started/wallet-guide.md)
   * [Get Poly ERC-20 Tokens](get-started/bep20-guide.md)
