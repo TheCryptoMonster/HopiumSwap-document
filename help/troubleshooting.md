@@ -318,7 +318,7 @@ This error tends to appear when you're trying to unstake from an old Syrup Pool,
 
 ## **Issues with Prediction**
 
-Check [prediction-troubleshooting.md](../products/prediction/prediction-troubleshooting.md "mention")
+Check [Broken link](broken-reference "mention")
 
 ## **Other issues**
 

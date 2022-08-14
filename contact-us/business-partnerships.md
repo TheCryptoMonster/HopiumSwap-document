@@ -57,7 +57,7 @@ We aim to respond to applications within a week, but due to a large number of re
 
 ### How can I list my token on the exchange?
 
-Anybody can "list" any BEP-20 network token on PancakeSwap. You don't need to contact us or ask permission. You just need to [add liquidity to a liquidity pool](../products/pancakeswap-exchange/pancakeswap-pools.md) - that's it. Traders can then trade your token by entering your token's contract address.
+Anybody can "list" any BEP-20 network token on PancakeSwap. You don't need to contact us or ask permission. You just need to [add liquidity to a liquidity pool](../hopiumswap/pancakeswap-exchange/pancakeswap-pools.md) - that's it. Traders can then trade your token by entering your token's contract address.
 
 ### How can I add my token to the default list?
 
