@@ -14,4 +14,4 @@ By reducing the amount of HOPE made per block, we slow inflation. This has alrea
 
 ### Deflationary mechanisms
 
-Regular token burns (view burn address) are built into many of HopiumSwap's products (like a 10% burn of HOPE spent on lottery tickets), with more on the way. Check the [**CAKE Tokenomics page**](https://docs.pancakeswap.finance/tokenomics/cake/cake-tokenomics) for details on present and upcoming deflationary mechanisms.
+Regular token burns (view burn address) are built into many of HopiumSwap's products (like a 10% burn of HOPE spent on lottery tickets), with more on the way. Check the [**HOPE Tokenomics page**](https://docs.hopiumswap.info/product-docs/tokenomics/hope/cake-tokenomics) for details on present and upcoming deflationary mechanisms.
