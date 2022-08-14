@@ -43,7 +43,7 @@
 
 ***
 
-* [Hiring](hiring.md)
+* [Hiring Soon!!](hiring-soon.md)
 
 ## Developers <a href="#code" id="code"></a>
 
