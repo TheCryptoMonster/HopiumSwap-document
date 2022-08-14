@@ -37,23 +37,9 @@
 
 ## Developers <a href="#code" id="code"></a>
 
-* [Migration](code/migration/README.md)
-  * [Migrate Your Stakings](code/migration/migrate-your-stakings.md)
-  * [MasterChef v2](code/migration/masterchef-v2/README.md)
-    * [List of Farms](code/migration/masterchef-v2/list-of-farms.md)
-  * [HOPE Syrup Pool](code/migration/cake-syrup-pool.md)
 * [Contributing](code/contributing/README.md)
   * [Codebase Overview](code/contributing/codebase-overview.md)
-* [Bug Bounty](code/bug-bounty.md)
-* [Smart Contracts](code/smart-contracts/README.md)
-  * [PancakeSwap Exchange](code/smart-contracts/pancakeswap-exchange/README.md)
-    * [Factory v2](code/smart-contracts/pancakeswap-exchange/factory-v2.md)
-    * [Router v2](code/smart-contracts/pancakeswap-exchange/router-v2.md)
-  * [Main Staking/Syrup Pool/MasterChef Contract](code/smart-contracts/main-staking-masterchef-contract.md)
-  * [HOPE Syrup Pool](code/smart-contracts/fixed-term-staking-cake-pool.md)
-  * [Prediction V2](code/smart-contracts/prediction-v2.md)
-  * [Lottery v2](code/smart-contracts/lottery-v2.md)
-  * [Auto HOPE Syrup Pool (CakeVault)](code/smart-contracts/cakevault.md)
+* [Smart Contracts](code/smart-contracts.md)
 
 ## Hiring
 
