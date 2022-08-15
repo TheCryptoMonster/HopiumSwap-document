@@ -2,7 +2,7 @@
 
 ![](<../.gitbook/assets/intro-header (2).png>)
 
-To get started on HopiumSwap, the first thing you'll need is to set up a wallet that supports BNB Smart Chain (BSC). Wallets are available both on desktop computers and on smartphone devices. You'll need to choose the wallet that fits your needs best.
+To get started on HopiumSwap, the first thing you'll need is to set up a wallet that supports Polygon Network. Wallets are available both on desktop computers and on smartphone devices. You'll need to choose the wallet that fits your needs best.
 
 {% hint style="danger" %}
 **When you're setting up a wallet, be sure to:**
@@ -35,13 +35,13 @@ Smartphone/Mobile wallets allow you to access your crypto almost anywhere. Walle
 
 This comparison table gives an overview of the most popular mobile wallets used with HopiumSwap.
 
-|                                                          | Token Pocket | MetaMask | Coinbase Wallet | Trust Wallet                  | SafePal |
-| -------------------------------------------------------- | ------------ | -------- | --------------- | ----------------------------- | ------- |
-| BNB Smart Chain support                                  | ✅            | ⚠️       | ✅               | ✅                             | ✅       |
-| Built-in DApp browser                                    | ✅            | ➖        | ✅               | <p>✅ Android</p><p>⚠️ iOS</p> | ✅       |
-| Hardware wallet compatible                               | ➖            | ✅        | ✅               | ➖                             | 🔶      |
-| Open source (auditability)                               | ✅            | ✅        | ✅               | ✅                             | ➖       |
-| <p>Interact with BscScan</p><p>(for advanced users!)</p> | ➖            | ✅        | ➖               | ➖                             | ➖       |
+|                                                                  | Token Pocket | MetaMask | Coinbase Wallet | Trust Wallet                  | SafePal |
+| ---------------------------------------------------------------- | ------------ | -------- | --------------- | ----------------------------- | ------- |
+| Polygon Network support                                          | ✅            | ⚠️       | ✅               | ✅                             | ✅       |
+| Built-in DApp browser                                            | ✅            | ➖        | ✅               | <p>✅ Android</p><p>⚠️ iOS</p> | ✅       |
+| Hardware wallet compatible                                       | ➖            | ✅        | ✅               | ➖                             | 🔶      |
+| Open source (auditability)                                       | ✅            | ✅        | ✅               | ✅                             | ➖       |
+| <p>Interact with Polygon Network</p><p>(for advanced users!)</p> | ➖            | ✅        | ➖               | ➖                             | ➖       |
 
 ⚠️ Requires some setup\
 🔶 Only supports SafePal hardware wallet
@@ -233,13 +233,13 @@ Desktop wallets are available on your home computer or laptop computer. Wallets 
 
 This comparison table gives an overview of the most popular desktop wallets used with HopiumSwap.
 
-|                                                          | MetaMask | Binance Wallet | Coinbase Wallet | Token Pocket |
-| -------------------------------------------------------- | -------- | -------------- | --------------- | ------------ |
-| BNB Smart Chain support                                  | ⚠️       | ✅              | ✅               | ⚠️           |
-| Built-in DApp browser                                    | ➖        | ➖              | ➖               | ✅            |
-| Hardware wallet compatible                               | ✅        | ✅              | ✅               | ➖            |
-| Open source (auditability)                               | ✅        | ✅              | ✅               | ✅            |
-| <p>Interact with BscScan</p><p>(for advanced users!)</p> | ✅        | ➖              | ➖               | ➖            |
+|                                                              | MetaMask | Binance Wallet | Coinbase Wallet | Token Pocket |
+| ------------------------------------------------------------ | -------- | -------------- | --------------- | ------------ |
+| Polygon Network support                                      | ⚠️       | ✅              | ✅               | ⚠️           |
+| Built-in DApp browser                                        | ➖        | ➖              | ➖               | ✅            |
+| Hardware wallet compatible                                   | ✅        | ✅              | ✅               | ➖            |
+| Open source (auditability)                                   | ✅        | ✅              | ✅               | ✅            |
+| <p>Interact with PolygonScan</p><p>(for advanced users!)</p> | ✅        | ➖              | ➖               | ➖            |
 
 ⚠️ Requires additional setup
 
@@ -249,12 +249,12 @@ You can find more in-depth information about each wallet below, as well as downl
 {% tab title="MetaMask" %}
 ![](<../.gitbook/assets/image (33) (3) (4) (5) (1) (1) (1) (1) (1) (1) (1) (4).png>)
 
-MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethereum network) by default, and BEP2 & BEP20 (Binance Chain and BNB Smart Chain networks) with a little work.
+MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethereum network) by default, and Poly ERC-20 with a little work.
 
 ​**Pros:**
 
 * Open source for auditability
-* WEB3 capable on BscScan
+* WEB3 capable onPolygonScan
 * A strong history of security and reliability
 * A large amount of how-to guides and resources online
 * Many tools and custom settings

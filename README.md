@@ -53,7 +53,7 @@ See for yourself:
   * We’re built on open-source software: our site and all our Smart Contracts are publicly visible for maximum transparency.
   * Our contracts are verified on PolygonScan so you know that what you see is what you get.
 * Security best practices:
-  * The chefs use multisig for all contracts.
+  * We use multisig for all contracts.
   * Our contracts’ time-locks give you peace of mind.
 
 **Sounds like fun?**\
