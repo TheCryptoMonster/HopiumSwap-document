@@ -49,39 +49,15 @@ This comparison table gives an overview of the most popular mobile wallets used 
 You can find more in-depth information about each wallet below, as well as download links and installation guides.
 
 {% tabs %}
-{% tab title="Trust Wallet" %}
-![](<../.gitbook/assets/image (36).png>)
-
-Trust Wallet is a popular wallet for smart devices. It supports DApps, NFT collectibles (with Opensea.io support), and in-wallet staking.
-
-**Pros:**
-
-* Open source for auditability
-* Backed by the Binance cryptocurrency exchange
-* Easily switch between several crypto networks
-* Includes networks by default
-* Includes in-wallet staking options
-* Has additional features such as NFT collection, BNB staking, and DApp access within the wallet
-
-**Cons:**
-
-* Language tied to phone settings
-* Limited DApps
-* Transaction notifications can be delayed
-
-[**Download Trust Wallet**](https://trustwallet.com) (Automatically detects device)\
-[**Trust Wallet Setup Guide**](https://www.binance.com/en/blog/421499824684901157/How-to-Set-Up-and-Use-Trust-Wallet-for-Binance-Smart-Chain)
-{% endtab %}
-
 {% tab title="MetaMask" %}
 ![](<../.gitbook/assets/image (33) (3) (4) (5) (1) (1) (1) (1) (1) (1) (1).png>)
 
-MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethereum network) and BEP2 & BEP20 (Binance Chain and BNB Smart Chain networks).
+MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethereum network) and Poly ERC-20 tokens.
 
 ​**Pros:**
 
 * Open source for auditability
-* WEB3 capable on BscScan
+* WEB3 capable on Polygon ScanScan
 * A strong history of security and reliability
 * A large amount of how-to guides and resources online
 * Many tools and custom settings
@@ -92,7 +68,7 @@ MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethe
 **Cons:**
 
 * Longer setup time than other options
-* Additional steps needed to use with BNB Smart Chain and PancakeSwap
+* Additional steps needed to use with Poylgon Network and HopiumSwap
 * Extra information and settings may confuse beginners
 
 [**Download MetaMask**](https://metamask.io/download.html) (Automatically detects device)\
@@ -102,12 +78,12 @@ MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethe
 {% tab title="Coinbase Wallet" %}
 ![](<../.gitbook/assets/coinbase\_wallet\_wordmark\_blue (1) (1) (1) (1) (1) (1) (1).png>)
 
-Millions of users choose Coinbase Wallet to earn yield with DeFi, swap more than 5,500 assets, and hold their NFT collections. Coinbase wallet supports BEP2 & BEP20 (Binance Chain and BNB Smart Chain networks).
+Millions of users choose Coinbase Wallet to earn yield with DeFi, swap more than 5,500 assets, and hold their NFT collections. Coinbase wallet supports Poly ERC-20 Tokens and Polygon Network).
 
 **Highlights:**
 
 * Most downloaded mobile dapp wallet in the United States with 12M+ active Wallet users.
-* No additional steps needed to use with BNB Smart Chain and PancakeSwap.
+* No additional steps needed to use with Polygon Netwrok and HopiumSwap.
 * Premier audience: Up to 89M+ Coinbase retail app users to onboard to Coinbase Wallet as they start to explore web3.
 * Easy to transfer assets from Coinbase retail app.
 * Fiat On-ramp: Users can now directly purchase crypto with fiat in all 86 countries where Coinbase operates, without leaving Wallet.
@@ -156,7 +132,7 @@ If you do have an existing wallet to import, use the top option instead.
 
 ![](https://lh3.googleusercontent.com/FdtGOB7N7ZKROD0EIKy5roklxcqtYwq26lZ4RX\_8RxUdt-caGPAr03HNTdOtTqpD82hkBcX9umQI1VcL6n0jXky4uVy\_dFDr8pReadLE80AHXkvm4mbvZZN2vxnzeaUmHXATx3GC)
 
-1. On the next page, find **BNB Smart Chain** in the list and tap it.
+1. On the next page, find **Polygon Network** in the list and tap it.
 
 ![](https://lh5.googleusercontent.com/TGpsjTq\_B1rLK-A8Cqzq9sC0IACpDZFCbpwN5\_GD4r8sCRmaqAdbswC-OmWAM7YiKATEaHTHviODFueMA6sCDSGlvNslYjGWQIrX5X8oR\_5pGPuMJ6X7\_Gz-rEoJwzmS9exEybbs)
 
@@ -167,8 +143,6 @@ If you do have an existing wallet to import, use the top option instead.
 1. You’ll be asked to enter a password. For your security, make sure your password is judged as “Strong”. You can also add a hint, but make sure it’s something only you will understand. When you’re ready, tap **Create Wallet**.
 
 And that’s it, all done!
-
-To connect to BNB Smart Chain and use PancakeSwap, you can follow the TokenPocket section of our Connect Your Wallet to PancakeSwap guide [https://docs.pancakeswap.finance/get-started/connection-guide](https://docs.pancakeswap.finance/get-started/connection-guide).
 
 **Getting private key from mobile to import to desktop**
 
@@ -182,7 +156,7 @@ Please be extremely careful with how you handle your private keys. Giving your p
 
 ![](https://lh3.googleusercontent.com/\_DE3EO8bsI5wKZlkTeJv3zZ77LR8SVQYOwB4EXbY\_GhKzz4PSZpo3MdlvrU8sLoLyPcRQjdjOA24VPjAa\_UZdt-JaiRgPMk67uBs7JIi5gp9gV1\_wDB7fW7FQoFogTMZ\_EQJYxcQ)
 
-1. On the next page, tap the **BNB Smart Chain** entry. Be careful not to tap the address part, or you’ll only copy that to clipboard instead.
+1. On the next page, tap the Polygon Network entry. Be careful not to tap the address part, or you’ll only copy that to clipboard instead.
 
 ![](https://lh4.googleusercontent.com/jLhXL03uhZHBKbHaPvy3ZrD1EmYCR8ECqwMxQIzTKnUtxMNntaDA8Dx4oVlXSadoFhhJqZACsYWVPfvITBEpWfkCfwntcQY3Fw5EYgGH-tmva8PZbvYbBRCy\_c5V7E1yQHvXiU0F)
 
@@ -191,7 +165,7 @@ Please be extremely careful with how you handle your private keys. Giving your p
 {% hint style="danger" %}
 \*\*NEVER, in any situation, should you ever give someone your private key or recovery phrase ("seed phrase"). This will give someone complete access to your crypto!
 
-The genuine PancakeSwap site and staff will never ask you to input your seed phrase.\*\*
+The genuine HopiumSwap site and staff will never ask you to input your seed phrase.\*\*
 {% endhint %}
 
 Now you have your private key ready to import your wallet into the desktop version of Token Pocket.
@@ -200,17 +174,15 @@ Now you have your private key ready to import your wallet into the desktop versi
 {% tab title="SafePal" %}
 ![](<../.gitbook/assets/image (26) (1).png>)
 
-SafePal is available as both a software and hardware wallet. The wallet is easy to install and create, and comes ready to support BEP2 (Binance Chain) and BEP20 (BNB Smart Chain) right away.
+SafePal is available as both a software and hardware wallet. The wallet is easy to install and create, and comes ready to support Poly ERC-20 tokens and Polygon Network right away.
 
 **Pros:**
 
 * Easily switch between several crypto networks
-* Offers 25% fee discount paying with BNB (requires login)
 * Has the option for Google Authenticator built in
 * Supports a large number of languages
 * Setup process is very simple
 * Is available as both a software and hardware wallet (work together)
-* Supports NFTs on both the BSC and ETH networks
 
 **Cons:**
 
