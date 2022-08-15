@@ -6,7 +6,7 @@
 
 ### **Per block**
 
-| **Metric**             | **Emission/block (CAKE)** | **Emission/day (HOPE)** |
+| **Metric**             | **Emission/block (HOPE)** | **Emission/day (HOPE)** |
 | ---------------------- | ------------------------: | ----------------------: |
 | Emission               |                        40 |               1,152,000 |
 | Burned Weekly          |                    -26.25 |                -756,000 |
