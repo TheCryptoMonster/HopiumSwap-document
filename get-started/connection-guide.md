@@ -67,7 +67,7 @@ Read the Trust Wallet guide to connecting to HopiumSwap via WalletConnect.
 
 ![](<../.gitbook/assets/image (86).png>)
 
-1. Visit the [PancakeSwap website](https://pancakeswap.finance). In the top right corner you'll see the **Connect** button. Click it.
+1. Visit the PancakeSwap website. In the top right corner you'll see the **Connect** button. Click it.
 
 ![](<../.gitbook/assets/image (164) (3) (3) (1) (1) (1) (1) (1) (1) (1) (2).png>)
 
@@ -86,10 +86,10 @@ Read the Trust Wallet guide to connecting to HopiumSwap via WalletConnect.
 
 1. Open Coinbase Wallet and click on the **Settings** icon at the top-right. By default it will show "Ethereum Mainnet" as the Default Network.\
    ![](../.gitbook/assets/cb-desktop-1.png)
-2. Click on **Default Network** and choose **Binance Smart Chain**\
+2. Click on **Default Network** and choose **Polygon Network**\
    ![](../.gitbook/assets/cb-desktop-2.png)
 3. Binance Smart Chain will now be your Default Network.
-4. Visit the[ ](https://pancakeswap.finance)[pancakeswap.finance](https://pancakeswap.finance), In the top right corner you'll see the **Connect** button. Click it.\
+4. Visit the[ ](https://pancakeswap.finance)pancakeswap.finance, In the top right corner you'll see the **Connect** button. Click it.\
    ![](../.gitbook/assets/cb-desktop-3.png)
 5. A window will appear asking you to choose a wallet to connect to. Click **Coinbase Wallet** (it's the top option on the list).\
    ![](../.gitbook/assets/cb-desktop-4.png)
