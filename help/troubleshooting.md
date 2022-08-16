@@ -33,7 +33,7 @@ You're trying to swap tokens, but your slippage tolerance is too low or liquidit
 
 That means there isn't enough of one of the tokens you're trying to swap in the Liquidity Pool: it's probably a small-cap token that few people are trading.
 
-However, there's also the chance that you're trying to trade a scam token which cannot be sold. In this case, PancakeSwap isn't able to block a token or return funds.
+However, there's also the chance that you're trying to trade a scam token which cannot be sold. In this case, HopiumSwap isn't able to block a token or return funds.
 {% endtab %}
 {% endtabs %}
 
@@ -110,7 +110,7 @@ This can cause very high slippage, and can cause the user to lose some funds if 
 {% endtab %}
 {% endtabs %}
 
-### PancakeRouter: EXPIRED
+### HopiumRouter: EXPIRED
 
 > The transaction cannot succeed due to error: HopiumSwap: EXPIRED. This is probably an issue with one of the tokens you are swapping.
 
@@ -160,7 +160,7 @@ Please contact the project team of the token you're trying to swap. \*\*\*\* Thi
 {% endtab %}
 
 {% tab title="Reason" %}
-**This issue (while swapping) is caused by tokens which have hard-coded the V1 PancakeSwap router into their contract.**
+**This issue (while swapping) is caused by tokens which have hard-coded the V1 HopiumSwap router into their contract.**
 
 While this practice is ill-advised at best, the reason for these projects having done this appears to be due to their tokenomics, in which each purchase sends a % of the token to LPs.
 
