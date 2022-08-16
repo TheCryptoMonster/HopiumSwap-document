@@ -2,7 +2,7 @@
 
 ![](<../.gitbook/assets/intro-header (2).png>)
 
-Here you'll find a list of HopiumSwap's official Social media channels and communities. If English is not your first language, we have a number of non-English communities that would love to have you join them!
+Here you'll find a list of HopiumSwap's official Social media channels and communities and would love to have you join them!
 
 ## s0cialhub&#x20;
 
