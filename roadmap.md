@@ -24,7 +24,10 @@ Hopium is a way of crypto life.
 * Development of the exchange
 * Building the HopiumSwap team
 * UI/UX, Performance Upgrades & Bug Fixes
-* Launching with the main swap functions and gradually adding features as we move forward
 
 ## Coming Soon!!
+
+* Launching with the main swap functions of HopiumSwap
+* Added functions and contracts gradually once launched
+* Build a larger HopiumSwap team&#x20;
 
