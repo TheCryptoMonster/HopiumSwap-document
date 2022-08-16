@@ -10,13 +10,11 @@ description: '"HopiumSwap roadmap"'
 
 _Updated on Aug 16, 2022_
 
-### Finally, it's a roadmap not a to-do list.
+### Finally, The HopimSwap Roadmap.
 
-Crypto moves fast, and we move fast too.
+The brand new up and coming Polygon Network swap exchange!.
 
-Pivoting is a way of life.
-
-That means that we don’t publicly commit to specific timelines, so we can organize our development priorities based on market changes and developer resources.
+Hopium is a way of crypto life.
 
 ![](<.gitbook/assets/coming-soon-neon-sign\_191108-233 (1).webp>)
 
@@ -27,3 +25,6 @@ That means that we don’t publicly commit to specific timelines, so we can orga
 * Building the HopiumSwap team
 * UI/UX, Performance Upgrades & Bug Fixes
 * Launching with the main swap functions and gradually adding features as we move forward
+
+## Coming Soon!!
+
