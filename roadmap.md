@@ -1,5 +1,5 @@
 ---
-description: '"Don''t call it a roadmap"'
+description: '"HopiumSwap roadmap"'
 ---
 
 # Roadmap
@@ -8,7 +8,7 @@ description: '"Don''t call it a roadmap"'
 
 ![](<.gitbook/assets/intro-header (2).png>)
 
-_Updated on Aug 14, 2022_
+_Updated on Aug 16, 2022_
 
 ### Finally, it's a roadmap not a to-do list.
 
@@ -26,3 +26,4 @@ That means that we don’t publicly commit to specific timelines, so we can orga
 * Development of the exchange
 * Building the HopiumSwap team
 * UI/UX, Performance Upgrades & Bug Fixes
+* Launching with the main swap functions and gradually adding features as we move forward
