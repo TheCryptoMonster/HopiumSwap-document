@@ -1,6 +1,6 @@
 # Liquidity Pools
 
-![](<../../.gitbook/assets/intro-header (2).png>)
+![](../../.gitbook/assets/luiquiditypools.png)
 
 When you add your token to a Liquidity Pool you will receive Liquidity Provider (LP) tokens and share in the fees.
 

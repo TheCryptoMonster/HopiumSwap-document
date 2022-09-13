@@ -1,6 +1,6 @@
 # HopiumSwap Intro
 
-![](<.gitbook/assets/intro-header (1).png>)
+![](.gitbook/assets/HopiumSwapIntro.png)
 
 {% hint style="success" %}
 **HopiumSwap helps you make the most out of your crypto in three ways:**

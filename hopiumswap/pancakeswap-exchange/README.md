@@ -1,6 +1,6 @@
 # 🔄 Exchange
 
-![](<../../.gitbook/assets/intro-header (2).png>)
+![](../../.gitbook/assets/Exchange.png)
 
 HopiumSwap is an Automated Market Maker (AMM), and the Exchange is at the heart of HopiumSwap. HopiumSwap is a new up a swap exchange on the Polygon Network!
 

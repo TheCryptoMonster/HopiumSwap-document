@@ -1,6 +1,6 @@
 # How to Trade
 
-![](<../../.gitbook/assets/intro-header (2).png>)
+![](../../.gitbook/assets/Howtotrade.png)
 
 Trading on HopiumSwap is very easy compared to most exchanges. You aren't going to be overwhelmed by charts or jargon, and calculations are all handled for you.
 
