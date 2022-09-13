@@ -1,6 +1,6 @@
 # Token Swaps
 
-![](<../../.gitbook/assets/intro-header (2).png>)
+![](../../.gitbook/assets/TokenSwap.png)
 
 \*\*\*\***Token swaps** on HopiumSwap are a simple way to trade one POLY ERC-20 token for another via automated liquidity pools.
 

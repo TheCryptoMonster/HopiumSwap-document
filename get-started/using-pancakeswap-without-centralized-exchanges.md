@@ -6,7 +6,7 @@ description: >-
 
 # Using HopiumSwap without Centralized Exchanges
 
-![](<../.gitbook/assets/intro-header (2).png>)
+![](../.gitbook/assets/Untitled-13.png)
 
 HopiumSwap is a decentralized application. That means, unlike Binance or other centralized platforms, you don't need to register account to use it... you just need a crypto wallet. So how can you get crypto onto HopiumSwap without using a centralized exchange?
 

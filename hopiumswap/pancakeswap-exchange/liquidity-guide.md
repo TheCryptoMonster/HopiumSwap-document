@@ -1,6 +1,6 @@
 # How to Add/Remove Liquidity
 
-![](../../.gitbook/assets/how-to-add-remove-liquidity-header.png)
+![](../../.gitbook/assets/Untitled-11.png)
 
 "Liquidity" is central to how HopiumSwap's Exchange works. You can add liquidity for any token pair by staking both through the Liquidity page.
 
