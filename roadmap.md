@@ -6,7 +6,7 @@ description: '"HopiumSwap roadmap"'
 
 
 
-![](<.gitbook/assets/intro-header (2).png>)
+![](.gitbook/assets/Roadmap.png)
 
 _Updated on Aug 16, 2022_
 

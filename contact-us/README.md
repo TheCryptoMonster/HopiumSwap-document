@@ -1,6 +1,6 @@
 # Contact Us
 
-![](<../.gitbook/assets/intro-header (2).png>)
+![](<../.gitbook/assets/Contactus (1).png>)
 
 ####
 

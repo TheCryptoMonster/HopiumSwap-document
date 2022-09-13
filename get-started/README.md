@@ -1,6 +1,6 @@
 # Get Started
 
-![](<../.gitbook/assets/intro-header (2).png>)
+![](../.gitbook/assets/GetStarted2.png)
 
 Using anything new can be a bit of a challenge. Don't worry though, we've created a range of guides to help you get comfortable with HopiumSwap!
 

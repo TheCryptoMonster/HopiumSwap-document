@@ -1,6 +1,6 @@
 # Social Accounts & Communities
 
-![](<../.gitbook/assets/intro-header (2).png>)
+![](../.gitbook/assets/SocialAccounts.png)
 
 Here you'll find a list of HopiumSwap's official Social media channels and communities and would love to have you join them!
 

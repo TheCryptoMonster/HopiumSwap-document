@@ -1,6 +1,6 @@
 # Connect Your Wallet to HopiumSwap
 
-![](<../.gitbook/assets/intro-header (2).png>)
+![](../.gitbook/assets/connectyourwallet.png)
 
 You've made a wallet and gotten your POLY ERC-20 tokens, now you just need to connect your wallet with HopiumSwap and you're good to go!
 

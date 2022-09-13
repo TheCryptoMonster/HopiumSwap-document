@@ -4,7 +4,7 @@ description: Common error messages. Use the sidebar ➡️to jump to the error y
 
 # Troubleshooting Errors
 
-![](<../.gitbook/assets/intro-header (2).png>)
+![](../.gitbook/assets/troubleshootingerrors.png)
 
 Sometimes you may find yourself facing a problem that doesn't have a clear solution. These troubleshooting tips may help you solve problems you run into.
 
@@ -239,8 +239,6 @@ To stop this happening again, **don’t sell your SYRUP.** You still need it to 
 This error has happened because you have sold or transferred SYRUP tokens. SYRUP is minted in a 1:1 ratio to HOPE when you stake in the HOPE-HOPE Syrup Pool. SYRUP must be burned at a 1:1 ratio to CAKE when calling leaveStaking (unstaking your CAKE from the pool), so if you don't have enough, you can't unstake from the pool.
 
 {% embed url="https://dashboard.tenderly.co/tx/binance/0x754e18ceea82acac256b49c2b7a81260f7f86dd5e56ee2e3cc1b6ac864c29a8e" %}
-<img src="https://lh4.googleusercontent.com/KchAcnM6cpX2BotEGppAxPAnY4Xbona6yI6ZWg9FlUUBfPi_YO9ulM1s6htXJVXMzEwl0Uxcvdk8o4yhI7ar5g0TRpLVFjkS4YLKL7FS8Z4uFqeC37sw-TIkrPr7BCZQVpuD-5jO" alt="" data-size="original">
-{% endembed %}
 
 ### Out of Gas error
 

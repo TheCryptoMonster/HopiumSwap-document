@@ -1,6 +1,6 @@
 # Get Poly ERC-20 Tokens
 
-![](<../.gitbook/assets/intro-header (2).png>)
+![](../.gitbook/assets/GetpolyERC20.png)
 
 The native tokens of Polygon Network are Poly ERC-20.
 

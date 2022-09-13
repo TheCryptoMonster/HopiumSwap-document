@@ -1,6 +1,6 @@
 # Click Here for Help
 
-![](<../.gitbook/assets/intro-header (2).png>)
+![](../.gitbook/assets/Clickhereforhelp.png)
 
 If you find yourself stuck, if something isn't working like it's meant to, or you're not sure if something has worked or not, this help section may be able to, well, help.
 

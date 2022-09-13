@@ -4,7 +4,7 @@ description: Thank you for expressing your interest in contributing to HopiumSwa
 
 # Contributing
 
-![](<../../.gitbook/assets/intro-header (2).png>)
+![](../../.gitbook/assets/contributing.png)
 
 HopiumSwap is an open-source project. If you want to contribute to the project, this section is here to guide you through your first steps with the HopiumSwap team&#x20;
 
