@@ -20,12 +20,31 @@ The concept of HopiumSwap was founded by a person known as "Crypto Monster" in M
 
 ![](<.gitbook/assets/coming-soon-neon-sign\_191108-233 (1).webp>)
 
-### Ongoing/Recurring
+**PHASE 1**
 
-* Development of the project information website
-* Development of the exchange
-* Building the HopiumSwap team
-* UI/UX, Performance Upgrades & Bug Fixes
+* Website Launch
+* Pre-Sale&#x20;
+* HopiumSwap Exchange Launch
+* Advertising Campaigns&#x20;
+* 4,000 Telegram Members
+* 1,000+ Holders&#x20;
+* $1 Million+ Market Cap&#x20;
+
+**Phase 2**
+
+* CoinGecko Listing&#x20;
+* CoinMarketCap Listing&#x20;
+* $5 Million+ Market Cap
+* 2,500+ Holders
+* 10,000 Telegram Members
+* NFT Marketplace
+
+**Phase 3**
+
+* &#x20;$25Million+ Market Cap
+* 10,000+ Holders
+* 25,000 Telegram Members
+* Largest Swap Exchange On Polygon&#x20;
 
 ## Coming Soon!!
 
