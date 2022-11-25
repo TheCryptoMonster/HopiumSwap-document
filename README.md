@@ -32,8 +32,7 @@ Unlike centralized exchanges like Binance or Coinbase, HopiumSwap doesn’t hold
 
 ### Soon you can Earn tokens with Hopium Pools
 
-Stake HOPE, earn free tokens. It’s really that easy.\
-HOPE holders right now are earning tens of millions of USD worth of free tokens each week from major projects. New projects join the party frequently, so you can earn more, for even longer.
+Stake HOPE, earn free tokens. It’s really that easy.
 
 ### Soon you can Earn HOPE with Yield Farms
 
