@@ -50,3 +50,7 @@
 * [Contributing](code/contributing/README.md)
   * [Codebase Overview](code/contributing/codebase-overview.md)
 * [Smart Contracts](code/smart-contracts.md)
+
+***
+
+* [Team Members](team-members.md)
