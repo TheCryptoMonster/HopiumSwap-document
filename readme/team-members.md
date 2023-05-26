@@ -1,10 +1,10 @@
 # 😎 Team Members
 
-## Founder And CEO
+## HopiumSwap Founder And CEO
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/306841773_499773082157485_5412527597842951864_n.jpg" alt="" width="375"><figcaption><p><strong>Matthew Bicknell, From British Columbia, Canada</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/306841773_499773082157485_5412527597842951864_n.jpg" alt="" width="375"><figcaption><p><strong>Matthew Bicknell, From British Columbia, Canada</strong></p></figcaption></figure>
 
 </div>
 
@@ -26,7 +26,7 @@
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/360_F_463667026_B6L8IGy2cgGYdYOkN8hBE55B1zpcVvDc.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/360_F_463667026_B6L8IGy2cgGYdYOkN8hBE55B1zpcVvDc.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -36,7 +36,7 @@ Info Soon the be added about our lead team developer and co founder of HopiumSwa
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/360_F_463667026_B6L8IGy2cgGYdYOkN8hBE55B1zpcVvDc.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/360_F_463667026_B6L8IGy2cgGYdYOkN8hBE55B1zpcVvDc.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
