@@ -31,3 +31,11 @@ Matthew Bicknell, From British Columbia, Canada&#x20;
 
 
 Info Soon the be added about our lead team developer and co founder of HopiumSwap.&#x20;
+
+
+
+<div align="left">
+
+<figure><img src=".gitbook/assets/360_F_463667026_B6L8IGy2cgGYdYOkN8hBE55B1zpcVvDc.jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
