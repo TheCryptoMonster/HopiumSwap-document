@@ -1,4 +1,8 @@
-# Get Started
+---
+coverY: 0
+---
+
+# 🙃 Get Started
 
 ![](../.gitbook/assets/GetStarted2.png)
 
