@@ -22,7 +22,7 @@
 
 
 
-## Lead Team Developer
+## Lead Team Developer And Co-Founder
 
 <div align="left">
 
