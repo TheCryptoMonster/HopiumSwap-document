@@ -2,13 +2,13 @@
 description: '"HopiumSwap roadmap"'
 ---
 
-# Roadmap
+# 🧐 Roadmap
 
 
 
 ![](.gitbook/assets/Roadmap.png)
 
-_Updated on Aug 16, 2022_
+_Updated On May 26, 2023_
 
 ### Finally, The HopimSwap Roadmap.
 
