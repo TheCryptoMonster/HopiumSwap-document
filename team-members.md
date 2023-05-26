@@ -8,7 +8,7 @@
 
 </div>
 
-My name is matthew bicknell, i have been in crypto for 9 years and trade/teach people as well. I am a dev, build websites and have other projects on the go besides HopiumSwap exchange. Feel free to message me on my social links before if you have any questions or just want to say hi!&#x20;
+My name is matthew bicknell, i have been in crypto for 9 years and trade/teach people as well. I am a dev, build websites and have other projects on the go besides HopiumSwap exchange. Feel free to message me on my social links before if you have any questions or just want to say hi! (s0cialhub is my free speech social media platform).
 
 **Social Links**
 
