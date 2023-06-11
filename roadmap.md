@@ -29,6 +29,7 @@ The concept of HopiumSwap was founded by a person known as "Crypto Monster" in M
 * 4,000 Telegram Members
 * 1,000+ Holders&#x20;
 * $1 Million+ Market Cap&#x20;
+* NFT Marketplace
 
 **Phase 2**
 
@@ -37,7 +38,6 @@ The concept of HopiumSwap was founded by a person known as "Crypto Monster" in M
 * $5 Million+ Market Cap
 * 2,500+ Holders
 * 10,000 Telegram Members
-* NFT Marketplace
 
 **Phase 3**
 
@@ -45,6 +45,8 @@ The concept of HopiumSwap was founded by a person known as "Crypto Monster" in M
 * 10,000+ Holders
 * 25,000 Telegram Members
 * Largest Swap Exchange On Polygon&#x20;
+* use a portion of our profits to send starlink to Nigeria and other countries, send food and other supplies as well.&#x20;
+* Help food banks, build drug acction centers and housing for addicts to get clean.&#x20;
 
 ## Coming Soon!!
 
