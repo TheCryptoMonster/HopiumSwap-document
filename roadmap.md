@@ -38,6 +38,7 @@ The concept of HopiumSwap was founded by a person known as "Crypto Monster" in M
 * $5 Million+ Market Cap
 * 2,500+ Holders
 * 10,000 Telegram Members
+* Hire a team fulltime to take down crypto scammers (like bitboy) ect...
 
 **Phase 3**
 
