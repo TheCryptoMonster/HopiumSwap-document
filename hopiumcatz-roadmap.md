@@ -27,6 +27,8 @@ Stage two will help fund stage three of the HopiumCatz collection.
 
 Part of profits from stage two goes towards funding liquidity for HopiumSwap exchange.
 
+Stages 1-2 get access to private testing of HopiumSwap exchange on polygon.
+
 ## Stage Three
 
 Launch 3,750 NFT's for the third stage of the HopiumCatz collection.
