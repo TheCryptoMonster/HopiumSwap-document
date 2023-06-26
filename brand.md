@@ -2,7 +2,7 @@
 description: Guidlines and downloadable assets like the HopiumSwap logo SVG
 ---
 
-# Brand & Logos
+# 😏 Brand & Logos
 
 ![](<.gitbook/assets/coming-soon-neon-sign\_191108-233 (1) (2).webp>)
 

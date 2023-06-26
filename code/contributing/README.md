@@ -2,7 +2,7 @@
 description: Thank you for expressing your interest in contributing to HopiumSwap!
 ---
 
-# Contributing
+# 🙂 Contributing
 
 ![](../../.gitbook/assets/contributing.png)
 

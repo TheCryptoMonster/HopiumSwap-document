@@ -1,4 +1,4 @@
-# Click Here for Help
+# 😇 Click Here for Help
 
 ![](../.gitbook/assets/Clickhereforhelp.png)
 

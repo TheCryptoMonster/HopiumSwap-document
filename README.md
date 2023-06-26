@@ -1,4 +1,4 @@
-# HopiumSwap Intro
+# 😀 HopiumSwap Intro
 
 ![](.gitbook/assets/HopiumSwapIntro.png)
 

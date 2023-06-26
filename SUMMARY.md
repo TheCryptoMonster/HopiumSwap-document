@@ -39,9 +39,9 @@
 
 ## Tokenomics
 
-* [🥰 HOPE](tokenomics/hope/README.md)
-  * [HOPE Tokenomics](tokenomics/cake/cake-tokenomics.md)
-  * [Controlling HOPE supply](tokenomics/cake/controlling-cake-supply.md)
+* [🥰 $HOPE](tokenomics/usdhope/README.md)
+  * [HOPE Tokenomics](tokenomics/usdhope/cake-tokenomics.md)
+  * [Controlling HOPE supply](tokenomics/usdhope/controlling-cake-supply.md)
 
 ***
 
