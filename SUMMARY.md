@@ -16,7 +16,7 @@
   * [Social Accounts & Communities](contact-us/telegram.md)
 * [🧐 Roadmap](roadmap.md)
 * [😏 Brand & Logos](brand.md)
-* [HopiumCatz roadmap](hopiumcatz-roadmap.md)
+* [HopiumCatz Roadmap](hopiumcatz-roadmap.md)
 
 ## 😍 HopiumSwap
 
