@@ -15,23 +15,25 @@ Develop staking for HopiumCatz collection for HopiumSwap exchange so holders get
 
 Part of profits from stage one goes towards funding liquidity for HopiumSwap exchange.
 
-Part of profits from stage one goes towards funding stage two
+Part of profits from stage one goes towards funding stage two.
 
 ## Stage Two
 
-Launch 3,750 NFT's for the second stage of the HopiumCatz collection
+Launch 3,750 NFT's for the second stage of the HopiumCatz collection.
 
-Stage two will help fund stage three of the HopiumCatz collection
+Stage two will help fund stage three of the HopiumCatz collection.
 
 Part of profits from stage two goes towards funding liquidity for HopiumSwap exchange.
 
 ## Stage Three
 
-Launch 3,750 NFT's for the third stage of the HopiumCatz collection
+Launch 3,750 NFT's for the third stage of the HopiumCatz collection.
 
-Stage three will complete the funding of HopiumSwap exchange and give liquidity to launch $HOPE token on polygon.
+Stage three will complete the funding of HopiumSwap exchange and give liquidity for the exchange.
 
 Stage three completes the last stage of the HopiumCatz collection.
 
 Staking for the HopiumCatz collection ready to launch.
+
+HopiumSwap exchange launches on polygon along with $HOPE token.
 
