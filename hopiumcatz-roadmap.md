@@ -5,7 +5,7 @@ description: >-
   liquidity for $HOPE token for launch on polygon.
 ---
 
-# HopiumCatz Roadmap
+# 🪙 HopiumCatz Roadmap
 
 ## Stage One
 
