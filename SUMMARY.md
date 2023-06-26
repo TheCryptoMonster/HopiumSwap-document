@@ -14,7 +14,7 @@
 * [🤓 Contact Us](contact-us/README.md)
   * [Customer Support](contact-us/customer-support.md)
   * [Social Accounts & Communities](contact-us/telegram.md)
-* [🧐 Roadmap](roadmap.md)
+* [🧐 HopiumSwap Roadmap](roadmap.md)
 * [😏 Brand & Logos](brand.md)
 * [🪙 HopiumCatz Roadmap](hopiumcatz-roadmap.md)
 
