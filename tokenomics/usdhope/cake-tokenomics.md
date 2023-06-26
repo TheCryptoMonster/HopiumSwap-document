@@ -1,4 +1,4 @@
-# HOPE Tokenomics
+# $HOPE Tokenomics
 
 ![](<../../.gitbook/assets/coming-soon-neon-sign\_191108-233 (1).webp>)
 

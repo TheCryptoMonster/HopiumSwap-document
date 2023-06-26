@@ -40,8 +40,8 @@
 ## Tokenomics
 
 * [🥰 $HOPE](tokenomics/usdhope/README.md)
-  * [HOPE Tokenomics](tokenomics/usdhope/cake-tokenomics.md)
-  * [Controlling HOPE supply](tokenomics/usdhope/controlling-cake-supply.md)
+  * [$HOPE Tokenomics](tokenomics/usdhope/cake-tokenomics.md)
+  * [Controlling $HOPE supply](tokenomics/usdhope/controlling-cake-supply.md)
 
 ***
 

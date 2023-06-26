@@ -1,4 +1,4 @@
-# Controlling HOPE supply
+# Controlling $HOPE supply
 
 ## Does HOPE have a hard cap?
 
