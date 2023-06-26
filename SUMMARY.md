@@ -1,6 +1,7 @@
 # Table of contents
 
 * [😀 HopiumSwap Intro](README.md)
+* [🧐 HopiumSwap Roadmap](roadmap.md)
 * [😎 Team Members](team-members.md)
 * [🙃 Get Started](get-started/README.md)
   * [Create a Wallet](get-started/wallet-guide.md)
@@ -14,7 +15,6 @@
 * [🤓 Contact Us](contact-us/README.md)
   * [Customer Support](contact-us/customer-support.md)
   * [Social Accounts & Communities](contact-us/telegram.md)
-* [🧐 HopiumSwap Roadmap](roadmap.md)
 * [😏 Brand & Logos](brand.md)
 * [🪙 HopiumCatz Roadmap](hopiumcatz-roadmap.md)
 
