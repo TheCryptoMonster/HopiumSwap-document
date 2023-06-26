@@ -22,5 +22,9 @@ Part of profits from stage ywo goes towards funding liquidity for HopiumSwap exc
 
 \-Launch 3,750 NFT's for the third stage of the HopiumCatz collection
 
-Stage three will ccomplete the funding of HopiumSwap exchange and&#x20;
+Stage three will ccomplete the funding of HopiumSwap exchange and give liquidity to launch $HOPE token on polygon.
+
+Stage four completes the last stage of the HopiumCatz collection.
+
+Staking the HopiumCatz collection ready to launch.
 
