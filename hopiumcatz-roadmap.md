@@ -17,6 +17,8 @@ Part of profits from stage one goes towards funding liquidity for HopiumSwap exc
 
 Part of profits from stage one goes towards funding stage two.
 
+Stages 1-3 get access to a crypto signals group on discord plus free learning for those who want to learn TA that will help you trade like a pro.
+
 ## Stage Two
 
 Launch 3,750 NFT's for the second stage of the HopiumCatz collection.
