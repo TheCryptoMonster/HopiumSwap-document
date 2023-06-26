@@ -11,7 +11,7 @@ description: >-
 
 Launch 2500 NFT's on the HopiumCatz minting website to start the collection.&#x20;
 
-Develop staking for HopiumCatz collection for HopiumSwap exchange so holders get $HOPE tokens for staking NFT's.&#x20;
+Develop staking code for HopiumCatz collection for HopiumSwap exchange so holders get $HOPE tokens for staking NFT's.&#x20;
 
 Part of profits from stage one goes towards funding liquidity for HopiumSwap exchange.
 
