@@ -2,7 +2,7 @@
 description: '"HopiumSwap roadmap"'
 ---
 
-# 🧐 Roadmap
+# 🧐 HopiumSwap Roadmap
 
 
 
@@ -47,7 +47,7 @@ The concept of HopiumSwap was founded by a person known as "Crypto Monster" in M
 * 25,000 Telegram Members
 * Largest Swap Exchange On Polygon&#x20;
 * use a portion of our profits to send starlink to Nigeria and other countries, send food and other supplies as well.&#x20;
-* Help food banks, build drug acction centers and housing for addicts to get clean.&#x20;
+* Help food banks, build drug addiction centers and housing for addicts to get clean.&#x20;
 
 ## Coming Soon!!
 
