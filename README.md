@@ -4,6 +4,10 @@ description: HopiumSwap Coming Soon!!!
 
 # 😀 HopiumSwap Intro
 
+
+
+<figure><img src=".gitbook/assets/Sneak_Peak_2.png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="success" %}
 **HopiumSwap helps you make the most out of your crypto in three ways:**
 

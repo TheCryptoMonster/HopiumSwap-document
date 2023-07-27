@@ -4,7 +4,7 @@ description: HopiumCatz NFT Collection Coming Soon!!!
 
 # 😎 HopiumCatz NFT Collection
 
-<figure><img src="../../.gitbook/assets/IMG_0213.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
 
 A group of fascinating feline buddies lives in the whimsical realm of #polygon, where imagination knows no bounds. These enthralling creatures embody optimism and positivity, spreading joy wherever they go.
 
