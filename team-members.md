@@ -42,4 +42,4 @@ Info Soon the be added about our lead team developer and co founder of HopiumSwa
 
 </div>
 
-Info Soon the be added about our poject manager of HopiumSwap exchange.
+Info Soon the be added about our project manager of HopiumSwap exchange.
