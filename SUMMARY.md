@@ -36,6 +36,11 @@
   * [IFO (Initial Farm Offering)](hopiumswap/coming-soon/ifo-initial-farm-offering.md)
   * [Voting](hopiumswap/coming-soon/voting.md)
 
+## HopiumCatz NFT Collection
+
+* [😎 HopiumCatz NFT Collection](hopiumcatz-nft-collection/hopiumcatz-nft-collection/README.md)
+  * [HopiumCatz RoadMap](hopiumcatz-nft-collection/hopiumcatz-nft-collection/hopiumcatz-roadmap.md)
+
 ## Tokenomics
 
 * [🥰 $HOPE](tokenomics/usdhope/README.md)
@@ -51,8 +56,3 @@
 * [🙂 Contributing](code/contributing/README.md)
   * [Codebase Overview](code/contributing/codebase-overview.md)
 * [😁 Smart Contracts](code/smart-contracts.md)
-
-## HopiumCatz NFT Collection
-
-* [😎 HopiumCatz NFT Collection](hopiumcatz-nft-collection/hopiumcatz-nft-collection/README.md)
-  * [HopiumCatz RoadMap](hopiumcatz-nft-collection/hopiumcatz-nft-collection/hopiumcatz-roadmap.md)
