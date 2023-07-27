@@ -28,7 +28,7 @@ My name is matthew bicknell, i have been in crypto for 9 years and trade/teach p
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/360_F_463667026_B6L8IGy2cgGYdYOkN8hBE55B1zpcVvDc.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/3.png.png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -38,7 +38,7 @@ Info Soon the be added about our lead team developer and co founder of HopiumSwa
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/360_F_463667026_B6L8IGy2cgGYdYOkN8hBE55B1zpcVvDc.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Sneak_Peak_1.png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
