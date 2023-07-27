@@ -16,7 +16,6 @@
   * [Customer Support](contact-us/customer-support.md)
   * [Social Accounts & Communities](contact-us/telegram.md)
 * [😏 Brand & Logos](brand.md)
-* [🪙 HopiumCatz Roadmap](hopiumcatz-roadmap.md)
 
 ## 😍 HopiumSwap
 
@@ -52,3 +51,8 @@
 * [🙂 Contributing](code/contributing/README.md)
   * [Codebase Overview](code/contributing/codebase-overview.md)
 * [😁 Smart Contracts](code/smart-contracts.md)
+
+## HopiumCatz NFT Collection
+
+* [😎 HopiumCatz NFT Collection](hopiumcatz-nft-collection/hopiumcatz-nft-collection/README.md)
+  * [HopiumCatz RoadMap](hopiumcatz-nft-collection/hopiumcatz-nft-collection/hopiumcatz-roadmap.md)

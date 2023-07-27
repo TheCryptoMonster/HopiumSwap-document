@@ -14,7 +14,7 @@ You can easily trade for any tokens you need. Visit our [How to Trade on Pancake
 
 In this example, we will add liquidity using MATIC and HOPE.\\
 
-***
+
 
 1\. Visit the Liquidity page.
 

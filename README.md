@@ -1,6 +1,8 @@
-# 😀 HopiumSwap Intro
+---
+description: HopiumSwap Coming Soon!!!
+---
 
-![](.gitbook/assets/HopiumSwapIntro.png)
+# 😀 HopiumSwap Intro
 
 {% hint style="success" %}
 **HopiumSwap helps you make the most out of your crypto in three ways:**
