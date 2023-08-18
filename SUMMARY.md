@@ -56,3 +56,7 @@
 * [🙂 Contributing](code/contributing/README.md)
   * [Codebase Overview](code/contributing/codebase-overview.md)
 * [😁 Smart Contracts](code/smart-contracts.md)
+
+## HopiumCatz NFT&#x20;
+
+* [HopiumCatz RoadMap](hopiumcatz-nft/hopiumcatz-roadmap.md)
