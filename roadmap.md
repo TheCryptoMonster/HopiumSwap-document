@@ -8,22 +8,22 @@ description: '"HopiumSwap roadmap"'
 
 ![](.gitbook/assets/Roadmap.png)
 
-_Updated On May 26, 2023_
+_Updated On Nov 10, 2024_
 
 ### Finally, The HopimSwap Roadmap.
 
-The brand new up and coming Polygon Network swap exchange!.
+The brand new up-and-coming Polygon Network swap exchange!
 
 Hopium is a way of crypto life.
 
-The concept of HopiumSwap was founded by a person known as "Crypto Monster" in March 2022. What makes it different is that HopiumSwap is built on Polygon Network (MATIC), which offers faster and cheaper transactions compared to Ethereum or Binance Smart Chain.
+The HopiumSwap concept was founded by a person known as "Crypto Monster" in March 2022. It is different because HopiumSwap is built on Polygon Network (MATIC), which offers faster and cheaper transactions compared to Ethereum or Binance Smart Chain.
 
 ![](<.gitbook/assets/coming-soon-neon-sign\_191108-233 (1).webp>)
 
 **PHASE 1**
 
 * Website Launch
-* Pre-Sale&#x20;
+* Token Launch
 * HopiumSwap Exchange Launch
 * Advertising Campaigns&#x20;
 * 4,000 Telegram Members
@@ -35,11 +35,7 @@ The concept of HopiumSwap was founded by a person known as "Crypto Monster" in M
 
 **ROADMAP PHASE ONE**&#x20;
 
-A little part of this money will also go into promoting the project to build hype to sell out the first stage of the NFT collection. We currently have 4000 active crypto followers on Twitter and gaining more rapidly as we build. I have a few people who are big in the NFT community who will promote and help sell out the first 4000 NFTs. These NFT projects are huge in crypto and my project has a lot of real use case utility that most don’t have.
-
-**SOCIAL MEDIA PLATFORM**&#x20;
-
-We have already launched our censorship-free social media platform that is free to use, https://www.s0cialhub.com/&#x20;
+In phase one, we will be launching Hopiumswap along with our exchange token "Hopium Token" first. Once we have the exchange launched the NFT collection will continue and get finished. Building the community is key for the success of HopiumSwap and all other projects we will be launching. HopoiumSwap is only a part of what we are building and plans to launch. Keep checking in for more updates as we post them!&#x20;
 
 **COMMUNITY BUILDING**&#x20;
 
