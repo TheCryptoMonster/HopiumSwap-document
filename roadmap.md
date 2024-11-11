@@ -1,5 +1,5 @@
 ---
-description: '"HopiumSwap roadmap"'
+description: '"HopiumSwap Roadmap"'
 ---
 
 # 🧐 HopiumSwap Roadmap
