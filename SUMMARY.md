@@ -4,7 +4,7 @@
 
 * [💊 FunPump Project Info](README.md)
 
-## 😍 HopiumSwap
+## HopiumSwap
 
 * [🙃 Get Started](hopiumswap/get-started/README.md)
   * [Create a Wallet](hopiumswap/get-started/wallet-guide.md)
@@ -42,14 +42,6 @@
   * [📝Limit Orders](pancakeswap-exchange/limit-orders/README.md)
     * [Limit Orders FAQ](pancakeswap-exchange/limit-orders/limit-orders-faq.md)
 
-## HopiumCatz NFT Collection
-
-* [😎 HopiumCatz NFT Collection](hopiumcatz-nft-collection/hopiumcatz-nft-collection.md)
-
-***
-
-* [HopiumCatz RoadMap](hopiumcatz-roadmap.md)
-
 ## Tokenomics
 
 * [🥰 $HOPE](tokenomics/usdhope/README.md)
@@ -66,6 +58,6 @@
   * [Codebase Overview](code/contributing/codebase-overview.md)
 * [😁 Smart Contracts](code/smart-contracts.md)
 
-## HopiumCatz NFT&#x20;
+## HopiumCatz NFT Collection
 
-* [HopiumCatz RoadMap](hopiumcatz-nft/hopiumcatz-roadmap.md)
+* [😎 HopiumCatz NFT Collection](hopiumcatz-nft-collection/hopiumcatz-nft-collection.md)
