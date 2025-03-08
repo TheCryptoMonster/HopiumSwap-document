@@ -6,13 +6,13 @@ When you add your token to a Liquidity Pool you will receive Liquidity Provider 
 
 ## LP Tokens
 
-As an example, if you deposited HOPE and MATIC into a Liquidity Pool, you'd receive HOPE**-MATIC LP** tokens.
+As an example, if you deposited HOPE and MATIC into a Liquidity Pool, you'd receive HOP&#x45;**-MATIC LP** tokens.
 
 The number of LP tokens you receive represents your portion of the HOPE-MATIC Liquidity Pool.
 
 You can also redeem your funds at any time by removing your liquidity.
 
-![](<../../.gitbook/assets/coming-soon-neon-sign\_191108-233 (1).webp>)
+![](<../../.gitbook/assets/coming-soon-neon-sign_191108-233 (1).webp>)
 
 ## Liquidity Providers earn trading fees
 

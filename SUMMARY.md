@@ -60,3 +60,7 @@
 ## HopiumCatz NFT&#x20;
 
 * [HopiumCatz RoadMap](hopiumcatz-nft/hopiumcatz-roadmap.md)
+
+## FunPump
+
+* [FunPump Project Info](funpump/funpump-project-info.md)
