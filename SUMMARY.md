@@ -1,6 +1,12 @@
 # Table of contents
 
-* [😀 HopiumSwap Intro](README.md)
+## FunPump
+
+* [💊 FunPump Project Info](README.md)
+
+***
+
+* [😀 HopiumSwap Intro](<README (1).md>)
 * [🧐 HopiumSwap Roadmap](roadmap.md)
 * [😎 Team Members](team-members.md)
 * [🙃 Get Started](get-started/README.md)
@@ -60,7 +66,3 @@
 ## HopiumCatz NFT&#x20;
 
 * [HopiumCatz RoadMap](hopiumcatz-nft/hopiumcatz-roadmap.md)
-
-## FunPump
-
-* [FunPump Project Info](funpump/funpump-project-info.md)

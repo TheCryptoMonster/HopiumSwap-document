@@ -1,67 +1,32 @@
----
-description: HopiumSwap Coming Soon!!!
----
+# 💊 FunPump Project Info
 
-# 😀 HopiumSwap Intro
+<figure><img src=".gitbook/assets/photo_2025-03-07_09-55-37.jpg" alt=""><figcaption></figcaption></figure>
 
 
 
-<figure><img src=".gitbook/assets/Sneak_Peak_2.png" alt=""><figcaption></figcaption></figure>
+Introducing FunPump: The Ultimate Solana Memes Launchpad! The [#Solana](https://x.com/hashtag/Solana?src=hashtag_click) meme season is heating up, and FunPump is here to fuel the next wave of viral meme coins!&#x20;
 
-{% hint style="success" %}
-**HopiumSwap helps you make the most out of your crypto in three ways:**
+What makes FunPump different?
 
-**Trade, Earn, and Win.**
-{% endhint %}
 
-## ↔️ Trade
 
-> Instantly swap crypto tokens: no registration or account needed.
+* Fair & Fast Meme Launches – No more slow, complicated token launches.
+* Auto Liquidity & LP Locking – Protecting investors from rug pulls.
+* &#x20; Community-Driven Hype – Powered by the most active meme degens.&#x20;
+* Rewarding Creators with incentives - We are adding a few options for setting the market cap for Raydium: $40k - 2 Sol, $60k - 3 Sol, and $80k - 4 Sol. This would mean the higher the market cap, the higher the reward for hitting Raydium.
 
-### The new choice
 
-HopiumSwap is a new up and coming Swap exchange on the polygon network!!&#x20;
 
-### Low fees
+## Upgrades After Launch
 
-Why pay more? HopiumSwap runs on the polygon network, a blockchain with much lower transaction costs than Ethereum, Bitcoin or BNB\
-Trading fees are lower than other top decentralized exchanges too, so that's a double win for you!
 
-### Decentralized
 
-Trade directly from your wallet app.\
-Unlike centralized exchanges like Binance or Coinbase, HopiumSwap doesn’t hold your funds when you trade: **you have 100% ownership of your own crypto**.
+* Adding live streams for token creators to add a little crazy back into the trenches.
+* Platform chat where everyone can chat while trading meme coins.
+* Staking for our project token $FPUMP
+*
 
-## 💸 Earn
 
-> Earn HOPE and other tokens for free with super high interest rates.
 
-### Soon you can Earn tokens with Hopium Pools
 
-Stake HOPE, earn free tokens. It’s really that easy.
 
-### Soon you can Earn HOPE with Yield Farms
-
-Stake LP tokens, earn HOPE. You take on a little more exposure to market fluctuations than with the Syrup Pools, but can earn higher APR to offset the risk.
-
-### Earn Trading Fees
-
-No farm? No problem. Even if your trading pair isn’t supported on the Farms page, you can still earn trading fees when you stake your tokens in Liquidity Pools (LPs).
-
-> HopiumSwap makes making money fun.
-
-## Is HopiumSwap safe?
-
-See for yourself:
-
-* Transparent:
-  * We’re built on open-source software: our site and all our Smart Contracts are publicly visible for maximum transparency.
-  * Our contracts are verified on PolygonScan so you know that what you see is what you get.
-* Security best practices:
-  * We use multisig for all contracts.
-  * Our contracts’ time-locks give you peace of mind.
-
-**Sounds like fun?**\
-**Then Join US!!!**
-
-***
