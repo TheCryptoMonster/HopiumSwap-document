@@ -6,7 +6,7 @@
 
 ***
 
-* [FunPump Roadmap](funpump-roadmap.md)
+* [🥂 FunPump Roadmap](funpump-roadmap.md)
 
 ## HopiumSwap
 
