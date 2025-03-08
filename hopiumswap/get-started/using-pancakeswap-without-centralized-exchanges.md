@@ -6,7 +6,7 @@ description: >-
 
 # Using HopiumSwap without Centralized Exchanges
 
-![](../.gitbook/assets/Untitled-13.png)
+![](../../.gitbook/assets/Untitled-13.png)
 
 HopiumSwap is a decentralized application. That means, unlike Binance or other centralized platforms, you don't need to register account to use it... you just need a crypto wallet. So how can you get crypto onto HopiumSwap without using a centralized exchange?
 
@@ -28,7 +28,7 @@ Let's try moving USDT from Polygon (MATIC) blockchain to BSC using AnySwap.
 4. Connect your wallet and switch your network to Polygon (MATIC) Mainnet.
 5.  Select USDT on MATIC mainnet as "From", and USDT on BSC mainnet as "To". Then type in the amount of USDT you want to transfer.
 
-    <img src="../.gitbook/assets/MBP3-2021.10.19-055554AM-Google Chrome_AnySwap - Cross Chain Protocol (1).png" alt="" data-size="original">
+    <img src="../../.gitbook/assets/MBP3-2021.10.19-055554AM-Google Chrome_AnySwap - Cross Chain Protocol (1).png" alt="" data-size="original">
 6. Click "Approve USDT" to approve your USDT.
 7. Additionally if you want AnySwap to deposit your USDT into another Matic address. Please use the "+ Send To" button.
 8. Click "Swap" and complete your final cross-chain transactions.

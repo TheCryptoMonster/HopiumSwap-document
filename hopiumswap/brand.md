@@ -4,7 +4,7 @@ description: Guidlines and downloadable assets like the HopiumSwap logo SVG
 
 # 😏 Brand & Logos
 
-![](<.gitbook/assets/coming-soon-neon-sign\_191108-233 (1) (2).webp>)
+![](<../.gitbook/assets/coming-soon-neon-sign_191108-233 (1) (2).webp>)
 
 👇[ Jump to logo download](brand.md#pancakeswap-logo-downloads)
 
@@ -57,4 +57,4 @@ Have fun making a unique brand that's clearly yours -- if your product is strong
 
 ## HopiumSwap Logo Downloads
 
-![](<.gitbook/assets/coming-soon-neon-sign\_191108-233 (19).webp>)
+![](<../.gitbook/assets/coming-soon-neon-sign_191108-233 (19).webp>)

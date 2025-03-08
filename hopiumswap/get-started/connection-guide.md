@@ -1,6 +1,6 @@
 # Connect Your Wallet to HopiumSwap
 
-![](../.gitbook/assets/connectyourwallet.png)
+![](../../.gitbook/assets/connectyourwallet.png)
 
 You've made a wallet and gotten your POLY ERC-20 tokens, now you just need to connect your wallet with HopiumSwap and you're good to go!
 
@@ -10,7 +10,7 @@ Check out the steps below for how to connect each of our recommended wallets to 
 
 {% tabs %}
 {% tab title="Trust Wallet" %}
-![](<../.gitbook/assets/image (36).png>)
+![](<../../.gitbook/assets/image (36).png>)
 
 To connect Trust Wallet follow the steps below. Note that Android and iOS devices do not use the same steps!
 
@@ -18,7 +18,7 @@ To connect Trust Wallet follow the steps below. Note that Android and iOS device
 
 1. Open Trust Wallet and tap the **DApps** button on the bottom of the screen.
 
-![](<../.gitbook/assets/image (68).png>)
+![](<../../.gitbook/assets/image (68).png>)
 
 1. Scroll down to "Popular" and tap on "HopiumSwap". You can also find it in "Exchanges".
 2. A new page will open with the HopiumSwap logo and some information. Tap the **Connect** button.
@@ -45,13 +45,13 @@ Read the Trust Wallet guide to connecting to HopiumSwap via WalletConnect.
 
 {% tabs %}
 {% tab title="MetaMask" %}
-![](<../.gitbook/assets/image (33) (3) (4) (5) (1) (1) (1) (1) (1) (1) (1) (4).png>)
+![](<../../.gitbook/assets/image (33) (3) (4) (5) (1) (1) (1) (1) (1) (1) (1) (4).png>)
 
 #### Chrome and Firefox
 
 1. Open MetaMask and click on the **network selector** at the top. By default it will show "Ethereum Mainnet". Scroll down and click **Custom RPC**.
 
-![](<../.gitbook/assets/image (84).png>)
+![](<../../.gitbook/assets/image (84).png>)
 
 1. A window will open. Type in the details below.
 
@@ -61,19 +61,19 @@ Read the Trust Wallet guide to connecting to HopiumSwap via WalletConnect.
 **Currency Symbol (optional):** BNB\
 **Block Explorer URL (optional):** [http://bscscan.com](http://bscscan.com)
 
-![](<../.gitbook/assets/image (85).png>)
+![](<../../.gitbook/assets/image (85).png>)
 
 1. Make sure you've typed everything in correctly and click **Save**. BNB Smart Chain will now be one of your network options.
 
-![](<../.gitbook/assets/image (86).png>)
+![](<../../.gitbook/assets/image (86).png>)
 
 1. Visit the PancakeSwap website. In the top right corner you'll see the **Connect** button. Click it.
 
-![](<../.gitbook/assets/image (164) (3) (3) (1) (1) (1) (1) (1) (1) (1) (2).png>)
+![](<../../.gitbook/assets/image (164) (3) (3) (1) (1) (1) (1) (1) (1) (1) (2).png>)
 
 1. A window will appear asking you to choose a wallet to connect to. Click **MetaMask** (it's the top option on the list).
 
-![](<../.gitbook/assets/image (87).png>)
+![](<../../.gitbook/assets/image (87).png>)
 
 #### Resources
 
@@ -82,17 +82,17 @@ Read the Trust Wallet guide to connecting to HopiumSwap via WalletConnect.
 {% endtab %}
 
 {% tab title="Coinbase Wallet" %}
-![](<../.gitbook/assets/coinbase\_wallet\_wordmark\_blue (1) (1) (1) (1) (1) (1) (2).png>)
+![](<../../.gitbook/assets/coinbase_wallet_wordmark_blue (1) (1) (1) (1) (1) (1) (2).png>)
 
 1. Open Coinbase Wallet and click on the **Settings** icon at the top-right. By default it will show "Ethereum Mainnet" as the Default Network.\
-   ![](../.gitbook/assets/cb-desktop-1.png)
+   ![](../../.gitbook/assets/cb-desktop-1.png)
 2. Click on **Default Network** and choose **Polygon Network**\
-   ![](../.gitbook/assets/cb-desktop-2.png)
+   ![](../../.gitbook/assets/cb-desktop-2.png)
 3. Binance Smart Chain will now be your Default Network.
 4. Visit the[ ](https://pancakeswap.finance)pancakeswap.finance, In the top right corner you'll see the **Connect** button. Click it.\
-   ![](../.gitbook/assets/cb-desktop-3.png)
+   ![](../../.gitbook/assets/cb-desktop-3.png)
 5. A window will appear asking you to choose a wallet to connect to. Click **Coinbase Wallet** (it's the top option on the list).\
-   ![](../.gitbook/assets/cb-desktop-4.png)
+   ![](../../.gitbook/assets/cb-desktop-4.png)
 
 #### **Resources**
 
@@ -102,18 +102,18 @@ Read the Trust Wallet guide to connecting to HopiumSwap via WalletConnect.
 {% endtab %}
 
 {% tab title="Token Pocket" %}
-![](<../.gitbook/assets/image (125) (3) (4) (1) (1) (1) (1) (1) (1) (1) (2).png>)
+![](<../../.gitbook/assets/image (125) (3) (4) (1) (1) (1) (1) (1) (1) (1) (2).png>)
 
 #### Desktop Application
 
 1. When you open the application, DApps should be the default page (if not, click to the DApps page).
 2. Half way down the page you'll see a list of networks to choose from. Click **BSC**.
 
-![](<../.gitbook/assets/image (90).png>)
+![](<../../.gitbook/assets/image (90).png>)
 
 1. On the list of BSC DApps, you'll find PancakeSwap links. Click a **PancakeSwap** link.
 
-![](<../.gitbook/assets/image (92).png>)
+![](<../../.gitbook/assets/image (92).png>)
 
 {% hint style="warning" %}
 Make sure you don't choose the "PancakeSwap data analysis" option. If you do, you will not be able to connect.

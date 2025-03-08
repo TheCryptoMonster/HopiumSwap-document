@@ -1,6 +1,6 @@
 # Create a Wallet
 
-![](../.gitbook/assets/createawallet.png)
+![](../../.gitbook/assets/createawallet.png)
 
 To get started on HopiumSwap, the first thing you'll need is to set up a wallet that supports Polygon Network. Wallets are available both on desktop computers and on smartphone devices. You'll need to choose the wallet that fits your needs best.
 
@@ -50,7 +50,7 @@ You can find more in-depth information about each wallet below, as well as downl
 
 {% tabs %}
 {% tab title="MetaMask" %}
-![](<../.gitbook/assets/image (33) (3) (4) (5) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (33) (3) (4) (5) (1) (1) (1) (1) (1) (1) (1).png>)
 
 MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethereum network) and Poly ERC-20 tokens.
 
@@ -76,7 +76,7 @@ MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethe
 {% endtab %}
 
 {% tab title="Coinbase Wallet" %}
-![](<../.gitbook/assets/coinbase\_wallet\_wordmark\_blue (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/coinbase_wallet_wordmark_blue (1) (1) (1) (1) (1) (1) (1).png>)
 
 Millions of users choose Coinbase Wallet to earn yield with DeFi, swap more than 5,500 assets, and hold their NFT collections. Coinbase wallet supports Poly ERC-20 Tokens and Polygon Network).
 
@@ -99,7 +99,7 @@ _Coinbase Wallet is a self-custody wallet providing software services subject to
 {% endtab %}
 
 {% tab title="Token Pocket" %}
-![](<../.gitbook/assets/image (125) (3) (4) (1) (1) (1) (1) (1) (1) (1) (3).png>)
+![](<../../.gitbook/assets/image (125) (3) (4) (1) (1) (1) (1) (1) (1) (1) (3).png>)
 
 Token Pocket is a cryptocurrency management app that natively supports many cryptocurrency networks. It also has a desktop application available.
 
@@ -130,15 +130,15 @@ Token Pocket is a cryptocurrency management app that natively supports many cryp
 
 If you do have an existing wallet to import, use the top option instead.
 
-![](https://lh3.googleusercontent.com/FdtGOB7N7ZKROD0EIKy5roklxcqtYwq26lZ4RX\_8RxUdt-caGPAr03HNTdOtTqpD82hkBcX9umQI1VcL6n0jXky4uVy\_dFDr8pReadLE80AHXkvm4mbvZZN2vxnzeaUmHXATx3GC)
+![](https://lh3.googleusercontent.com/FdtGOB7N7ZKROD0EIKy5roklxcqtYwq26lZ4RX_8RxUdt-caGPAr03HNTdOtTqpD82hkBcX9umQI1VcL6n0jXky4uVy_dFDr8pReadLE80AHXkvm4mbvZZN2vxnzeaUmHXATx3GC)
 
 1. On the next page, find **Polygon Network** in the list and tap it.
 
-![](https://lh5.googleusercontent.com/TGpsjTq\_B1rLK-A8Cqzq9sC0IACpDZFCbpwN5\_GD4r8sCRmaqAdbswC-OmWAM7YiKATEaHTHviODFueMA6sCDSGlvNslYjGWQIrX5X8oR\_5pGPuMJ6X7\_Gz-rEoJwzmS9exEybbs)
+![](https://lh5.googleusercontent.com/TGpsjTq_B1rLK-A8Cqzq9sC0IACpDZFCbpwN5_GD4r8sCRmaqAdbswC-OmWAM7YiKATEaHTHviODFueMA6sCDSGlvNslYjGWQIrX5X8oR_5pGPuMJ6X7_Gz-rEoJwzmS9exEybbs)
 
 1. Next, on the “Create way” page, tap **Create Wallet**.
 
-![](https://lh4.googleusercontent.com/AvN\_ssg1eWtArzqvT0oaxWGC-GR6lfG6GjzhIbvIpYO6b2om9ZYtNa5GWlU7KW31cKjPqFmSsx8zSjvT\_Bxw2zAqvVSMylbQWCCXYwnJOVM5jOxg9u7lt6\_Yy5AySM72HSS99v0n)
+![](https://lh4.googleusercontent.com/AvN_ssg1eWtArzqvT0oaxWGC-GR6lfG6GjzhIbvIpYO6b2om9ZYtNa5GWlU7KW31cKjPqFmSsx8zSjvT_Bxw2zAqvVSMylbQWCCXYwnJOVM5jOxg9u7lt6_Yy5AySM72HSS99v0n)
 
 1. You’ll be asked to enter a password. For your security, make sure your password is judged as “Strong”. You can also add a hint, but make sure it’s something only you will understand. When you’re ready, tap **Create Wallet**.
 
@@ -154,11 +154,11 @@ Please be extremely careful with how you handle your private keys. Giving your p
 
 1. Tap the **Me** tab on the bottom ribbon and tap **Manage Wallets**.
 
-![](https://lh3.googleusercontent.com/\_DE3EO8bsI5wKZlkTeJv3zZ77LR8SVQYOwB4EXbY\_GhKzz4PSZpo3MdlvrU8sLoLyPcRQjdjOA24VPjAa\_UZdt-JaiRgPMk67uBs7JIi5gp9gV1\_wDB7fW7FQoFogTMZ\_EQJYxcQ)
+![](https://lh3.googleusercontent.com/_DE3EO8bsI5wKZlkTeJv3zZ77LR8SVQYOwB4EXbY_GhKzz4PSZpo3MdlvrU8sLoLyPcRQjdjOA24VPjAa_UZdt-JaiRgPMk67uBs7JIi5gp9gV1_wDB7fW7FQoFogTMZ_EQJYxcQ)
 
 1. On the next page, tap the Polygon Network entry. Be careful not to tap the address part, or you’ll only copy that to clipboard instead.
 
-![](https://lh4.googleusercontent.com/jLhXL03uhZHBKbHaPvy3ZrD1EmYCR8ECqwMxQIzTKnUtxMNntaDA8Dx4oVlXSadoFhhJqZACsYWVPfvITBEpWfkCfwntcQY3Fw5EYgGH-tmva8PZbvYbBRCy\_c5V7E1yQHvXiU0F)
+![](https://lh4.googleusercontent.com/jLhXL03uhZHBKbHaPvy3ZrD1EmYCR8ECqwMxQIzTKnUtxMNntaDA8Dx4oVlXSadoFhhJqZACsYWVPfvITBEpWfkCfwntcQY3Fw5EYgGH-tmva8PZbvYbBRCy_c5V7E1yQHvXiU0F)
 
 1. When the menu appears, find and tap the **Export Private Key** option. Type in your password to get your private key.
 
@@ -172,7 +172,7 @@ Now you have your private key ready to import your wallet into the desktop versi
 {% endtab %}
 
 {% tab title="SafePal" %}
-![](<../.gitbook/assets/image (26) (1).png>)
+![](<../../.gitbook/assets/image (26) (1).png>)
 
 SafePal is available as both a software and hardware wallet. The wallet is easy to install and create, and comes ready to support Poly ERC-20 tokens and Polygon Network right away.
 
@@ -219,7 +219,7 @@ You can find more in-depth information about each wallet below, as well as downl
 
 {% tabs %}
 {% tab title="MetaMask" %}
-![](<../.gitbook/assets/image (33) (3) (4) (5) (1) (1) (1) (1) (1) (1) (1) (4).png>)
+![](<../../.gitbook/assets/image (33) (3) (4) (5) (1) (1) (1) (1) (1) (1) (1) (4).png>)
 
 MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethereum network) by default, and Poly ERC-20 with a little work.
 

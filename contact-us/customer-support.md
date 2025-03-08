@@ -6,7 +6,7 @@
 
 If you're experiencing issues,
 
-1. First check [the troubleshooting page](../help/troubleshooting.md) for your error code
+1. First check [the troubleshooting page](../hopiumswap/help/troubleshooting.md) for your error code
 2. If you can't find a solution, try reaching out in your local [Telegram group](https://t.me/HopiumSwapExchange).
 3. Send us an email @ HopiumSwap@protonmail.com
 

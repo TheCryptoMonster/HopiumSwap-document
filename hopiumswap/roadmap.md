@@ -6,7 +6,7 @@ description: '"HopiumSwap Roadmap"'
 
 
 
-![](.gitbook/assets/Roadmap.png)
+![](../.gitbook/assets/Roadmap.png)
 
 _Updated On Nov 10, 2024_
 
@@ -18,7 +18,7 @@ Hopium is a way of crypto life.
 
 The HopiumSwap concept was founded by a person known as "Crypto Monster" in March 2022. It is different because HopiumSwap is built on Polygon Network (MATIC), which offers faster and cheaper transactions compared to Ethereum or Binance Smart Chain.
 
-![](<.gitbook/assets/coming-soon-neon-sign\_191108-233 (1).webp>)
+![](<../.gitbook/assets/coming-soon-neon-sign_191108-233 (1).webp>)
 
 **PHASE 1**
 

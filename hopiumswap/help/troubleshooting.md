@@ -4,7 +4,7 @@ description: Common error messages. Use the sidebar ➡️to jump to the error y
 
 # Troubleshooting Errors
 
-![](../.gitbook/assets/troubleshootingerrors.png)
+![](../../.gitbook/assets/troubleshootingerrors.png)
 
 Sometimes you may find yourself facing a problem that doesn't have a clear solution. These troubleshooting tips may help you solve problems you run into.
 
@@ -24,7 +24,7 @@ You're trying to swap tokens, but your slippage tolerance is too low or liquidit
 2. Try trading a smaller amount at one time.
 3. Increase your slippage tolerance:
    1. Tap the settings icon on the liquidity page.
-   2. Increase your slippage tolerance a little and try again. ![](<../.gitbook/assets/image (9) (4) (2) (1) (1) (1) (1) (1) (1) (1) (3).png>)
+   2. Increase your slippage tolerance a little and try again. ![](<../../.gitbook/assets/image (9) (4) (2) (1) (1) (1) (1) (1) (1) (1) (3).png>)
 4. Lastly, try inputting an amount with fewer decimal places.
 {% endtab %}
 
@@ -54,7 +54,7 @@ Still doesn't work?
 1. Tap the settings icon on the liquidity page.
 2. Increase your slippage tolerance a little and try again.
 
-![](<../.gitbook/assets/image (9) (4) (2) (1) (1) (1) (1) (1) (1) (1) (4).png>)
+![](<../../.gitbook/assets/image (9) (4) (2) (1) (1) (1) (1) (1) (1) (1) (4).png>)
 {% endtab %}
 
 {% tab title="Reason" %}
@@ -62,9 +62,9 @@ The error is caused by trying to add or remove liquidity for a liquidity pool (L
 
 It might be the case that prices are updating too fast when and your slippage tolerance is too low.
 
-![](https://lh5.googleusercontent.com/T1KMtz2ILDVHljGw1iLbIv0W1KVl7qXL8zU2nLFHkUvDb5oMw9mpUzzBwWmIBz15XDsxZ5w7wsaqAwCs\_pxdobz\_kY\_7BhcZhYtpqWuQGFs23DZq98-SVInlfsS07WzxFPLIYXHt)
+![](https://lh5.googleusercontent.com/T1KMtz2ILDVHljGw1iLbIv0W1KVl7qXL8zU2nLFHkUvDb5oMw9mpUzzBwWmIBz15XDsxZ5w7wsaqAwCs_pxdobz_kY_7BhcZhYtpqWuQGFs23DZq98-SVInlfsS07WzxFPLIYXHt)
 
-![](https://lh5.googleusercontent.com/7aspaCCvDjzxbJxngqwgeq737LB3OUNcAs592QqlEkyrAOTfKsrt\_FAwpEylaIJhff5ZcYlzB\_r0v1JZwfj3j8Ah6jlUbRoMrAqVfTb3cwDI7B1i5HJtZSQOsTPrv7l7SaclC3BV)
+![](https://lh5.googleusercontent.com/7aspaCCvDjzxbJxngqwgeq737LB3OUNcAs592QqlEkyrAOTfKsrt_FAwpEylaIJhff5ZcYlzB_r0v1JZwfj3j8Ah6jlUbRoMrAqVfTb3cwDI7B1i5HJtZSQOsTPrv7l7SaclC3BV)
 {% endtab %}
 
 {% tab title="Solution for nerds" %}
@@ -77,7 +77,7 @@ There currently isn't a simple way to solve this issue from the PancakeSwap webs
 Head to the contract of the LP token you're trying to approve.\
 For example, here's the ETH/WBNB pair: [https://bscscan.com/address/0x70d8929d04b60af4fb9b58713ebcf18765ade422](https://bscscan.com/address/0x70d8929d04b60af4fb9b58713ebcf18765ade422)
 
-1. Select **Write Contract**, then **Connect to Web3** and connect your wallet. ![](https://lh6.googleusercontent.com/-\_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk\_1dTHkPuCmE50vpNNZxEqoM5nPmE\_12k3-8Q8YYoRYqJ\_VGjxJ03YPRuVQ1O5ME)
+1. Select **Write Contract**, then **Connect to Web3** and connect your wallet. ![](https://lh6.googleusercontent.com/-_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk_1dTHkPuCmE50vpNNZxEqoM5nPmE_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME)
 2. In **section "1. approve",** approve the LP token for the router by entering
    1. spender (address): enter the contract address of the LP token you're trying to interact with
    2. value (uint256): -1
@@ -88,7 +88,7 @@ For example, here's the ETH/WBNB pair: [https://bscscan.com/address/0x70d8929d04
 2. In **5. balanceOf**, input your wallet address and hit **Query**.
 3. Keep track of the number that's exported. It shows your balance within the LP in the uint256 format, which you'll need in the next step.
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (7).png>)
 
 **Add or Remove Liquidity**
 
@@ -102,7 +102,7 @@ Head to the router contract: [https://bscscan.com/address/0x05ff2b0db69458a0750b
 6. Add your wallet address in **to (address)**.
 7. Deadline must be an epoch time greater than the time the tx is executed.
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5).png>)
 
 {% hint style="warning" %}
 This can cause very high slippage, and can cause the user to lose some funds if frontrun
@@ -225,7 +225,7 @@ You don't have enough SYRUP in your wallet to unstake from the HOPE-HOPE pool.
 If that still fails, you can perform an “emergencyWithdraw” from the contract directly to unstake your staked tokens.
 
 1. Go to: [https://polygonscan.com/](https://polygonscan.com/)
-2. Click **“Connect to Web3”** and connect your wallet. ![](https://lh6.googleusercontent.com/-\_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk\_1dTHkPuCmE50vpNNZxEqoM5nPmE\_12k3-8Q8YYoRYqJ\_VGjxJ03YPRuVQ1O5ME)
+2. Click **“Connect to Web3”** and connect your wallet. ![](https://lh6.googleusercontent.com/-_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk_1dTHkPuCmE50vpNNZxEqoM5nPmE_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME)
 3. In section **“4. emergencyWithdraw”**, enter "0" and click “Write”.
 
 This will unstake your staked tokens and lose any uncollected HOPE yield.
@@ -252,7 +252,7 @@ Try manually increasing the **gas limit** (not gas price!) in your wallet before
 
 A limit of 200000 is usually enough.
 
-![](<../.gitbook/assets/image (2) (1).png>)
+![](<../../.gitbook/assets/image (2) (1).png>)
 
 The above example is from Metamask; check your wallet's documentation if you aren't sure how to adjust the gas limit.
 {% endtab %}
@@ -297,7 +297,7 @@ You can perform an “emergencyWithdraw” from the contract directly to unstake
 1. Find the contract address of the Syrup Pool you're trying to unstake from. You can find it in your wallet's transaction log.
 2. Go to [https://polygonscan.com/](https://polygonscan.com/) and in the search bar, enter the contract address.
 3. Select **Write Contract.**
-4. Click **“Connect to Web3”** and connect your wallet.![](https://lh6.googleusercontent.com/-\_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk\_1dTHkPuCmE50vpNNZxEqoM5nPmE\_12k3-8Q8YYoRYqJ\_VGjxJ03YPRuVQ1O5ME)
+4. Click **“Connect to Web3”** and connect your wallet.![](https://lh6.googleusercontent.com/-_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk_1dTHkPuCmE50vpNNZxEqoM5nPmE_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME)
 5. In section **“3. emergencyWithdraw”,** and click “Write”.
 
 This will unstake your staked tokens and lose any uncollected yield.

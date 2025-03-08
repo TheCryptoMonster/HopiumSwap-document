@@ -4,48 +4,51 @@
 
 * [💊 FunPump Project Info](README.md)
 
+## 😍 HopiumSwap
+
+* [🙃 Get Started](hopiumswap/get-started/README.md)
+  * [Create a Wallet](hopiumswap/get-started/wallet-guide.md)
+  * [Get Poly ERC-20 Tokens](hopiumswap/get-started/bep20-guide.md)
+  * [Using HopiumSwap without Centralized Exchanges](hopiumswap/get-started/using-pancakeswap-without-centralized-exchanges.md)
+  * [Connect Your Wallet to HopiumSwap](hopiumswap/get-started/connection-guide.md)
+* [😀 HopiumSwap Intro](hopiumswap/readme.md)
+* [🧐 HopiumSwap Roadmap](hopiumswap/roadmap.md)
+* [😇 Click Here for Help](hopiumswap/help/README.md)
+  * [Troubleshooting Errors](hopiumswap/help/troubleshooting.md)
+  * [General FAQ](hopiumswap/help/faq.md)
+  * [Fixing Stuck Pending Transactions on MetaMask](hopiumswap/help/unsticking-a-transaction-stuck-as-pending-with-metamask.md)
+* [😏 Brand & Logos](hopiumswap/brand.md)
+* [😎 Team Members](hopiumswap/team-members.md)
+
 ***
 
-* [😀 HopiumSwap Intro](<README (1).md>)
-* [🧐 HopiumSwap Roadmap](roadmap.md)
-* [😎 Team Members](team-members.md)
-* [🙃 Get Started](get-started/README.md)
-  * [Create a Wallet](get-started/wallet-guide.md)
-  * [Get Poly ERC-20 Tokens](get-started/bep20-guide.md)
-  * [Using HopiumSwap without Centralized Exchanges](get-started/using-pancakeswap-without-centralized-exchanges.md)
-  * [Connect Your Wallet to HopiumSwap](get-started/connection-guide.md)
-* [😇 Click Here for Help](help/README.md)
-  * [Troubleshooting Errors](help/troubleshooting.md)
-  * [General FAQ](help/faq.md)
-  * [Fixing Stuck Pending Transactions on MetaMask](help/unsticking-a-transaction-stuck-as-pending-with-metamask.md)
+* [🥳 COMING SOON!!](coming-soon/README.md)
+  * [Yield Farming](coming-soon/yield-farming.md)
+  * [Hopium Pools - stake HOPE](coming-soon/hopium-pools-stake-hope.md)
+  * [Lottery](coming-soon/lottery.md)
+  * [Prediction](coming-soon/prediction.md)
+  * [NFT Marketplace](coming-soon/nft-marketplace.md)
+  * [NFT Profile System](coming-soon/nft-profile-system.md)
+  * [IFO (Initial Farm Offering)](coming-soon/ifo-initial-farm-offering.md)
+  * [Voting](coming-soon/voting.md)
 * [🤓 Contact Us](contact-us/README.md)
   * [Customer Support](contact-us/customer-support.md)
   * [Social Accounts & Communities](contact-us/telegram.md)
-* [😏 Brand & Logos](brand.md)
-
-## 😍 HopiumSwap
-
-* [🔄 Exchange](hopiumswap/pancakeswap-exchange/README.md)
-  * [Token Swaps](hopiumswap/pancakeswap-exchange/trade.md)
-  * [How to Trade](hopiumswap/pancakeswap-exchange/trade-guide.md)
-  * [Liquidity Pools](hopiumswap/pancakeswap-exchange/pancakeswap-pools.md)
-  * [How to Add/Remove Liquidity](hopiumswap/pancakeswap-exchange/liquidity-guide.md)
-  * [📝Limit Orders](hopiumswap/pancakeswap-exchange/limit-orders/README.md)
-    * [Limit Orders FAQ](hopiumswap/pancakeswap-exchange/limit-orders/limit-orders-faq.md)
-* [🥳 COMING SOON!!](hopiumswap/coming-soon/README.md)
-  * [Yield Farming](hopiumswap/coming-soon/yield-farming.md)
-  * [Hopium Pools - stake HOPE](hopiumswap/coming-soon/hopium-pools-stake-hope.md)
-  * [Lottery](hopiumswap/coming-soon/lottery.md)
-  * [Prediction](hopiumswap/coming-soon/prediction.md)
-  * [NFT Marketplace](hopiumswap/coming-soon/nft-marketplace.md)
-  * [NFT Profile System](hopiumswap/coming-soon/nft-profile-system.md)
-  * [IFO (Initial Farm Offering)](hopiumswap/coming-soon/ifo-initial-farm-offering.md)
-  * [Voting](hopiumswap/coming-soon/voting.md)
+* [🔄 Exchange](pancakeswap-exchange/README.md)
+  * [Token Swaps](pancakeswap-exchange/trade.md)
+  * [How to Trade](pancakeswap-exchange/trade-guide.md)
+  * [Liquidity Pools](pancakeswap-exchange/pancakeswap-pools.md)
+  * [How to Add/Remove Liquidity](pancakeswap-exchange/liquidity-guide.md)
+  * [📝Limit Orders](pancakeswap-exchange/limit-orders/README.md)
+    * [Limit Orders FAQ](pancakeswap-exchange/limit-orders/limit-orders-faq.md)
 
 ## HopiumCatz NFT Collection
 
-* [😎 HopiumCatz NFT Collection](hopiumcatz-nft-collection/hopiumcatz-nft-collection/README.md)
-  * [HopiumCatz RoadMap](hopiumcatz-nft-collection/hopiumcatz-nft-collection/hopiumcatz-roadmap.md)
+* [😎 HopiumCatz NFT Collection](hopiumcatz-nft-collection/hopiumcatz-nft-collection.md)
+
+***
+
+* [HopiumCatz RoadMap](hopiumcatz-roadmap.md)
 
 ## Tokenomics
 
