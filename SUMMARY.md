@@ -4,6 +4,10 @@
 
 * [💊 FunPump Project Info](README.md)
 
+***
+
+* [FunPump Roadmap](funpump-roadmap.md)
+
 ## HopiumSwap
 
 * [🙃 Get Started](hopiumswap/get-started/README.md)
