@@ -4,7 +4,13 @@
 
 
 
-Introducing FunPump: The Ultimate Solana Memes Launchpad! The [#Solana](https://x.com/hashtag/Solana?src=hashtag_click) meme season is heating up, and FunPump is here to fuel the next wave of viral meme coins! We are creating the best token launchpad on Solana.&#x20;
+
+
+## Introducing FunPump
+
+
+
+The Ultimate Solana Memes Launchpad! The [#Solana](https://x.com/hashtag/Solana?src=hashtag_click) meme season is heating up, and FunPump is here to fuel the next wave of viral meme coins! We are creating the best token launchpad on Solana.&#x20;
 
 What makes FunPump different?
 
