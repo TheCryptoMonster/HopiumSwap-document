@@ -10,9 +10,9 @@
 
 
 
-The Ultimate Solana Memes Launchpad! The [#Solana](https://x.com/hashtag/Solana?src=hashtag_click) meme season is heating up, and FunPump is here to fuel the next wave of viral meme coins! We are creating the best token launchpad on Solana. Our goal is to use part of the profits for helping new legit projects launch by donating money, and starting a grant program, do giveaways and contests.&#x20;
+The Ultimate Solana Memes Launchpad! The [#Solana](https://x.com/hashtag/Solana?src=hashtag_click) meme season is heating up, and FunPump is here to fuel the next wave of viral meme coins! We are creating the best token launchpad on Solana. Our goal is to use part of the profits for helping new legit projects launch by donating money and starting a grant program, to do giveaways and contests.&#x20;
 
-This is only the start of FunPump, we will be launching our second project HopiumSwap Dex Exchange this year and eventually have our token graduate to HopiumSwap instead of Raydium, maybe to both if we can. HopiumSwap is a PancakeSwap clone on polygon and is our biggest project that is ready to test.&#x20;
+This is only the start of FunPump, we are launching our second project HopiumSwap Dex Exchange this year and eventually have our token graduate to HopiumSwap instead of Raydium, maybe to both if we can. HopiumSwap a PancakeSwap clone on Polygon, is our biggest project ready to test.&#x20;
 
 What makes FunPump different?
 
