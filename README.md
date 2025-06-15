@@ -33,6 +33,8 @@ What makes FunPump different?
 * Platform chat where everyone can chat while trading meme coins.
 * Staking for our project token $FPUMP
 * Create revenue sharing that will help fund new legit project launches, airdrops, rewards for token creators, giveaways, and contests
+* Feature like Twitter Spaces.
+* Upgrades to the FunPump UI to make the website look great and easier to use.&#x20;
 
 
 
