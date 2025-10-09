@@ -207,3 +207,12 @@ Leaderboards\
 * Build a treatment centre in my local area
 * Fund many projects and help people create their dreams
 
+
+
+## Future Cyber Security Team
+
+* Create a team to take down influencers who only scam people
+* Track wallets and hold them accountable
+* Hire staff&#x20;
+* Work with authorities to pass on all information collected
+
