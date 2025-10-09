@@ -215,4 +215,5 @@ Leaderboards\
 * Track wallets and hold them accountable
 * Hire staff&#x20;
 * Work with authorities to pass on all information collected
+* Try to get funds back for people who have been scammed&#x20;
 
