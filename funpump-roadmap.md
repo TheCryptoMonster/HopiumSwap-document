@@ -186,3 +186,24 @@ Leaderboards\
 ✅ Top Creators: Most successful token creators\
 ✅ Recent Activity: Latest platform activity
 
+
+
+## Upgrades After Launch
+
+* Create live streams
+* Create spaces like twitter
+* Staking for our project token $FPUMP
+* Create revenue sharing that will help fund new legit project launches, rewards for token creators, giveaways, and contests
+* Upgrade the UI&#x20;
+* Upgrade the chat&#x20;
+
+
+
+## Future Goals
+
+* Send starkink to other countries in need
+* Send solar and batteries to countries in need
+* Donate to food banks
+* Build a treatment centre in my local area
+* Fund many projects and help people create their dreams
+
