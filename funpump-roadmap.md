@@ -1,6 +1,6 @@
 # 🥂 FunPump Roadmap
 
-## Features on launch
+## Features After Launch
 
 Token Launchpad\
 ✅ Token Creation: Complete form with metadata (name, symbol, description, image)\
