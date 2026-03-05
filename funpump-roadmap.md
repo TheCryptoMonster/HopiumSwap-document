@@ -1,6 +1,12 @@
 # 🥂 FunPump Roadmap
 
-## Features After Launch
+## FunPump Features
+
+
+
+**We had to remove many features to afford to deploy on Salana, because it's not cheap, but it's a great blockchain! Some features will be added for launch, and others we have ready to add will be added after launch**.&#x20;
+
+
 
 Token Launchpad\
 ✅ Token Creation: Complete form with metadata (name, symbol, description, image)\
