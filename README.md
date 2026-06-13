@@ -1,4 +1,4 @@
-# 🚨FunPump The Ultimate Token Launchpad🚨
+# 🚨FunPump The Ultimate Token Launchpad
 
 <figure><img src=".gitbook/assets/photo_2026-06-12_08-26-40.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
