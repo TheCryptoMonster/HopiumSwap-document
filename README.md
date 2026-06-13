@@ -6,15 +6,30 @@
 
 
 
-## Introducing FunPump
+## 🚨 **FUNPUMP TOKEN LAUNCHPAD!**&#xD83D;�
 
 
 
-The Ultimate Solana Memes Launchpad! The [#Solana](https://x.com/hashtag/Solana?src=hashtag_click) meme season is heating up, and FunPump is here to fuel the next wave of viral meme coins! We are creating the best token launchpad on Solana. Our goal is to use part of the profits for helping new legit projects launch by donating money and starting a grant program, to do giveaways and contests.&#x20;
 
-This is only the start of FunPump, we are launching our second project HopiumSwap Dex Exchange this year and eventually have our token graduate to HopiumSwap instead of Raydium, maybe to both if we can. HopiumSwap a PancakeSwap clone on Polygon, is our biggest project ready to test.&#x20;
 
-What makes FunPump different?
+Introducing FunPump – the ultimate Solana token launchpad! Launch viral tokens, trade smart, and build communities. Plus, $FPUMP token to fuel it all!
+
+Upgrades Coming Very soon!!
+
+1. social media features to turn FunPump into the real Crypto Twitter!!
+2. we are going to pay to teach people proper TA and buy them 5er's prop firm trading accounts, small account while you learn, then we will buy you $500 usd 2-step $100k usd tradinf account.
+3. We are going to build a free dex screener, funded by FunPump profits and create dividends for holding our token. if you hold you get a % of profits we make.
+
+Key Features: No trading bots, no same name token/ symbols on FunPump!💹 Token Reviews; Star ratings, comments, likes/dislikes – community-driven vibes! ⭐️ Creator Profiles:Verified badges, KYC Optional, reputation scores, stats tracking 📊 Follow System: Connect with top creators & traders 👥
+
+* Profits fuel grants, giveaways & legit project funding and support! 🎉
+
+Join the hype:
+
+* Docs: hopiumswapinfo.gitbook.io/FunPump
+* X: x.com/funpumps
+* TG: t.me/FunPumpOfficia…
+* Discord: discord.gg/zAdamfaB53
 
 
 
