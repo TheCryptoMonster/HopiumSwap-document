@@ -26,7 +26,7 @@ Key Features: No trading bots, no same name token/ symbols on FunPump!💹 Token
 
 Join the hype:
 
-* Docs: [hopiumswapinfo.gitbook.io/FunPump](https://funpump.gitbook.io/funpump)
+* Docs: [https://funpump.gitbook.io/funpump](https://funpump.gitbook.io/funpump)
 * X: [x.com/funpumps](https://x.com/funpumps)
 * TG: [t.me/FunPumpOfficia…](https://t.me/FunPumpOfficialSol)
 * Discord: [discord.gg/zAdamfaB53](https://discord.gg/zAdamfaB53)
