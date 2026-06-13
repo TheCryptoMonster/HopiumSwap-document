@@ -314,7 +314,7 @@ This error tends to appear when you're trying to unstake from an old Syrup Pool,
 
 ## **Issues with Prediction**
 
-Check [Broken link](broken-reference "mention")
+Check [Broken link](/broken/pages/6Lu1NCIyLS2YOqI2iwmL "mention")
 
 ## **Other issues**
 
@@ -382,8 +382,7 @@ We're investigating the logic behind this issue. Meanwhile please try the workar
 
 {% tabs %}
 {% tab title="Workaround 1" %}
-1. Go to “Collectible” page, then come back to profile page.\
-
+1. Go to “Collectible” page, then come back to profile page.<br>
 2. Retry profile creation.
 {% endtab %}
 

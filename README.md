@@ -1,6 +1,6 @@
-# 💊 FunPump Project Info
+# 💊 FunPump Token Launchpad
 
-<figure><img src=".gitbook/assets/photo_2025-03-07_09-55-37.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/photo_2026-06-12_08-26-40.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 
 

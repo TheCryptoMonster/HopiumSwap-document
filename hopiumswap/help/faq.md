@@ -19,11 +19,9 @@ See for yourself:
 
 We will have staking and farming in the near future!
 
-Staking only needs some HOPE to be added to a Hopium Pool to earn HOPE or other tokens.\
+Staking only needs some HOPE to be added to a Hopium Pool to earn HOPE or other tokens.<br>
 
-
-Farming is more complicated and needs LP Tokens to earn HOPE.\
-
+Farming is more complicated and needs LP Tokens to earn HOPE.<br>
 
 ## Where can I view the HopiumSwap roadmap?
 
