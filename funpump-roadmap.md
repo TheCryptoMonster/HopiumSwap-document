@@ -207,11 +207,11 @@ Leaderboards\
 
 ## Future Goals
 
-* Send starkink to other countries in need
-* Send solar and batteries to countries in need
-* Donate to food banks
-* Build a treatment centre in my local area
-* Fund many projects and help people create their dreams
+* Create Social Media Features For FunPump
+* Build A Free Dex Screener
+* Help Fund Legitimate Projects
+* Free Training For TA And Funded 5ers Account.
+* Create The Biggest Community In Crypto Who Help Each Other
 
 
 
