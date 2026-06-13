@@ -2,7 +2,7 @@
 
 ## FunPump
 
-* [💊 🚨FunPump Token Launchpad🚨](README.md)
+* [💊 FunPump The Ultimate Token Launchpad](README.md)
 
 ***
 
