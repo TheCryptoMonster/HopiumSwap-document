@@ -55,7 +55,7 @@ Join the hype:
 
 ## Official Project Links
 
-[Twitter](https://x.com/HopiumSwap)
+[Twitter](https://x.com/funpumps)
 
 [Telegram](https://t.me/FunPumpOfficialSol)
 
