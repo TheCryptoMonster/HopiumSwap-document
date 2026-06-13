@@ -194,24 +194,16 @@ Leaderboards\
 
 
 
-## Upgrades After Launch
+Upgrades After Launch
 
-* Create live streams
-* Create spaces like twitter
-* Staking for our project token $FPUMP
-* Create revenue sharing that will help fund new legit project launches, rewards for token creators, giveaways, and contests
-* Upgrade the UI&#x20;
-* Upgrade the chat&#x20;
+* Create The Biggest Community In Crypto Community In Cypto.
+* Create Social Media Features For FunPump.
+* Build A Completely Free Dex Screener.
+* Create revenue sharing that will help fund new legit project launches, rewards for token creators, giveaways, and contests.
+* Free Training For Learning Real TA Lesson's From the Best In Town!!.&#x20;
+* Free 5er's 2 step Trading Account During Training, Then $500 USD Account After A Few Stages.
 
 
-
-## Future Goals
-
-* Create Social Media Features For FunPump
-* Build A Free Dex Screener
-* Help Fund Legitimate Projects
-* Free Training For TA And Funded 5ers Account.
-* Create The Biggest Community In Crypto Who Help Each Other
 
 
 
