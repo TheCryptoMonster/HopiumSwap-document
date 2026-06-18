@@ -7,6 +7,7 @@
 ***
 
 * [🥂 FunPump Roadmap](funpump-roadmap.md)
+* [Macro Strategy Courses](macro-strategy-courses.md)
 
 ## HopiumSwap
 
