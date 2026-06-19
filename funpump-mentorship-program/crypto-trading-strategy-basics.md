@@ -3,11 +3,11 @@
 Investing in cryptocurrency is unlike investing in any other asset. It’s new, fresh and exciting. With the right trading strategy you stand a much better change of generating a return on your investment.
 
 \
-**First, to get started**:Choose a reliable crypto exchange: A crypto exchange is where you will buy, sell and trade cryptocurrencies – Liquid offers all that and more.\
+**First, to get started**: Choose a reliable crypto exchange: A crypto exchange is where you will buy, sell and trade cryptocurrencies – Liquid offers all that and more.\
 Choose a currency, Or even better, currencies. If you’re new to the market, you may want to invest in one of the better-known currencies with a high market cap, such as Bitcoin, Ethereum, Bitcoin Cash or XRP.
 
 \
-**Things to keep in mind**:As you consider your strategy, there are several key things to keep in mind about the cryptocurrency market.The market is highly volatile\
+**Things to keep inmind**: As you consider your strategy, there are several key things to keep in mind about the cryptocurrency market. The market is highly volatile\
 It’s common to see swings of 20-30% in a coin’s value in a matter of days.\
 Blockchain technology is new and evolving.A factor that drives the volatility of the crypto market is the fact that the technology behind it – blockchain – is new and changing.As the value of the technology to industries outside of the cryptocurrency marketplace increases, so does the value of currency.
 
@@ -18,3 +18,15 @@ Blockchain technology is new and evolving.A factor that drives the volatility of
 Only invest money you can afford to lose
 
 Currency values go up and down quickly. Blockchains and cryptocurrencies can be affected by hacks and bugs that decrease in value in unforeseen ways. The traditional stock market has swings, but if you hold your positions and make good decisions, it is rare to see major losses over time. But with cryptocurrency, the risk of losing money is much higher. Play it safe.
+
+
+
+## Do your own research: #DYOR
+
+This goes with any sort of investing, but it is particularly important for cryptocurrency. Research the currencies you’re considering buying to make sure they meet your investment goals, while also being companies whose mission you support. Remember, an investment in a cryptocurrency is an investment in the company that generates it, as well as an investment in blockchain technology.
+
+
+
+## Avoid FOMO (Fear of Missing Out)
+
+There's a lot of hype around cryptocurrencies. This can lead to people buying coins at a high price, only to lose money if the currency’s value drops. Don’t invest in a currency just because there’s a huge buzz around it.
