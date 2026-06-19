@@ -7,7 +7,7 @@
 ***
 
 * [🥂 FunPump Roadmap](funpump-roadmap.md)
-* [Macro Strategy Mentorship Program](macro-strategy-mentorship-program.md)
+* [FunPump Mentorship Program](funpump-mentorship-program.md)
 
 ## HopiumSwap
 
