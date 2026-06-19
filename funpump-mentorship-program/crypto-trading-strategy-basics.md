@@ -60,3 +60,23 @@ When using a long-term trading strategy for investing in the stock market, a per
 
 ## Short-Term Trading
 
+Short-term trading takes the opposite approach to long-term trading. It aims to generate a return on an investment in a short period of time. Ideally, you invest, the price goes up, you sell for profit.
+
+
+
+## Technical Analysis
+
+Technical Analysis is a method of analyzing a currency by researching factors related to values of similar assets in the past and current marketplace by historical volume and price data.\
+Basically, it’s an approach built on the idea that the past will predict the future, so it uses past performances of an asset to predict how a stock will perform in the future.\
+You can do technical analysis on Liquid by using the range of charting tools available.
+
+
+
+## Fundamental Analysis
+
+Fundamental analysis aims to identify the value of a currency based on fundamentals of the project.\
+The challenge with applying fundamental analysis to cryptocurrencies is that cryptocurrencies are not corporations. They do not have public financial statements. Their viability depends on the strength of the community in the network.\
+You can begin fundamental analysis by seeking our a projects whitepaper, which will outline goals and functionality. You can also look for content on the cryptocurrency’s blog or other community forums, like Reddit.\
+Developing a strategy for investing in cryptocurrency does not guarantee success. You need to stay up-to-date on the changing market and any relevant news, implement your strategy on a regular basis, and be sure you make the best, most informed decisions possible.\
+Good luck, trader.&#x20;
+
