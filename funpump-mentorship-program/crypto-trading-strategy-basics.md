@@ -11,3 +11,10 @@ Choose a currency, Or even better, currencies. If you’re new to the market, yo
 It’s common to see swings of 20-30% in a coin’s value in a matter of days.\
 Blockchain technology is new and evolving.A factor that drives the volatility of the crypto market is the fact that the technology behind it – blockchain – is new and changing.As the value of the technology to industries outside of the cryptocurrency marketplace increases, so does the value of currency.
 
+
+
+## **Getting Started**
+
+Only invest money you can afford to lose
+
+Currency values go up and down quickly. Blockchains and cryptocurrencies can be affected by hacks and bugs that decrease in value in unforeseen ways. The traditional stock market has swings, but if you hold your positions and make good decisions, it is rare to see major losses over time. But with cryptocurrency, the risk of losing money is much higher. Play it safe.
