@@ -17,7 +17,7 @@ FQ PERSONAL TRADING TECHNIQUES
 ⦁ GENERAL SWING STRATEGY\
 ⦁ GANN THEORY
 
-<figure><img src=".gitbook/assets/photo_2026-06-16_17-30-18.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/photo_2026-06-16_17-30-18.jpg" alt=""><figcaption></figcaption></figure>
 
 “**You have to trust your trading system. You have to trust your set-up; you have to trust your money management and you have to trust your exit strategy. If you don't, you're likely to change your system before it has had a chance to prove itself.**”
 

@@ -7,7 +7,8 @@
 ***
 
 * [🥂 FunPump Roadmap](funpump-roadmap.md)
-* [FunPump Mentorship Program](funpump-mentorship-program.md)
+* [FunPump Mentorship Program](funpump-mentorship-program/README.md)
+  * [🚀 Crypto Trading Strategy Basics](funpump-mentorship-program/crypto-trading-strategy-basics.md)
 
 ## HopiumSwap
 
