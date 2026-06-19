@@ -49,7 +49,7 @@ If you watch the cryptocurrency market closely, you’ll see that values can inc
 
 A stop-loss is when you set a determined price at which you would sell a currency if it drops in value, useful for protecting your trades.
 
-##
+
 
 Trading Points&#x20;Long-Lerm Trading
 -----------------------
