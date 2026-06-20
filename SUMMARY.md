@@ -4,6 +4,10 @@
 
 * [🚨FunPump The Ultimate Token Launchpad](README.md)
 
+## 😲 Hiring Information
+
+* [Extensive Learning Process](hiring-information/extensive-learning-process.md)
+
 ***
 
 * [🥂 FunPump Roadmap](funpump-roadmap.md)

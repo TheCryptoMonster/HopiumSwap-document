@@ -1,0 +1,25 @@
+---
+description: >-
+  Everyone FunPump hires will be trained, so we can build the best team possible
+  and help build FunPump into the best crypto platform in crypto.
+---
+
+# Extensive Learning Process
+
+**Coming Soon!**
+
+CONTENT\
+FQ PERSONAL TRADING TECHNIQUES
+
+⦁ PATTERN RECOGNITION (BASIC – ADVANCED)\
+⦁ STRATEGY BACKTESTING (SCALPING)\
+⦁ TREND AND MOMENTUM/STRENGTH OSCILLATORS\
+⦁ MACD SCIENCE-ANALYSIS\
+⦁ FIBONACCI SCIENCE\
+⦁ FIBONACCI STRATEGY FOR CRYPTO AND FOREX\
+⦁ PERSONAL STRENGTH PATTERN RECOGNITION\
+⦁ HARMONICS\
+⦁ ELLIOT WAVES-MARKET MACRO STRUCTURE ANALYSIS\
+⦁ GENERAL SWING STRATEGY\
+⦁ GANN THEORY
+
